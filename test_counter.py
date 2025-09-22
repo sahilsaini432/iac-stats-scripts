@@ -268,41 +268,19 @@ class TestFileCounter:
 
         for category, files in sorted_categories:
             count = len(files)
-            total_size = sum(f["size"] for f in files)
             percentage = (count / self.total_test_files) * 100
 
             print(f"🧪 {category}")
             print(f"   Files: {count} ({percentage:.1f}%)")
-            print(f"   Total Size: {self._format_size(total_size)}")
-
-            # Show file paths (limit to first 10 for readability)
-            for i, file_info in enumerate(files[:10]):
-                print(f"   📄 {file_info['path']}")
-
-            if len(files) > 10:
-                print(f"   ... and {len(files) - 10} more files")
             print()
-
-    def _format_size(self, size_bytes):
-        """Format file size in human readable format."""
-        if size_bytes == 0:
-            return "0 B"
-
-        for unit in ["B", "KB", "MB", "GB"]:
-            if size_bytes < 1024.0:
-                return f"{size_bytes:.1f} {unit}"
-            size_bytes /= 1024.0
-        return f"{size_bytes:.1f} TB"
 
     def export_json(self, output_file, source_info=""):
         """Export results to JSON file."""
-        test_percentage = (self.total_test_files / self.total_files_scanned) * 100 if self.total_files_scanned > 0 else 0
         
         results = {
             "source": source_info,
             "total_files_scanned": self.total_files_scanned,
             "total_test_files": self.total_test_files,
-            "test_coverage_percentage": round(test_percentage, 1),
             "categories": {},
         }
 
@@ -345,17 +323,11 @@ Examples:
     source_info = ""
 
     try:
-        # Check if source is a GitHub URL or local directory
-        if counter.is_github_url(args.source) or ("/" in args.source and not os.path.exists(args.source)):
-            # Clone repository
-            source_info = args.source
-            directory = counter.clone_repository(args.source)
-            if directory is None:
-                return 1
-        else:
-            # Use local directory
-            directory = args.source
-            source_info = f"Local directory: {os.path.abspath(directory)}"
+        # Clone repository
+        source_info = args.source
+        directory = counter.clone_repository(args.source)
+        if directory is None:
+            return 1
 
         # Scan the directory
         counter.scan_directory(directory)
