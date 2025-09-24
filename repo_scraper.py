@@ -7,21 +7,113 @@ import re
 import os
 from pprint import pprint as _print
 
+class GitHubFileClassifier:
+    def __init__(self):
+        self.file_patterns = {
+            'Development': {
+                'extensions': ['.js', '.ts', '.jsx', '.tsx', '.py', '.java', '.cpp', '.c', '.h', '.cs', 
+                             '.php', '.rb', '.go', '.rs', '.kt', '.swift', '.scala', '.clj', '.hs', '.ml', 
+                             '.r', '.m', '.sql', '.html', '.css', '.scss', '.sass', '.less', '.vue', '.svelte'],
+                'paths': ['src/', 'lib/', 'app/', 'components/', 'pages/', 'views/', 'controllers/', 
+                         'models/', 'services/', 'utils/', 'helpers/', 'core/', 'common/', 'shared/'],
+                'filenames': ['index.js', 'main.js', 'app.js', 'server.js', 'client.js', 'index.ts', 
+                            'main.ts', 'app.py', 'main.py', '__init__.py']
+            },
+            
+            'Test': {
+                'extensions': ['.test.js', '.test.ts', '.spec.js', '.spec.ts', '.test.py', '.spec.py'],
+                'paths': ['test/', 'tests/', '__tests__/', 'spec/', 'specs/', '.pytest_cache/', 
+                         'cypress/', 'e2e/', 'testing/'],
+                'filenames': ['jest.config.js', 'jest.config.json', 'pytest.ini', 'conftest.py', 
+                            'karma.conf.js', 'protractor.conf.js', 'cypress.json'],
+                'keywords': ['test', 'spec', 'mock', 'fixture', 'coverage']
+            },
+            
+            'Build': {
+                'extensions': ['.json', '.xml', '.yml', '.yaml', '.toml', '.ini', '.cfg', '.conf'],
+                'paths': ['build/', 'dist/', 'out/', 'target/', 'bin/', 'release/', 'scripts/', 
+                         'tools/', 'config/', 'configs/'],
+                'filenames': [
+                    'package.json', 'package-lock.json', 'yarn.lock', 'pnpm-lock.yaml',
+                    'Makefile', 'makefile', 'CMakeLists.txt', 'build.gradle', 'pom.xml',
+                    'setup.py', 'setup.cfg', 'pyproject.toml', 'requirements.txt', 'Pipfile', 'poetry.lock',
+                    'Cargo.toml', 'Cargo.lock', 'go.mod', 'go.sum',
+                    'webpack.config.js', 'rollup.config.js', 'vite.config.js', 'tsconfig.json',
+                    'babel.config.js', '.babelrc', '.eslintrc.js', '.eslintrc.json', 'prettier.config.js',
+                    'gulpfile.js', 'gruntfile.js', 'build.xml', 'build.yml', 'build.yaml'
+                ]
+            },
+            
+            'Infrastructure': {
+                'extensions': ['.dockerfile', '.tf', '.hcl', '.sh', '.bat', '.ps1', '.cmd'],
+                'paths': ['docker/', 'k8s/', 'kubernetes/', 'terraform/', 'ansible/', 'puppet/', 
+                         'chef/', 'vagrant/', 'helm/', 'deploy/', 'deployment/', 'infra/', 
+                         'infrastructure/', 'ops/', 'devops/', '.github/', '.gitlab/', 'ci/', '.circleci/'],
+                'filenames': [
+                    'Dockerfile', 'docker-compose.yml', 'docker-compose.yaml',
+                    'Vagrantfile', 'Jenkinsfile', 'Procfile', 'Heroku.yml',
+                    '.travis.yml', '.gitlab-ci.yml', 'azure-pipelines.yml',
+                    'terraform.tf', 'main.tf', 'variables.tf', 'outputs.tf',
+                    'ansible.yml', 'playbook.yml', 'inventory.ini',
+                    'nginx.conf', 'httpd.conf', 'apache.conf',
+                    'kubernetes.yml', 'k8s.yml', 'deployment.yml', 'service.yml',
+                    'helm-chart.yml', 'values.yml'
+                ]
+            }
+        }
+
+    def classify_file(self, filepath):
+        """Classify a single file into one of the four categories"""
+        filename = filepath.split('/')[-1]
+        path_lower = filepath.lower()
+        filename_lower = filename.lower()
+        
+        for category, patterns in self.file_patterns.items():
+            # Check file extensions
+            if 'extensions' in patterns:
+                for ext in patterns['extensions']:
+                    if filepath.endswith(ext):
+                        return category
+            
+            # Check path patterns
+            if 'paths' in patterns:
+                for path_pattern in patterns['paths']:
+                    if path_pattern in path_lower:
+                        return category
+            
+            # Check specific filenames
+            if 'filenames' in patterns:
+                for pattern in patterns['filenames']:
+                    if '*' in pattern:
+                        # Handle wildcard patterns
+                        import fnmatch
+                        if fnmatch.fnmatch(filename_lower, pattern.lower()):
+                            return category
+                    elif filename_lower == pattern.lower():
+                        return category
+            
+            # Check keywords
+            if 'keywords' in patterns:
+                for keyword in patterns['keywords']:
+                    if keyword in filename_lower or keyword in path_lower:
+                        return category
+        
+        # Default to development if no other category matches
+        return 'development'
+
 class FileData:
     def __init__(self, fileinfo):
         self.filename = fileinfo["filename"]
         self.additions = fileinfo["additions"]
         self.deletions = fileinfo["deletions"]
-        self.changes = fileinfo["changes"]
-        self.status = fileinfo["status"]
+        self.category = None
         
-    def to_dict(self):
+    def to_dict(self, GitHubFileClassifier):
+        total_lines_changed = self.additions + self.deletions
         return {
             "filename": self.filename,
-            "additions": self.additions,
-            "deletions": self.deletions,
-            "changes": self.changes,
-            "status": self.status
+            "lines_changed": total_lines_changed,
+            "category": GitHubFileClassifier.classify_file(self.filename)
         }
 
 class CommitData:
@@ -136,13 +228,13 @@ def get_commit_changed_files(owner, repo, sha):
     headers["Authorization"] = f"token {GITHUB_TOKEN}"
     
     url = f"https://api.github.com/repos/{owner}/{repo}/commits/{sha}"
-    
+    githubClassifier = GitHubFileClassifier()
     try:
         resp = requests.get(url, headers=headers)
         if resp.status_code == 200:
             commit_data = resp.json()
             files_info = commit_data.get("files", [])
-            files_changed = [FileData(fileinfo).to_dict() for fileinfo in files_info]
+            files_changed = [FileData(fileinfo).to_dict(githubClassifier) for fileinfo in files_info]
             return files_changed
         else:
             print(f"❌ Failed to fetch commit {sha}: {resp.status_code} - {resp.text}")
@@ -173,8 +265,6 @@ def main():
     try:
         # Parse the repository URL
         owner, repo = parse_github_url(args.repository)
-        print(f"🔍 Analyzing contributors for: {owner}/{repo}")
-        
         get_all_commits(owner, repo)
     except ValueError as e:
         print(f"❌ Error: {e}")
