@@ -5,7 +5,8 @@ import argparse
 from dotenv import load_dotenv
 import re
 import os
-from pprint import pprint as _print
+from tqdm import tqdm
+
 
 class GitHubFileClassifier:
     def __init__(self):
@@ -210,7 +211,7 @@ def get_all_commits(owner, repo):
     print("Processing commit data...")
     # all commits are fetched
     data_we_need = {}
-    for commit in all_commits:
+    for commit in tqdm(all_commits):
         commit_obj = CommitData(commit)
         
         # get all the files changed in this commit

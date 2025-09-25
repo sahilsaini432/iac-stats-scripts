@@ -2,7 +2,7 @@ import sys
 import subprocess
 import platform
 
-libraries = ["requests", "dotenv", "pathlib", "argparse"]
+libraries = ["requests", "dotenv", "pathlib", "argparse", "tqdm"]
 
 print("Installing required libraries...")
 print()
