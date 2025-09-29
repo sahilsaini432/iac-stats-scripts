@@ -373,6 +373,7 @@ def get_all_commits(owner, repo):
         files_changed = get_commit_changed_files(owner, repo, commit_obj.sha)
         commit_obj.Files = files_changed
         data_we_need[commit_obj.sha] = commit_obj.to_dict()
+        time.sleep(3)
 
     # Write the processed data to a JSON file
     write_data_to_json(data_we_need, f"{repo}.json")
@@ -401,14 +402,14 @@ def get_commit_changed_files(owner, repo, sha):
                 wait_time = int(resp.headers["retry-after"])
                 print(f"Waiting for {wait_time} seconds before retrying.")
                 time.sleep(wait_time)
-                get_commit_changed_files(owner, repo, sha)
+                return get_commit_changed_files(owner, repo, sha)
             elif "X-RateLimit-Reset" in resp.headers:
                 reset_timestamp = int(resp.headers["X-RateLimit-Reset"])
                 wait_time = reset_timestamp - time.time()
                 if wait_time > 0:
                     print(f"Primary rate limit exceeded. Waiting for {wait_time} sec")
                     time.sleep(wait_time)
-                    get_commit_changed_files(owner, repo, sha)
+                    return get_commit_changed_files(owner, repo, sha)
         else:
             print(f"❌ Failed to fetch commit {sha}: {resp.status_code} - {resp.text}")
             return None
