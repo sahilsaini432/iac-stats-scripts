@@ -1,0 +1,1370 @@
+{
+  "d8017c93caccb7bf3492de0546e65d2e3c1e3f38": {
+    "sha": "d8017c93caccb7bf3492de0546e65d2e3c1e3f38",
+    "Author": "nwiizo",
+    "Date": "2025-06-14T02:38:17Z",
+    "Files": [
+      {
+        "filename": "Cargo.lock",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "RELEASE_NOTES_v0.1.5.md",
+        "lines_changed": 64,
+        "category": "development"
+      }
+    ]
+  },
+  "49f3022685780729c63352c26bc3f986c8c41e1b": {
+    "sha": "49f3022685780729c63352c26bc3f986c8c41e1b",
+    "Author": "nwiizo",
+    "Date": "2025-06-08T06:32:17Z",
+    "Files": [
+      {
+        "filename": "CLAUDE.md",
+        "lines_changed": 2,
+        "category": "development"
+      }
+    ]
+  },
+  "185074fbc11a2326123821956807c774fc7b87fe": {
+    "sha": "185074fbc11a2326123821956807c774fc7b87fe",
+    "Author": "nwiizo",
+    "Date": "2025-06-08T06:28:59Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/rust.yml",
+        "lines_changed": 7,
+        "category": "Build"
+      },
+      {
+        "filename": "CLAUDE.md",
+        "lines_changed": 80,
+        "category": "development"
+      }
+    ]
+  },
+  "8050a2216ba12bad499ade0c52de97354c207fa0": {
+    "sha": "8050a2216ba12bad499ade0c52de97354c207fa0",
+    "Author": "nwiizo",
+    "Date": "2025-06-08T06:25:21Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/rust.yml",
+        "lines_changed": 5,
+        "category": "Build"
+      },
+      {
+        "filename": "tests/mcp_integration.rs",
+        "lines_changed": 12,
+        "category": "Development"
+      }
+    ]
+  },
+  "fbc63dcd08064e3f57ce833f440d1a6c9466f8a4": {
+    "sha": "fbc63dcd08064e3f57ce833f440d1a6c9466f8a4",
+    "Author": "nwiizo",
+    "Date": "2025-06-08T06:22:06Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/rust.yml",
+        "lines_changed": 6,
+        "category": "Build"
+      },
+      {
+        "filename": "tests/mcp_integration.rs",
+        "lines_changed": 6,
+        "category": "Development"
+      }
+    ]
+  },
+  "e1883ce6a5314c809758b3b917c6066cffbaf079": {
+    "sha": "e1883ce6a5314c809758b3b917c6066cffbaf079",
+    "Author": "nwiizo",
+    "Date": "2025-06-08T06:18:15Z",
+    "Files": [
+      {
+        "filename": "tests/mcp_integration.rs",
+        "lines_changed": 219,
+        "category": "Development"
+      }
+    ]
+  },
+  "387f75521a6c233a830cf04593c2fe045eecf1f4": {
+    "sha": "387f75521a6c233a830cf04593c2fe045eecf1f4",
+    "Author": "nwiizo",
+    "Date": "2025-06-08T05:26:51Z",
+    "Files": [
+      {
+        "filename": "CLAUDE.md",
+        "lines_changed": 111,
+        "category": "development"
+      },
+      {
+        "filename": "package-lock.json",
+        "lines_changed": 487,
+        "category": "Build"
+      },
+      {
+        "filename": "package.json",
+        "lines_changed": 11,
+        "category": "Build"
+      },
+      {
+        "filename": "rules/README.md",
+        "lines_changed": 51,
+        "category": "development"
+      },
+      {
+        "filename": "rules/general/000_init.md",
+        "lines_changed": 21,
+        "category": "development"
+      },
+      {
+        "filename": "rules/mcp/000_protocol.md",
+        "lines_changed": 25,
+        "category": "development"
+      },
+      {
+        "filename": "rules/rust/000_coding_style.md",
+        "lines_changed": 26,
+        "category": "development"
+      },
+      {
+        "filename": "rules/rust/001_architecture.md",
+        "lines_changed": 29,
+        "category": "development"
+      },
+      {
+        "filename": "rules/terraform/000_terraform_standards.md",
+        "lines_changed": 29,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "scripts/build_mdc.js",
+        "lines_changed": 133,
+        "category": "Development"
+      },
+      {
+        "filename": "tests/mcp_integration.rs",
+        "lines_changed": 1,
+        "category": "Development"
+      }
+    ]
+  },
+  "04df5e9b031045faa81437095c7de06eebe7f4f6": {
+    "sha": "04df5e9b031045faa81437095c7de06eebe7f4f6",
+    "Author": "nwiizo",
+    "Date": "2025-06-08T05:22:12Z",
+    "Files": [
+      {
+        "filename": "CLAUDE.md",
+        "lines_changed": 80,
+        "category": "development"
+      },
+      {
+        "filename": "Cargo.lock",
+        "lines_changed": 71,
+        "category": "Build"
+      },
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": "src/core/tfmcp.rs",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "src/formatters/output.rs",
+        "lines_changed": 1,
+        "category": "Development"
+      },
+      {
+        "filename": "src/lib.rs",
+        "lines_changed": 8,
+        "category": "Development"
+      },
+      {
+        "filename": "src/main.rs",
+        "lines_changed": 8,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/handler.rs",
+        "lines_changed": 78,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/stdio.rs",
+        "lines_changed": 21,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/batch.rs",
+        "lines_changed": 65,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/cache.rs",
+        "lines_changed": 7,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/client.rs",
+        "lines_changed": 352,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/fallback.rs",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/provider.rs",
+        "lines_changed": 62,
+        "category": "Development"
+      },
+      {
+        "filename": "tests/compilation.rs",
+        "lines_changed": 130,
+        "category": "Development"
+      },
+      {
+        "filename": "tests/integration_tests.rs",
+        "lines_changed": 128,
+        "category": "Development"
+      },
+      {
+        "filename": "tests/mcp_integration.rs",
+        "lines_changed": 125,
+        "category": "Development"
+      }
+    ]
+  },
+  "cf9d9f6df23e89d9f45bc7e8899c8de159d965e0": {
+    "sha": "cf9d9f6df23e89d9f45bc7e8899c8de159d965e0",
+    "Author": "nwiizo",
+    "Date": "2025-06-08T05:13:09Z",
+    "Files": [
+      {
+        "filename": "Cargo.lock",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "RELEASE_NOTES_v0.1.4.md",
+        "lines_changed": 108,
+        "category": "development"
+      },
+      {
+        "filename": "src/formatters/output.rs",
+        "lines_changed": 8,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/error_handling.rs",
+        "lines_changed": 126,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/handler_refactored.rs",
+        "lines_changed": 307,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/messages/handler.rs",
+        "lines_changed": 86,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/messages/mod.rs",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/mod.rs",
+        "lines_changed": 5,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/resources/handler.rs",
+        "lines_changed": 51,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/resources/mod.rs",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/tools/definitions.rs",
+        "lines_changed": 444,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/tools/mod.rs",
+        "lines_changed": 9,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/tools/registry.rs",
+        "lines_changed": 301,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/tools/security.rs",
+        "lines_changed": 94,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/tools/terraform.rs",
+        "lines_changed": 435,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/client.rs",
+        "lines_changed": 66,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/mod.rs",
+        "lines_changed": 1,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/parser_safe.rs",
+        "lines_changed": 276,
+        "category": "Development"
+      },
+      {
+        "filename": "tests/integration_tests.rs",
+        "lines_changed": 8,
+        "category": "Development"
+      }
+    ]
+  },
+  "048747e93a78def3c8c7b4f4f569920b54b05baf": {
+    "sha": "048747e93a78def3c8c7b4f4f569920b54b05baf",
+    "Author": "nwiizo",
+    "Date": "2025-06-07T09:16:14Z",
+    "Files": [
+      {
+        "filename": "src/mcp/error_handling.rs",
+        "lines_changed": 126,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/handler_refactored.rs",
+        "lines_changed": 307,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/messages/handler.rs",
+        "lines_changed": 86,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/messages/mod.rs",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/mod.rs",
+        "lines_changed": 5,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/resources/handler.rs",
+        "lines_changed": 51,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/resources/mod.rs",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/stdio.rs",
+        "lines_changed": 62,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/tools/definitions.rs",
+        "lines_changed": 444,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/tools/mod.rs",
+        "lines_changed": 9,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/tools/registry.rs",
+        "lines_changed": 301,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/tools/security.rs",
+        "lines_changed": 94,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/tools/terraform.rs",
+        "lines_changed": 435,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/mod.rs",
+        "lines_changed": 1,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/parser_safe.rs",
+        "lines_changed": 276,
+        "category": "Development"
+      }
+    ]
+  },
+  "fd632fba56d1fef572bcc7d3c121a8780b0c5398": {
+    "sha": "fd632fba56d1fef572bcc7d3c121a8780b0c5398",
+    "Author": "nwiizo",
+    "Date": "2025-06-07T09:08:29Z",
+    "Files": [
+      {
+        "filename": "CLAUDE.md",
+        "lines_changed": 250,
+        "category": "development"
+      },
+      {
+        "filename": "Cargo.lock",
+        "lines_changed": 143,
+        "category": "Build"
+      },
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 7,
+        "category": "Build"
+      },
+      {
+        "filename": "Release.sh",
+        "lines_changed": 109,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "main.tf",
+        "lines_changed": 14,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "src/core/tfmcp.rs",
+        "lines_changed": 5,
+        "category": "Development"
+      },
+      {
+        "filename": "src/formatters/mod.rs",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "src/formatters/output.rs",
+        "lines_changed": 325,
+        "category": "Development"
+      },
+      {
+        "filename": "src/lib.rs",
+        "lines_changed": 59,
+        "category": "Development"
+      },
+      {
+        "filename": "src/main.rs",
+        "lines_changed": 30,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/handler.rs",
+        "lines_changed": 386,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/stdio.rs",
+        "lines_changed": 60,
+        "category": "Development"
+      },
+      {
+        "filename": "src/prompts/builder.rs",
+        "lines_changed": 286,
+        "category": "Development"
+      },
+      {
+        "filename": "src/prompts/descriptions.rs",
+        "lines_changed": 381,
+        "category": "Development"
+      },
+      {
+        "filename": "src/prompts/mod.rs",
+        "lines_changed": 4,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/batch.rs",
+        "lines_changed": 283,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/cache.rs",
+        "lines_changed": 184,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/client.rs",
+        "lines_changed": 688,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/fallback.rs",
+        "lines_changed": 255,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/mod.rs",
+        "lines_changed": 5,
+        "category": "Development"
+      },
+      {
+        "filename": "src/registry/provider.rs",
+        "lines_changed": 189,
+        "category": "Development"
+      },
+      {
+        "filename": "tests/compilation.rs",
+        "lines_changed": 223,
+        "category": "Development"
+      },
+      {
+        "filename": "tests/integration_tests.rs",
+        "lines_changed": 311,
+        "category": "Development"
+      },
+      {
+        "filename": "tests/mcp_integration.rs",
+        "lines_changed": 267,
+        "category": "Development"
+      }
+    ]
+  },
+  "653cde78c1d1997082268bc82fd3f0d6400e5eef": {
+    "sha": "653cde78c1d1997082268bc82fd3f0d6400e5eef",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T07:14:34Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 79,
+        "category": "development"
+      }
+    ]
+  },
+  "bd626809d4e825bacd3b213295a1974c7c1274b9": {
+    "sha": "bd626809d4e825bacd3b213295a1974c7c1274b9",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T06:18:44Z",
+    "Files": [
+      {
+        "filename": ".gitignore",
+        "lines_changed": 5,
+        "category": "development"
+      },
+      {
+        "filename": "terraform/main.tf",
+        "lines_changed": 14,
+        "category": "Infrastructure"
+      }
+    ]
+  },
+  "9dea500fb8941ee93b40301690a205130ee7ac3e": {
+    "sha": "9dea500fb8941ee93b40301690a205130ee7ac3e",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T06:18:18Z",
+    "Files": [
+      {
+        "filename": ".cursor/rules/000_general.mdc",
+        "lines_changed": 28,
+        "category": "development"
+      },
+      {
+        "filename": ".cursor/rules/001_rust.mdc",
+        "lines_changed": 63,
+        "category": "development"
+      },
+      {
+        "filename": ".cursor/rules/002_terraform.mdc",
+        "lines_changed": 36,
+        "category": "development"
+      },
+      {
+        "filename": ".cursor/rules/003_mcp.mdc",
+        "lines_changed": 32,
+        "category": "development"
+      }
+    ]
+  },
+  "407b908bd0b072dfc9586c9dfa8a5c1ab1801188": {
+    "sha": "407b908bd0b072dfc9586c9dfa8a5c1ab1801188",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T06:18:08Z",
+    "Files": [
+      {
+        "filename": "package-lock.json",
+        "lines_changed": 487,
+        "category": "Build"
+      },
+      {
+        "filename": "package.json",
+        "lines_changed": 11,
+        "category": "Build"
+      },
+      {
+        "filename": "scripts/build_mdc.js",
+        "lines_changed": 133,
+        "category": "Development"
+      }
+    ]
+  },
+  "c55979f36b4514aa67c9a8cd5d51667de389fdf9": {
+    "sha": "c55979f36b4514aa67c9a8cd5d51667de389fdf9",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T06:17:53Z",
+    "Files": [
+      {
+        "filename": "Release.sh",
+        "lines_changed": 0,
+        "category": "Infrastructure"
+      }
+    ]
+  },
+  "26711d94344f32bdbd246f25062d30b7db952433": {
+    "sha": "26711d94344f32bdbd246f25062d30b7db952433",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T06:07:51Z",
+    "Files": [
+      {
+        "filename": "Cargo.lock",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "src/mcp/handler.rs",
+        "lines_changed": 67,
+        "category": "Development"
+      },
+      {
+        "filename": "src/shared/mod.rs",
+        "lines_changed": 1,
+        "category": "Development"
+      },
+      {
+        "filename": "src/shared/security.rs",
+        "lines_changed": 399,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/service.rs",
+        "lines_changed": 117,
+        "category": "Development"
+      }
+    ]
+  },
+  "fd7f1bbcf7ea1fa71f87613f72df8dcd64e7c741": {
+    "sha": "fd7f1bbcf7ea1fa71f87613f72df8dcd64e7c741",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T05:46:07Z",
+    "Files": [
+      {
+        "filename": ".gitignore",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "Cargo.lock",
+        "lines_changed": 2031,
+        "category": "Build"
+      }
+    ]
+  },
+  "1f010c3677237e0175bd342f67d3c6dbdbf8105b": {
+    "sha": "1f010c3677237e0175bd342f67d3c6dbdbf8105b",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T04:46:06Z",
+    "Files": [
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "4a4e160ba5fdbb9951ffb5d27d62c67837dfb49d": {
+    "sha": "4a4e160ba5fdbb9951ffb5d27d62c67837dfb49d",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T04:39:55Z",
+    "Files": [
+      {
+        "filename": "src/core/tfmcp.rs",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/parser.rs",
+        "lines_changed": 56,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/service.rs",
+        "lines_changed": 11,
+        "category": "Development"
+      }
+    ]
+  },
+  "3012423bd7e84781da33f0a90b151812d2b6c233": {
+    "sha": "3012423bd7e84781da33f0a90b151812d2b6c233",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T04:21:36Z",
+    "Files": [
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": "src/core/tfmcp.rs",
+        "lines_changed": 14,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/handler.rs",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/mod.rs",
+        "lines_changed": 1,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/parser.rs",
+        "lines_changed": 338,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/service.rs",
+        "lines_changed": 456,
+        "category": "Development"
+      }
+    ]
+  },
+  "8b7e9adac763c347fd9ea9a87d64f1bffeebe28d": {
+    "sha": "8b7e9adac763c347fd9ea9a87d64f1bffeebe28d",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T04:05:10Z",
+    "Files": [
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "f320bd86b02585fa42814846aea85ab4b5f90d83": {
+    "sha": "f320bd86b02585fa42814846aea85ab4b5f90d83",
+    "Author": "nwiizo",
+    "Date": "2025-05-30T04:04:42Z",
+    "Files": [
+      {
+        "filename": "src/core/tfmcp.rs",
+        "lines_changed": 10,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/handler.rs",
+        "lines_changed": 124,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/model.rs",
+        "lines_changed": 69,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/service.rs",
+        "lines_changed": 186,
+        "category": "Development"
+      }
+    ]
+  },
+  "6fbb885a2c7868ec2d7efe8b1c2a3a774d46d6e6": {
+    "sha": "6fbb885a2c7868ec2d7efe8b1c2a3a774d46d6e6",
+    "Author": "nwiizo",
+    "Date": "2025-05-22T11:38:21Z",
+    "Files": [
+      {
+        "filename": "Dockerfile",
+        "lines_changed": 4,
+        "category": "Infrastructure"
+      }
+    ]
+  },
+  "3c7cbc471e299cda14f8a64b3ee1b7543af9a844": {
+    "sha": "3c7cbc471e299cda14f8a64b3ee1b7543af9a844",
+    "Author": "nwiizo",
+    "Date": "2025-05-22T11:36:54Z",
+    "Files": [
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": "src/core/tfmcp.rs",
+        "lines_changed": 25,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/service.rs",
+        "lines_changed": 2,
+        "category": "Development"
+      }
+    ]
+  },
+  "feb72975ba0163d7156d303bbf253ea9597c21bd": {
+    "sha": "feb72975ba0163d7156d303bbf253ea9597c21bd",
+    "Author": "nwiizo",
+    "Date": "2025-04-25T02:33:15Z",
+    "Files": [
+      {
+        "filename": ".dockerignore",
+        "lines_changed": 35,
+        "category": "development"
+      },
+      {
+        "filename": "Dockerfile",
+        "lines_changed": 69,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "README.md",
+        "lines_changed": 61,
+        "category": "development"
+      }
+    ]
+  },
+  "94903664df2d4038c7e95eb90e2a3237bfdcd2dd": {
+    "sha": "94903664df2d4038c7e95eb90e2a3237bfdcd2dd",
+    "Author": "Rui Chen",
+    "Date": "2025-03-12T14:27:14Z",
+    "Files": [
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 3,
+        "category": "Build"
+      }
+    ]
+  },
+  "9e27ef3a70337da8eae56644ea8c2db833a4fba5": {
+    "sha": "9e27ef3a70337da8eae56644ea8c2db833a4fba5",
+    "Author": "Rui Chen",
+    "Date": "2025-03-12T14:14:17Z",
+    "Files": [
+      {
+        "filename": "src/core/tfmcp.rs",
+        "lines_changed": 25,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/service.rs",
+        "lines_changed": 2,
+        "category": "Development"
+      }
+    ]
+  },
+  "b0fcc5c32f4bf0a71f373dd18891ce9faf36f09b": {
+    "sha": "b0fcc5c32f4bf0a71f373dd18891ce9faf36f09b",
+    "Author": "nwiizo",
+    "Date": "2025-03-09T01:23:19Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      }
+    ]
+  },
+  "6581651b970375c4929dce18dcc6edc33268baf1": {
+    "sha": "6581651b970375c4929dce18dcc6edc33268baf1",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T23:10:23Z",
+    "Files": [
+      {
+        "filename": "src/shared/utils/path.rs",
+        "lines_changed": 4,
+        "category": "Development"
+      }
+    ]
+  },
+  "b7acff2dfa42b8e5c724246fd897bf12bccf26a5": {
+    "sha": "b7acff2dfa42b8e5c724246fd897bf12bccf26a5",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T17:13:02Z",
+    "Files": [
+      {
+        "filename": "src/shared/utils/path.rs",
+        "lines_changed": 19,
+        "category": "Development"
+      }
+    ]
+  },
+  "9c021fad87e053b2b0e2b1a58ef14dfa8dc927fd": {
+    "sha": "9c021fad87e053b2b0e2b1a58ef14dfa8dc927fd",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T17:11:12Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/rust.yml",
+        "lines_changed": 12,
+        "category": "Build"
+      }
+    ]
+  },
+  "2e78eb7d37bd47baae328fef071dfdec12ad403e": {
+    "sha": "2e78eb7d37bd47baae328fef071dfdec12ad403e",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T17:08:21Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/rust.yml",
+        "lines_changed": 31,
+        "category": "Build"
+      }
+    ]
+  },
+  "b566ec77aff49fc0844bb2fec5229ea69a7cf7fb": {
+    "sha": "b566ec77aff49fc0844bb2fec5229ea69a7cf7fb",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T16:27:15Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/rust.yml",
+        "lines_changed": 140,
+        "category": "Build"
+      }
+    ]
+  },
+  "c8a2da38edc2c0f02ff29ff07d791e4c3068d26b": {
+    "sha": "c8a2da38edc2c0f02ff29ff07d791e4c3068d26b",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T16:22:51Z",
+    "Files": [
+      {
+        "filename": "rules/README.md",
+        "lines_changed": 51,
+        "category": "development"
+      },
+      {
+        "filename": "rules/general/000_init.md",
+        "lines_changed": 21,
+        "category": "development"
+      },
+      {
+        "filename": "rules/mcp/000_protocol.md",
+        "lines_changed": 25,
+        "category": "development"
+      },
+      {
+        "filename": "rules/rust/000_coding_style.md",
+        "lines_changed": 26,
+        "category": "development"
+      },
+      {
+        "filename": "rules/rust/001_architecture.md",
+        "lines_changed": 29,
+        "category": "development"
+      },
+      {
+        "filename": "rules/terraform/000_terraform_standards.md",
+        "lines_changed": 29,
+        "category": "Infrastructure"
+      }
+    ]
+  },
+  "2c6347d07b09ccd221854cf55d2346e8d49571ff": {
+    "sha": "2c6347d07b09ccd221854cf55d2346e8d49571ff",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T15:53:52Z",
+    "Files": [
+      {
+        "filename": ".cursor/rules/README.md",
+        "lines_changed": 37,
+        "category": "development"
+      },
+      {
+        "filename": ".cursor/rules/project.json",
+        "lines_changed": 51,
+        "category": "Build"
+      },
+      {
+        "filename": ".cursor/rules/rust.json",
+        "lines_changed": 31,
+        "category": "Build"
+      },
+      {
+        "filename": ".cursor/rules/terraform.json",
+        "lines_changed": 29,
+        "category": "Build"
+      }
+    ]
+  },
+  "15b7f370e2509e9ffeae0ec6d23bfa65b8cc733b": {
+    "sha": "15b7f370e2509e9ffeae0ec6d23bfa65b8cc733b",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T15:45:20Z",
+    "Files": [
+      {
+        "filename": ".terraform-version",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "example/.terraform-version",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "example/demo/.terraform-version",
+        "lines_changed": 1,
+        "category": "development"
+      }
+    ]
+  },
+  "be096a63bcc731c92faf691e4345bdf5da0f3f3a": {
+    "sha": "be096a63bcc731c92faf691e4345bdf5da0f3f3a",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T15:38:15Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "example/README.md",
+        "lines_changed": 24,
+        "category": "development"
+      },
+      {
+        "filename": "example/demo/main.tf",
+        "lines_changed": 2,
+        "category": "Infrastructure"
+      }
+    ]
+  },
+  "21359e4f48b26a2b83b38f18e0f989805beef5a2": {
+    "sha": "21359e4f48b26a2b83b38f18e0f989805beef5a2",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T15:02:25Z",
+    "Files": [
+      {
+        "filename": ".github/images/tfmcp-demo.gif",
+        "lines_changed": 0,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "README.md",
+        "lines_changed": 6,
+        "category": "development"
+      }
+    ]
+  },
+  "7b0db5cd882ab119697ccd84639703c9eb7ac43e": {
+    "sha": "7b0db5cd882ab119697ccd84639703c9eb7ac43e",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T14:55:01Z",
+    "Files": [
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "42b0eb1b8ded679dfb851e40c27910de8493ae98": {
+    "sha": "42b0eb1b8ded679dfb851e40c27910de8493ae98",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T14:42:06Z",
+    "Files": [
+      {
+        "filename": ".github/ISSUE_TEMPLATE/bug_report.md",
+        "lines_changed": 34,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/ISSUE_TEMPLATE/feature_request.md",
+        "lines_changed": 22,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/PULL_REQUEST_TEMPLATE.md",
+        "lines_changed": 30,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".gitignore",
+        "lines_changed": 43,
+        "category": "development"
+      }
+    ]
+  },
+  "64fcd1323e43a2774a0171e9800a1f648c1963e3": {
+    "sha": "64fcd1323e43a2774a0171e9800a1f648c1963e3",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T14:41:48Z",
+    "Files": [
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "LICENSE",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "README.md",
+        "lines_changed": 216,
+        "category": "development"
+      },
+      {
+        "filename": "Release.sh",
+        "lines_changed": 101,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "build.rs",
+        "lines_changed": 23,
+        "category": "Development"
+      },
+      {
+        "filename": "example/README.md",
+        "lines_changed": 62,
+        "category": "development"
+      },
+      {
+        "filename": "example/config/tfmcp-local-adversely-one-dragon.json",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": "example/environments/dev/dev-visually-feasible-newt.json",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": "example/environments/dev/dev-visually-feasible-newt.md",
+        "lines_changed": 13,
+        "category": "development"
+      },
+      {
+        "filename": "example/environments/prod/prod-actively-fun-gnat.json",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": "example/environments/prod/prod-actively-fun-gnat.md",
+        "lines_changed": 13,
+        "category": "development"
+      },
+      {
+        "filename": "example/environments/staging/staging-widely-robust-collie.json",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": "example/environments/staging/staging-widely-robust-collie.md",
+        "lines_changed": 13,
+        "category": "development"
+      },
+      {
+        "filename": "example/example_output.txt",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "example/main.tf",
+        "lines_changed": 132,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "example/master/master-master-parakeet.json",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": "example/master/master-master-parakeet.md",
+        "lines_changed": 13,
+        "category": "development"
+      },
+      {
+        "filename": "example/modules/local_resources/main.tf",
+        "lines_changed": 38,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "example/modules/local_resources/outputs.tf",
+        "lines_changed": 19,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "example/modules/local_resources/variables.tf",
+        "lines_changed": 35,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "example/variables.tf",
+        "lines_changed": 31,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "rust-toolchain.toml",
+        "lines_changed": 5,
+        "category": "Build"
+      },
+      {
+        "filename": "src/config/mod.rs",
+        "lines_changed": 83,
+        "category": "Development"
+      },
+      {
+        "filename": "src/core/mod.rs",
+        "lines_changed": 1,
+        "category": "Development"
+      },
+      {
+        "filename": "src/core/tfmcp.rs",
+        "lines_changed": 467,
+        "category": "Development"
+      },
+      {
+        "filename": "src/main.rs",
+        "lines_changed": 111,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/handler.rs",
+        "lines_changed": 928,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/mod.rs",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "src/mcp/stdio.rs",
+        "lines_changed": 226,
+        "category": "Development"
+      },
+      {
+        "filename": "src/shared/logging.rs",
+        "lines_changed": 82,
+        "category": "Development"
+      },
+      {
+        "filename": "src/shared/mod.rs",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "src/shared/utils/mod.rs",
+        "lines_changed": 1,
+        "category": "Development"
+      },
+      {
+        "filename": "src/shared/utils/path.rs",
+        "lines_changed": 97,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/mod.rs",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/model.rs",
+        "lines_changed": 51,
+        "category": "Development"
+      },
+      {
+        "filename": "src/terraform/service.rs",
+        "lines_changed": 382,
+        "category": "Development"
+      },
+      {
+        "filename": "terraform/main.tf",
+        "lines_changed": 14,
+        "category": "Infrastructure"
+      }
+    ]
+  },
+  "c983e644057a273cb3e6b76ec1a63fb933398187": {
+    "sha": "c983e644057a273cb3e6b76ec1a63fb933398187",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T14:25:50Z",
+    "Files": [
+      {
+        "filename": "Cargo.toml",
+        "lines_changed": 39,
+        "category": "Build"
+      }
+    ]
+  },
+  "488284610647b8829c0ad10986375a2eeb65c67f": {
+    "sha": "488284610647b8829c0ad10986375a2eeb65c67f",
+    "Author": "nwiizo",
+    "Date": "2025-03-08T13:49:08Z",
+    "Files": [
+      {
+        "filename": ".gitignore",
+        "lines_changed": 21,
+        "category": "development"
+      },
+      {
+        "filename": "LICENSE",
+        "lines_changed": 21,
+        "category": "development"
+      },
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      }
+    ]
+  }
+}
