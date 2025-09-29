@@ -373,7 +373,6 @@ def get_all_commits(owner, repo):
         files_changed = get_commit_changed_files(owner, repo, commit_obj.sha)
         commit_obj.Files = files_changed
         data_we_need[commit_obj.sha] = commit_obj.to_dict()
-        time.sleep(10)
 
     # Write the processed data to a JSON file
     write_data_to_json(data_we_need, f"{repo}.json")
