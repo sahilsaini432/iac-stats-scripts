@@ -1,0 +1,3806 @@
+{
+  "f2b8bd6003269754eac6eb69516b18d38d8cf527": {
+    "sha": "f2b8bd6003269754eac6eb69516b18d38d8cf527",
+    "Author": "RoseSecurity",
+    "Date": "2025-09-24T19:56:21Z",
+    "Files": [
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 37,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/dry_run.go",
+        "lines_changed": 38,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 4,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/parser.go",
+        "lines_changed": 19,
+        "category": "Development"
+      }
+    ]
+  },
+  "e19d28fc05be6091d0893166a0823f3c80f559aa": {
+    "sha": "e19d28fc05be6091d0893166a0823f3c80f559aa",
+    "Author": "RoseSecurity",
+    "Date": "2025-09-24T19:53:48Z",
+    "Files": [
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 37,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/dry_run.go",
+        "lines_changed": 38,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 4,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/parser.go",
+        "lines_changed": 19,
+        "category": "Development"
+      }
+    ]
+  },
+  "96b80d0149523740ab404ab868be8eeea2dcec48": {
+    "sha": "96b80d0149523740ab404ab868be8eeea2dcec48",
+    "Author": "RoseSecurity",
+    "Date": "2025-09-24T19:24:17Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "28793f53ed8425fd18095492f71c3cb227b3d08a": {
+    "sha": "28793f53ed8425fd18095492f71c3cb227b3d08a",
+    "Author": "renovate[bot]",
+    "Date": "2025-09-07T20:10:18Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "e8065d1a0d167276bbe4b3331140cc7ec55c83bb": {
+    "sha": "e8065d1a0d167276bbe4b3331140cc7ec55c83bb",
+    "Author": "RoseSecurity",
+    "Date": "2025-08-27T14:18:15Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "fe01a45228659e64da1dfec3f7e1ff1b27d6247a": {
+    "sha": "fe01a45228659e64da1dfec3f7e1ff1b27d6247a",
+    "Author": "renovate[bot]",
+    "Date": "2025-08-27T12:11:25Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "90d40c275052a0322b100c3103c80880d4e219aa": {
+    "sha": "90d40c275052a0322b100c3103c80880d4e219aa",
+    "Author": "RoseSecurity",
+    "Date": "2025-08-25T12:22:34Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "4398acaeb3ac14ac0130dc27968c0bcf489651ac": {
+    "sha": "4398acaeb3ac14ac0130dc27968c0bcf489651ac",
+    "Author": "renovate[bot]",
+    "Date": "2025-08-24T20:40:15Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "44f25dfd7ea4430b7acd3b9dc3aaf1a7f4f7b1a6": {
+    "sha": "44f25dfd7ea4430b7acd3b9dc3aaf1a7f4f7b1a6",
+    "Author": "RoseSecurity",
+    "Date": "2025-08-13T16:41:06Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "6c75cb60cb30480b319cd39efaa8579869873def": {
+    "sha": "6c75cb60cb30480b319cd39efaa8579869873def",
+    "Author": "renovate[bot]",
+    "Date": "2025-08-13T15:58:56Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "1fba9c83505e83cdd9c3c526945698a56e0a0578": {
+    "sha": "1fba9c83505e83cdd9c3c526945698a56e0a0578",
+    "Author": "RoseSecurity",
+    "Date": "2025-08-11T18:23:20Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/workflows/codeql.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/workflows/scorecard.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/workflows/test.yml",
+        "lines_changed": 4,
+        "category": "Test"
+      }
+    ]
+  },
+  "c08d803df18cfd465fd6a121d3257917e3b9e125": {
+    "sha": "c08d803df18cfd465fd6a121d3257917e3b9e125",
+    "Author": "renovate[bot]",
+    "Date": "2025-08-11T18:19:07Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/workflows/codeql.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/workflows/scorecard.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/workflows/test.yml",
+        "lines_changed": 4,
+        "category": "Test"
+      }
+    ]
+  },
+  "f5ff3fa2b4690ff285d99f371b0ef4b7666f7e4e": {
+    "sha": "f5ff3fa2b4690ff285d99f371b0ef4b7666f7e4e",
+    "Author": "RoseSecurity",
+    "Date": "2025-08-07T18:30:30Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 12,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 11,
+        "category": "Build"
+      }
+    ]
+  },
+  "6892b08722a2adbd297ccf4c3fab5171839243d1": {
+    "sha": "6892b08722a2adbd297ccf4c3fab5171839243d1",
+    "Author": "renovate[bot]",
+    "Date": "2025-08-07T18:11:57Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 12,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 11,
+        "category": "Build"
+      }
+    ]
+  },
+  "5b70cea28d73d64eff79282929bab02ddf5672d7": {
+    "sha": "5b70cea28d73d64eff79282929bab02ddf5672d7",
+    "Author": "RoseSecurity",
+    "Date": "2025-07-29T15:56:13Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 3,
+        "category": "Build"
+      }
+    ]
+  },
+  "508f959f33f341283734e2d4939910f52dbf2f1c": {
+    "sha": "508f959f33f341283734e2d4939910f52dbf2f1c",
+    "Author": "renovate[bot]",
+    "Date": "2025-07-29T15:50:11Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 3,
+        "category": "Build"
+      }
+    ]
+  },
+  "6ebd98fb4c1fec6d9da4df7f63bb859371ce4940": {
+    "sha": "6ebd98fb4c1fec6d9da4df7f63bb859371ce4940",
+    "Author": "RoseSecurity",
+    "Date": "2025-07-11T20:31:38Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 8,
+        "category": "development"
+      }
+    ]
+  },
+  "dddea6c0b35cf3d3eaece64464c171bb4134a507": {
+    "sha": "dddea6c0b35cf3d3eaece64464c171bb4134a507",
+    "Author": "RoseSecurity",
+    "Date": "2025-07-10T12:59:22Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "52e9099163dc5a6b8e041b549b9c4927b627503a": {
+    "sha": "52e9099163dc5a6b8e041b549b9c4927b627503a",
+    "Author": "renovate[bot]",
+    "Date": "2025-07-10T12:52:38Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "c0be4846ac205f404202441a683cf1aa9ddaedfe": {
+    "sha": "c0be4846ac205f404202441a683cf1aa9ddaedfe",
+    "Author": "RoseSecurity",
+    "Date": "2025-07-10T12:50:50Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 10,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 9,
+        "category": "Build"
+      }
+    ]
+  },
+  "bebf288d9ad47822b9ec30027bfc891c47844fa1": {
+    "sha": "bebf288d9ad47822b9ec30027bfc891c47844fa1",
+    "Author": "renovate[bot]",
+    "Date": "2025-07-10T01:29:14Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 10,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 9,
+        "category": "Build"
+      }
+    ]
+  },
+  "83d883ac93633bcf5ae63f3579f894b249996753": {
+    "sha": "83d883ac93633bcf5ae63f3579f894b249996753",
+    "Author": "RoseSecurity",
+    "Date": "2025-07-07T19:09:50Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 6,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 6,
+        "category": "Build"
+      }
+    ]
+  },
+  "9bc6a38aca4532b57738496dbd03f6633bc532f7": {
+    "sha": "9bc6a38aca4532b57738496dbd03f6633bc532f7",
+    "Author": "renovate[bot]",
+    "Date": "2025-07-07T19:05:24Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 6,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 6,
+        "category": "Build"
+      }
+    ]
+  },
+  "11d5b6cf83b466780b6b923ca3e3c29638968610": {
+    "sha": "11d5b6cf83b466780b6b923ca3e3c29638968610",
+    "Author": "RoseSecurity",
+    "Date": "2025-06-27T20:13:31Z",
+    "Files": [
+      {
+        "filename": "renovate.json",
+        "lines_changed": 12,
+        "category": "Build"
+      }
+    ]
+  },
+  "bdf38ae75e09d2f11190629a6000b05dd8f14597": {
+    "sha": "bdf38ae75e09d2f11190629a6000b05dd8f14597",
+    "Author": "renovate[bot]",
+    "Date": "2025-06-27T20:11:49Z",
+    "Files": [
+      {
+        "filename": "renovate.json",
+        "lines_changed": 12,
+        "category": "Build"
+      }
+    ]
+  },
+  "b3ab30c2661e42b6806b66ec73569ccb7bf6d640": {
+    "sha": "b3ab30c2661e42b6806b66ec73569ccb7bf6d640",
+    "Author": "RoseSecurity",
+    "Date": "2025-06-06T20:52:57Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 16,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 15,
+        "category": "Build"
+      }
+    ]
+  },
+  "10beefb0681e2a2763f93c3e00b0d9a35e7d4316": {
+    "sha": "10beefb0681e2a2763f93c3e00b0d9a35e7d4316",
+    "Author": "renovate[bot]",
+    "Date": "2025-06-06T19:11:46Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 16,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 15,
+        "category": "Build"
+      }
+    ]
+  },
+  "b8c272969daf97bb4cf613ab3a5f244c73b44539": {
+    "sha": "b8c272969daf97bb4cf613ab3a5f244c73b44539",
+    "Author": "RoseSecurity",
+    "Date": "2025-05-30T18:09:27Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/scorecard.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "9b55fe38e6ba75e3046b7e07439235e44548a421": {
+    "sha": "9b55fe38e6ba75e3046b7e07439235e44548a421",
+    "Author": "renovate[bot]",
+    "Date": "2025-05-30T17:31:38Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/scorecard.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "b9ebe8afcfc9d076aa4f58252835fd09bb781843": {
+    "sha": "b9ebe8afcfc9d076aa4f58252835fd09bb781843",
+    "Author": "RoseSecurity",
+    "Date": "2025-05-06T12:12:24Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "d7310b3d89ba5767fefadd6edbd5a8ca581e7362": {
+    "sha": "d7310b3d89ba5767fefadd6edbd5a8ca581e7362",
+    "Author": "renovate[bot]",
+    "Date": "2025-05-05T22:59:45Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "a15352232996018f1a445afdbc2c95477be4cc83": {
+    "sha": "a15352232996018f1a445afdbc2c95477be4cc83",
+    "Author": "RoseSecurity",
+    "Date": "2025-04-18T17:24:33Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 5,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "ee1d2b0802d04e418dcacd7d925b7be5287957a6": {
+    "sha": "ee1d2b0802d04e418dcacd7d925b7be5287957a6",
+    "Author": "renovate[bot]",
+    "Date": "2025-04-18T13:19:52Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 5,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "6fbbe2e0c0ab918ff7343ebeab435eda9b738653": {
+    "sha": "6fbbe2e0c0ab918ff7343ebeab435eda9b738653",
+    "Author": "RoseSecurity",
+    "Date": "2025-04-18T13:18:54Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 11,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 12,
+        "category": "Build"
+      }
+    ]
+  },
+  "b67e90c3b4e9c141180b8463c5cf8ec028005cd0": {
+    "sha": "b67e90c3b4e9c141180b8463c5cf8ec028005cd0",
+    "Author": "renovate[bot]",
+    "Date": "2025-04-16T22:56:42Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 11,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 12,
+        "category": "Build"
+      }
+    ]
+  },
+  "21249352b68ffdd2e2ac7dd6d5daea719e54e0ca": {
+    "sha": "21249352b68ffdd2e2ac7dd6d5daea719e54e0ca",
+    "Author": "RoseSecurity",
+    "Date": "2025-04-07T12:11:27Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "a18484df4c9c8a816c1224655d9c89cb654518ba": {
+    "sha": "a18484df4c9c8a816c1224655d9c89cb654518ba",
+    "Author": "renovate[bot]",
+    "Date": "2025-04-06T02:34:34Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "f52d49d93d0d2f2e16a1f21878e9c29b63833eac": {
+    "sha": "f52d49d93d0d2f2e16a1f21878e9c29b63833eac",
+    "Author": "RoseSecurity",
+    "Date": "2025-03-19T13:16:29Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 1,
+        "category": "Build"
+      }
+    ]
+  },
+  "49a6721d27f3108d499fcffe7a0dee1c890eefa2": {
+    "sha": "49a6721d27f3108d499fcffe7a0dee1c890eefa2",
+    "Author": "renovate[bot]",
+    "Date": "2025-03-19T12:06:31Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 1,
+        "category": "Build"
+      }
+    ]
+  },
+  "2ff00e9be9a97ed6f3c60bd67596cfbc6d7adb71": {
+    "sha": "2ff00e9be9a97ed6f3c60bd67596cfbc6d7adb71",
+    "Author": "RoseSecurity",
+    "Date": "2025-03-18T19:36:29Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 24,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 27,
+        "category": "Build"
+      }
+    ]
+  },
+  "14c609c0b911678fdcd684c8776ad5c69a17846e": {
+    "sha": "14c609c0b911678fdcd684c8776ad5c69a17846e",
+    "Author": "renovate[bot]",
+    "Date": "2025-03-18T19:13:16Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 24,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 27,
+        "category": "Build"
+      }
+    ]
+  },
+  "ef51e479c4d28566546b9415c6ee00753a5f99d4": {
+    "sha": "ef51e479c4d28566546b9415c6ee00753a5f99d4",
+    "Author": "RoseSecurity",
+    "Date": "2025-03-05T20:45:37Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "b7071709db9f0980be62e17c0aa5f3dba42c4462": {
+    "sha": "b7071709db9f0980be62e17c0aa5f3dba42c4462",
+    "Author": "renovate[bot]",
+    "Date": "2025-03-05T20:07:05Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "0a23e940604ccd1bd74233b3f482007412a1c659": {
+    "sha": "0a23e940604ccd1bd74233b3f482007412a1c659",
+    "Author": "RoseSecurity",
+    "Date": "2025-03-05T20:05:22Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "9bbd3959c741a1d89a30efccb8eb55bd08f3db71": {
+    "sha": "9bbd3959c741a1d89a30efccb8eb55bd08f3db71",
+    "Author": "renovate[bot]",
+    "Date": "2025-03-05T18:49:41Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "23649eaa8ae0de3ffa60458ae04a2572f85da2f3": {
+    "sha": "23649eaa8ae0de3ffa60458ae04a2572f85da2f3",
+    "Author": "RoseSecurity",
+    "Date": "2025-02-21T18:37:24Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/scorecard.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "426a92c978da77c9049d5a322f036454b50f937d": {
+    "sha": "426a92c978da77c9049d5a322f036454b50f937d",
+    "Author": "renovate[bot]",
+    "Date": "2025-02-21T17:59:15Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/scorecard.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "1de00d73979e937440698de31b259343968bf167": {
+    "sha": "1de00d73979e937440698de31b259343968bf167",
+    "Author": "RoseSecurity",
+    "Date": "2025-02-20T14:07:20Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 1,
+        "category": "Build"
+      }
+    ]
+  },
+  "85cb7e94c12985a583d22d1719688c20dd2ed111": {
+    "sha": "85cb7e94c12985a583d22d1719688c20dd2ed111",
+    "Author": "renovate[bot]",
+    "Date": "2025-02-20T07:09:52Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 1,
+        "category": "Build"
+      }
+    ]
+  },
+  "7f9a5c6353dc4bcd885537f4c363b7a5e28dfcbc": {
+    "sha": "7f9a5c6353dc4bcd885537f4c363b7a5e28dfcbc",
+    "Author": "RoseSecurity",
+    "Date": "2025-02-17T13:00:50Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 6,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 6,
+        "category": "Build"
+      }
+    ]
+  },
+  "c85c9d93550c122a455df727b7efa4eaee5a5b74": {
+    "sha": "c85c9d93550c122a455df727b7efa4eaee5a5b74",
+    "Author": "renovate[bot]",
+    "Date": "2025-02-17T03:43:13Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 6,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 6,
+        "category": "Build"
+      }
+    ]
+  },
+  "1b70f452ad715f08d7ce5e1855d4e51b827664ec": {
+    "sha": "1b70f452ad715f08d7ce5e1855d4e51b827664ec",
+    "Author": "RoseSecurity",
+    "Date": "2025-02-04T17:08:24Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "ced8979f2e7aba765b1fe1a181ee65618d91a6a3": {
+    "sha": "ced8979f2e7aba765b1fe1a181ee65618d91a6a3",
+    "Author": "renovate[bot]",
+    "Date": "2025-02-04T17:06:47Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "14235301e714e62a0b28882cab1e4d9c363df0c1": {
+    "sha": "14235301e714e62a0b28882cab1e4d9c363df0c1",
+    "Author": "RoseSecurity",
+    "Date": "2025-02-04T17:06:06Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "679cfc70cff529abe307f97c807cf790c4567de4": {
+    "sha": "679cfc70cff529abe307f97c807cf790c4567de4",
+    "Author": "renovate[bot]",
+    "Date": "2025-02-04T17:03:25Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "57ebac2c9a2ee34f464b0b3215e6d621d0ce8ec3": {
+    "sha": "57ebac2c9a2ee34f464b0b3215e6d621d0ce8ec3",
+    "Author": "RoseSecurity",
+    "Date": "2025-01-26T13:01:58Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 14,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 9,
+        "category": "Build"
+      }
+    ]
+  },
+  "6cbc2bf28253f4db17fe861003d1541742a28c85": {
+    "sha": "6cbc2bf28253f4db17fe861003d1541742a28c85",
+    "Author": "renovate[bot]",
+    "Date": "2025-01-26T09:14:50Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 14,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 9,
+        "category": "Build"
+      }
+    ]
+  },
+  "c44cd370f664eac0d0963faaf66fe5b61cff9b41": {
+    "sha": "c44cd370f664eac0d0963faaf66fe5b61cff9b41",
+    "Author": "RoseSecurity",
+    "Date": "2025-01-20T08:38:06Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "ed371f0aea6e0ba26d3c8aa7ff506b858faf2dc1": {
+    "sha": "ed371f0aea6e0ba26d3c8aa7ff506b858faf2dc1",
+    "Author": "renovate[bot]",
+    "Date": "2025-01-20T05:17:59Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "47e77cae9fd5b334cf462ef83161c1f7b74bddb2": {
+    "sha": "47e77cae9fd5b334cf462ef83161c1f7b74bddb2",
+    "Author": "RoseSecurity",
+    "Date": "2025-01-10T15:04:52Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "12a6aadc6f8fe824ac8757ddba8278a5d074d59d": {
+    "sha": "12a6aadc6f8fe824ac8757ddba8278a5d074d59d",
+    "Author": "renovate[bot]",
+    "Date": "2025-01-10T09:50:15Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "0c1a31067cca2351f96d0936380f8d2df4440e7c": {
+    "sha": "0c1a31067cca2351f96d0936380f8d2df4440e7c",
+    "Author": "RoseSecurity",
+    "Date": "2024-12-27T18:46:00Z",
+    "Files": [
+      {
+        "filename": ".coderabbit.yaml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": ".copywrite.hcl",
+        "lines_changed": 21,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/FUNDING.yml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": ".goreleaser.yaml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": ".pre-commit-config.yaml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": "FUNDING.yml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": "Makefile",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": "cmd/docs.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/fix.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/list.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/list_models.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/recommend.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/version.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/version_test.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "go.mod",
+        "lines_changed": 44,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 551,
+        "category": "Build"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/dry_run.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/opentofu_schema.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/output.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/parser.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/terraform_schema.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/tui/utils/utils.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "main.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "pkg/utils/list_models.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "pkg/utils/logging.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "tools/tools.go",
+        "lines_changed": 10,
+        "category": "Development"
+      }
+    ]
+  },
+  "7e5cb01f7b44eeb70409456fe593a1007141b9ad": {
+    "sha": "7e5cb01f7b44eeb70409456fe593a1007141b9ad",
+    "Author": "RoseSecurity",
+    "Date": "2024-12-27T18:43:30Z",
+    "Files": [
+      {
+        "filename": ".coderabbit.yaml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": ".copywrite.hcl",
+        "lines_changed": 21,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/FUNDING.yml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": ".goreleaser.yaml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": ".pre-commit-config.yaml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": "FUNDING.yml",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": "Makefile",
+        "lines_changed": 3,
+        "category": "Build"
+      },
+      {
+        "filename": "cmd/docs.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/fix.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/list.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/list_models.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/recommend.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/version.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/version_test.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "go.mod",
+        "lines_changed": 44,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 551,
+        "category": "Build"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/dry_run.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/opentofu_schema.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/output.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/parser.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/terraform_schema.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/tui/utils/utils.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "main.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "pkg/utils/list_models.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "pkg/utils/logging.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "tools/tools.go",
+        "lines_changed": 10,
+        "category": "Development"
+      }
+    ]
+  },
+  "657ba654e770537908c4e7a871eb55cf5eb54eb9": {
+    "sha": "657ba654e770537908c4e7a871eb55cf5eb54eb9",
+    "Author": "RoseSecurity",
+    "Date": "2024-12-10T14:18:43Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "edf67ff6e6fceceab857305b44f1b012c109b507": {
+    "sha": "edf67ff6e6fceceab857305b44f1b012c109b507",
+    "Author": "renovate[bot]",
+    "Date": "2024-12-04T17:11:53Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "0c33891f48f7246c9818380f01de6eeffb3c3fa8": {
+    "sha": "0c33891f48f7246c9818380f01de6eeffb3c3fa8",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-29T17:49:56Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "ce4fdaa505a70e6c8c8890e25df215a97b28025b": {
+    "sha": "ce4fdaa505a70e6c8c8890e25df215a97b28025b",
+    "Author": "renovate[bot]",
+    "Date": "2024-11-23T12:11:31Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "fbc92dc06c4f2a83a351a62145eb96af21d0135a": {
+    "sha": "fbc92dc06c4f2a83a351a62145eb96af21d0135a",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-15T22:21:06Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 1,
+        "category": "development"
+      }
+    ]
+  },
+  "e8e53b14a731aae0fb7e329daa59dea3bb274749": {
+    "sha": "e8e53b14a731aae0fb7e329daa59dea3bb274749",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-15T22:20:33Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 1,
+        "category": "development"
+      }
+    ]
+  },
+  "d612eecc59db51990b851e3d48662f6c50cc1c8b": {
+    "sha": "d612eecc59db51990b851e3d48662f6c50cc1c8b",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-15T21:06:55Z",
+    "Files": [
+      {
+        "filename": "cmd/list.go",
+        "lines_changed": 17,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/list_models.go",
+        "lines_changed": 56,
+        "category": "Development"
+      },
+      {
+        "filename": "pkg/utils/list_models.go",
+        "lines_changed": 44,
+        "category": "Development"
+      }
+    ]
+  },
+  "18025d07a54b10d660c712df0a050eb22980841a": {
+    "sha": "18025d07a54b10d660c712df0a050eb22980841a",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-15T21:04:52Z",
+    "Files": [
+      {
+        "filename": "pkg/utils/list_models.go",
+        "lines_changed": 5,
+        "category": "Development"
+      }
+    ]
+  },
+  "afc51641a9bf30e20aa2302f0d02cfdaa94aa554": {
+    "sha": "afc51641a9bf30e20aa2302f0d02cfdaa94aa554",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-15T20:44:27Z",
+    "Files": [
+      {
+        "filename": "cmd/list.go",
+        "lines_changed": 17,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/list_models.go",
+        "lines_changed": 56,
+        "category": "Development"
+      },
+      {
+        "filename": "pkg/utils/list_models.go",
+        "lines_changed": 39,
+        "category": "Development"
+      }
+    ]
+  },
+  "449e39b3ada5333c4e5fdb8db5cc9d8e96df08e2": {
+    "sha": "449e39b3ada5333c4e5fdb8db5cc9d8e96df08e2",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-15T19:55:05Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "f3461c399570b4f3640cc290b1042b7c336c8a47": {
+    "sha": "f3461c399570b4f3640cc290b1042b7c336c8a47",
+    "Author": "renovate[bot]",
+    "Date": "2024-11-15T19:54:10Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "ee4c1bb321a32e83257427f55ca5794d77b38bc4": {
+    "sha": "ee4c1bb321a32e83257427f55ca5794d77b38bc4",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-14T21:48:24Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "15ba0904358b9f68ce8967b1b02447df0fdf37a7": {
+    "sha": "15ba0904358b9f68ce8967b1b02447df0fdf37a7",
+    "Author": "renovate[bot]",
+    "Date": "2024-11-14T21:35:21Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "724f54506142e863a62ccfa8181824ccf97a3ffd": {
+    "sha": "724f54506142e863a62ccfa8181824ccf97a3ffd",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-14T21:34:45Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "fc32851019d3ff625e790e47bfbe4bf9a3c5a36e": {
+    "sha": "fc32851019d3ff625e790e47bfbe4bf9a3c5a36e",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-14T21:34:37Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "a24dc234fbf9a039a9c234ad1827aec9708df190": {
+    "sha": "a24dc234fbf9a039a9c234ad1827aec9708df190",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-14T21:33:59Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "26e03b5270bd0b5d04d35b0fdf67afd346e98cd5": {
+    "sha": "26e03b5270bd0b5d04d35b0fdf67afd346e98cd5",
+    "Author": "renovate[bot]",
+    "Date": "2024-11-14T19:59:33Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "c35ed737b4fcb7a9d570e326f2b0108d08c33703": {
+    "sha": "c35ed737b4fcb7a9d570e326f2b0108d08c33703",
+    "Author": "renovate[bot]",
+    "Date": "2024-11-14T15:29:50Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "1b24466e5ac940af9995d761b871b3e2d694fff5": {
+    "sha": "1b24466e5ac940af9995d761b871b3e2d694fff5",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-14T15:29:19Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/test.yml",
+        "lines_changed": 68,
+        "category": "Test"
+      },
+      {
+        "filename": "Makefile",
+        "lines_changed": 10,
+        "category": "Build"
+      },
+      {
+        "filename": "cmd/version_test.go",
+        "lines_changed": 52,
+        "category": "Development"
+      },
+      {
+        "filename": "go.mod",
+        "lines_changed": 9,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 8,
+        "category": "Build"
+      }
+    ]
+  },
+  "843ecb40dc2c2c5e9e7fee3a91fbef6c4d70ee5d": {
+    "sha": "843ecb40dc2c2c5e9e7fee3a91fbef6c4d70ee5d",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-14T15:24:59Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/test.yml",
+        "lines_changed": 68,
+        "category": "Test"
+      },
+      {
+        "filename": "Makefile",
+        "lines_changed": 10,
+        "category": "Build"
+      },
+      {
+        "filename": "cmd/version_test.go",
+        "lines_changed": 52,
+        "category": "Development"
+      },
+      {
+        "filename": "go.mod",
+        "lines_changed": 9,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 8,
+        "category": "Build"
+      }
+    ]
+  },
+  "fd5bebb10d969d029ed768d380f558972e4ac843": {
+    "sha": "fd5bebb10d969d029ed768d380f558972e4ac843",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-13T13:20:13Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 12,
+        "category": "Build"
+      },
+      {
+        "filename": "README.md",
+        "lines_changed": 6,
+        "category": "development"
+      }
+    ]
+  },
+  "c0e1fb5c78149529d667f0eb9f203fd519f2c37e": {
+    "sha": "c0e1fb5c78149529d667f0eb9f203fd519f2c37e",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-13T13:18:19Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 12,
+        "category": "Build"
+      },
+      {
+        "filename": "README.md",
+        "lines_changed": 6,
+        "category": "development"
+      }
+    ]
+  },
+  "f1a8edebc8845a6be54711641198a6288f14608a": {
+    "sha": "f1a8edebc8845a6be54711641198a6288f14608a",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-12T17:37:22Z",
+    "Files": [
+      {
+        "filename": "cmd/recommend.go",
+        "lines_changed": 18,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 1,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/dry_run.go",
+        "lines_changed": 74,
+        "category": "Development"
+      }
+    ]
+  },
+  "ff5f2a0136f0da2174634466b4e770c093199801": {
+    "sha": "ff5f2a0136f0da2174634466b4e770c093199801",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-12T17:33:22Z",
+    "Files": [
+      {
+        "filename": "cmd/recommend.go",
+        "lines_changed": 18,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 1,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/dry_run.go",
+        "lines_changed": 74,
+        "category": "Development"
+      }
+    ]
+  },
+  "35c523cae53a14c5b58e8ee078bc1e8f5b645988": {
+    "sha": "35c523cae53a14c5b58e8ee078bc1e8f5b645988",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-11T01:24:20Z",
+    "Files": [
+      {
+        "filename": ".coderabbit.yaml",
+        "lines_changed": 70,
+        "category": "Build"
+      }
+    ]
+  },
+  "bc96cb714985af32b27748f4c231ed4d0a3fe3ed": {
+    "sha": "bc96cb714985af32b27748f4c231ed4d0a3fe3ed",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-11T01:23:20Z",
+    "Files": [
+      {
+        "filename": ".coderabbit.yaml",
+        "lines_changed": 70,
+        "category": "Build"
+      }
+    ]
+  },
+  "00c853912f619dae0a278836d21fcc8a2e818557": {
+    "sha": "00c853912f619dae0a278836d21fcc8a2e818557",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-11T01:19:14Z",
+    "Files": [
+      {
+        "filename": "FUNDING.yml",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": "Makefile",
+        "lines_changed": 8,
+        "category": "Build"
+      },
+      {
+        "filename": "cmd/fix.go",
+        "lines_changed": 13,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "docs/kuzco.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_bash.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_fish.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_powershell.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_zsh.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_fix.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_recommend.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_version.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "test/fix-syntax.tf",
+        "lines_changed": 13,
+        "category": "Test"
+      }
+    ]
+  },
+  "a69963833329372b0345c0f83288b21f3aaa9ae4": {
+    "sha": "a69963833329372b0345c0f83288b21f3aaa9ae4",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-11T00:37:50Z",
+    "Files": [
+      {
+        "filename": "FUNDING.yml",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": "Makefile",
+        "lines_changed": 8,
+        "category": "Build"
+      },
+      {
+        "filename": "cmd/fix.go",
+        "lines_changed": 13,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 3,
+        "category": "Development"
+      },
+      {
+        "filename": "docs/kuzco.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_bash.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_fish.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_powershell.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_zsh.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_fix.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_recommend.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_version.md",
+        "lines_changed": 1,
+        "category": "development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "test/fix-syntax.tf",
+        "lines_changed": 13,
+        "category": "Test"
+      }
+    ]
+  },
+  "7f665a40fce6fbcc9f2b4ff0eb9b6261f10952bd": {
+    "sha": "7f665a40fce6fbcc9f2b4ff0eb9b6261f10952bd",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-03T00:06:02Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 13,
+        "category": "development"
+      },
+      {
+        "filename": "cmd/docs.go",
+        "lines_changed": 6,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/fix.go",
+        "lines_changed": 81,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/recommend.go",
+        "lines_changed": 34,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 24,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/version.go",
+        "lines_changed": 12,
+        "category": "Development"
+      },
+      {
+        "filename": "docs/kuzco.md",
+        "lines_changed": 13,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion.md",
+        "lines_changed": 4,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_bash.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_fish.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_powershell.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_zsh.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_fix.md",
+        "lines_changed": 33,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_recommend.md",
+        "lines_changed": 28,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_version.md",
+        "lines_changed": 4,
+        "category": "development"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 10,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 13,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/output.go",
+        "lines_changed": 5,
+        "category": "Development"
+      },
+      {
+        "filename": "test/fix-syntax.tf",
+        "lines_changed": 21,
+        "category": "Test"
+      },
+      {
+        "filename": "test/s3-recommendations.tf",
+        "lines_changed": 0,
+        "category": "Test"
+      }
+    ]
+  },
+  "bedf3341fb667c2c9401b492b483f3ee240165c1": {
+    "sha": "bedf3341fb667c2c9401b492b483f3ee240165c1",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-03T00:05:05Z",
+    "Files": [
+      {
+        "filename": "cmd/fix.go",
+        "lines_changed": 5,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 4,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/version.go",
+        "lines_changed": 9,
+        "category": "Development"
+      }
+    ]
+  },
+  "7cb0be63661ddacd05e235a12510f474d8dd6c69": {
+    "sha": "7cb0be63661ddacd05e235a12510f474d8dd6c69",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-02T23:53:51Z",
+    "Files": [
+      {
+        "filename": "internal/output.go",
+        "lines_changed": 3,
+        "category": "Development"
+      }
+    ]
+  },
+  "0e79efcebe45b52ada9e04c0aa7caf501f3a0146": {
+    "sha": "0e79efcebe45b52ada9e04c0aa7caf501f3a0146",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-02T23:52:00Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 13,
+        "category": "development"
+      }
+    ]
+  },
+  "2bb6037bf868741b6187688d855fba85f99b70d6": {
+    "sha": "2bb6037bf868741b6187688d855fba85f99b70d6",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-02T23:50:28Z",
+    "Files": [
+      {
+        "filename": "cmd/docs.go",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/fix.go",
+        "lines_changed": 6,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/recommend.go",
+        "lines_changed": 10,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 16,
+        "category": "Development"
+      },
+      {
+        "filename": "docs/kuzco.md",
+        "lines_changed": 13,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion.md",
+        "lines_changed": 4,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_bash.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_fish.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_powershell.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_zsh.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_fix.md",
+        "lines_changed": 33,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_recommend.md",
+        "lines_changed": 28,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_version.md",
+        "lines_changed": 4,
+        "category": "development"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "test/fix-syntax.tf",
+        "lines_changed": 21,
+        "category": "Test"
+      },
+      {
+        "filename": "test/s3-recommendations.tf",
+        "lines_changed": 0,
+        "category": "Test"
+      }
+    ]
+  },
+  "f8fbd35e62e29db61216d96a77aaca8d162a569e": {
+    "sha": "f8fbd35e62e29db61216d96a77aaca8d162a569e",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-02T23:21:49Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 16,
+        "category": "development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 26,
+        "category": "Development"
+      },
+      {
+        "filename": "go.mod",
+        "lines_changed": 13,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 53,
+        "category": "Build"
+      },
+      {
+        "filename": "internal/tui/utils/utils.go",
+        "lines_changed": 17,
+        "category": "Development"
+      }
+    ]
+  },
+  "438a6bede532ed865697caf832966e7927a23cf5": {
+    "sha": "438a6bede532ed865697caf832966e7927a23cf5",
+    "Author": "RoseSecurity",
+    "Date": "2024-11-02T23:19:48Z",
+    "Files": [
+      {
+        "filename": "cmd/fix.go",
+        "lines_changed": 42,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/output.go",
+        "lines_changed": 2,
+        "category": "Development"
+      }
+    ]
+  },
+  "9bb0918b461784b8f7938f8f33f751c0ba839ce1": {
+    "sha": "9bb0918b461784b8f7938f8f33f751c0ba839ce1",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-31T15:04:57Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "13505b77bd20827023431a2ec4971db53876892a": {
+    "sha": "13505b77bd20827023431a2ec4971db53876892a",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-31T15:04:39Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 3,
+        "category": "Build"
+      }
+    ]
+  },
+  "880306b08fe92d2f5b493205128a9823b0b167a0": {
+    "sha": "880306b08fe92d2f5b493205128a9823b0b167a0",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-31T15:04:25Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 3,
+        "category": "Build"
+      }
+    ]
+  },
+  "ddafe53eb142a819066ecb372f5242ec66a5b232": {
+    "sha": "ddafe53eb142a819066ecb372f5242ec66a5b232",
+    "Author": "renovate[bot]",
+    "Date": "2024-10-31T15:03:23Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "8b2962b0a918c10b5301f5e44a80732e622089d7": {
+    "sha": "8b2962b0a918c10b5301f5e44a80732e622089d7",
+    "Author": "renovate[bot]",
+    "Date": "2024-10-31T15:03:14Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 3,
+        "category": "Build"
+      }
+    ]
+  },
+  "e7de4cabfcb936ccca5e49548061ca6cf01cf9e7": {
+    "sha": "e7de4cabfcb936ccca5e49548061ca6cf01cf9e7",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-31T15:02:14Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 13,
+        "category": "development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 22,
+        "category": "Development"
+      },
+      {
+        "filename": "go.mod",
+        "lines_changed": 8,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 45,
+        "category": "Build"
+      },
+      {
+        "filename": "internal/tui/utils/utils.go",
+        "lines_changed": 17,
+        "category": "Development"
+      }
+    ]
+  },
+  "dc235c8936e2fc27b667bb9da675b5be259e6a87": {
+    "sha": "dc235c8936e2fc27b667bb9da675b5be259e6a87",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-31T15:01:36Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      }
+    ]
+  },
+  "3e8ef096cb33287e27e0eb5f2752316230233fd2": {
+    "sha": "3e8ef096cb33287e27e0eb5f2752316230233fd2",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-31T14:44:54Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 11,
+        "category": "development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 22,
+        "category": "Development"
+      },
+      {
+        "filename": "go.mod",
+        "lines_changed": 8,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 45,
+        "category": "Build"
+      },
+      {
+        "filename": "internal/tui/utils/utils.go",
+        "lines_changed": 17,
+        "category": "Development"
+      }
+    ]
+  },
+  "dcfb0beeaa3553e28b6e751d18b01e3feb79f688": {
+    "sha": "dcfb0beeaa3553e28b6e751d18b01e3feb79f688",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-25T17:19:48Z",
+    "Files": [
+      {
+        "filename": "cmd/docs.go",
+        "lines_changed": 4,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/fix.go",
+        "lines_changed": 40,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/recommend.go",
+        "lines_changed": 38,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 56,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/version.go",
+        "lines_changed": 5,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 6,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 13,
+        "category": "Development"
+      }
+    ]
+  },
+  "d2866603cb1bf4235761f569f5767424a02767e2": {
+    "sha": "d2866603cb1bf4235761f569f5767424a02767e2",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-24T14:26:02Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "78d8bcfb6a77b4ee3df5e939cec87c6f2ad19b69": {
+    "sha": "78d8bcfb6a77b4ee3df5e939cec87c6f2ad19b69",
+    "Author": "renovate[bot]",
+    "Date": "2024-10-22T22:23:52Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "6a675ce3daa2b82e3e6aebfe64762ccc7e07c86a": {
+    "sha": "6a675ce3daa2b82e3e6aebfe64762ccc7e07c86a",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-22T20:19:37Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 3,
+        "category": "development"
+      }
+    ]
+  },
+  "f758fca57598ce3fa6b8135c554ae2a49d54189e": {
+    "sha": "f758fca57598ce3fa6b8135c554ae2a49d54189e",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-22T12:43:56Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "1c89e8d6cf6adeec3c7b79f84a5b01bc774cf4c9": {
+    "sha": "1c89e8d6cf6adeec3c7b79f84a5b01bc774cf4c9",
+    "Author": "renovate[bot]",
+    "Date": "2024-10-22T10:12:00Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 4,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "9c92897a08e68d2263f78094d1ef4481e45a5cb8": {
+    "sha": "9c92897a08e68d2263f78094d1ef4481e45a5cb8",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-17T20:21:19Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 20,
+        "category": "development"
+      }
+    ]
+  },
+  "d09e01280992d6a25a6ed68ba89fadd9ac0fba2d": {
+    "sha": "d09e01280992d6a25a6ed68ba89fadd9ac0fba2d",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T22:20:08Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "e8e5c59c087f511e52f69163bb8299df2544f64f": {
+    "sha": "e8e5c59c087f511e52f69163bb8299df2544f64f",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T22:19:46Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 4,
+        "category": "Build"
+      }
+    ]
+  },
+  "dec17908f0a6e32943680258824d8befe1d94cd0": {
+    "sha": "dec17908f0a6e32943680258824d8befe1d94cd0",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T22:16:30Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 23,
+        "category": "Build"
+      }
+    ]
+  },
+  "70d9bc04408ff71070b9ef24165df6960d4c856f": {
+    "sha": "70d9bc04408ff71070b9ef24165df6960d4c856f",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T22:09:27Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "014fb2b2f01061ebd3c56fca7b68fb89052fae56": {
+    "sha": "014fb2b2f01061ebd3c56fca7b68fb89052fae56",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T22:02:43Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "94e13945170cb4a50ecc3dfdfb9507a07655b12d": {
+    "sha": "94e13945170cb4a50ecc3dfdfb9507a07655b12d",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T21:50:38Z",
+    "Files": [
+      {
+        "filename": ".goreleaser.yaml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "f2cbe269b36dbd0f54e683d6d918809d4972e295": {
+    "sha": "f2cbe269b36dbd0f54e683d6d918809d4972e295",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T21:45:35Z",
+    "Files": [
+      {
+        "filename": ".goreleaser.yaml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "3d154381575e3578f098f66472ac40a408197a46": {
+    "sha": "3d154381575e3578f098f66472ac40a408197a46",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T21:41:44Z",
+    "Files": [
+      {
+        "filename": ".goreleaser.yaml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "b4e6a6b7c9a0294e13e2e9ee33aef7a025441242": {
+    "sha": "b4e6a6b7c9a0294e13e2e9ee33aef7a025441242",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T21:35:25Z",
+    "Files": [
+      {
+        "filename": ".goreleaser.yaml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "f465c55f430189451d60481d9e936dda24c4666f": {
+    "sha": "f465c55f430189451d60481d9e936dda24c4666f",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T21:21:10Z",
+    "Files": [
+      {
+        "filename": ".goreleaser.yaml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "26b72a95c373be2052c37b7376919c6ae23d69c1": {
+    "sha": "26b72a95c373be2052c37b7376919c6ae23d69c1",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T21:15:43Z",
+    "Files": [
+      {
+        "filename": ".github/.github/CODEOWNERS",
+        "lines_changed": 1,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/FUNDING.yml",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/.github/ISSUE_TEMPLATE/bug_report.md",
+        "lines_changed": 27,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/ISSUE_TEMPLATE/feature_request.md",
+        "lines_changed": 20,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/PULL_REQUEST_TEMPLATE.md",
+        "lines_changed": 21,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/workflows/build.yaml",
+        "lines_changed": 74,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/.github/workflows/scorecard.yml",
+        "lines_changed": 46,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/.github/workflows/test.yml",
+        "lines_changed": 48,
+        "category": "Test"
+      },
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 18,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/workflows/publish.yml",
+        "lines_changed": 43,
+        "category": "Build"
+      }
+    ]
+  },
+  "e8215f897c43cc2b7a38b40bed3e902a0add1967": {
+    "sha": "e8215f897c43cc2b7a38b40bed3e902a0add1967",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T21:15:06Z",
+    "Files": [
+      {
+        "filename": ".github/.github/CODEOWNERS",
+        "lines_changed": 1,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/FUNDING.yml",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/.github/ISSUE_TEMPLATE/bug_report.md",
+        "lines_changed": 27,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/ISSUE_TEMPLATE/feature_request.md",
+        "lines_changed": 20,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/PULL_REQUEST_TEMPLATE.md",
+        "lines_changed": 21,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/workflows/build.yaml",
+        "lines_changed": 74,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/.github/workflows/scorecard.yml",
+        "lines_changed": 46,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/.github/workflows/test.yml",
+        "lines_changed": 48,
+        "category": "Test"
+      },
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 18,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/workflows/publish.yml",
+        "lines_changed": 43,
+        "category": "Build"
+      }
+    ]
+  },
+  "d977f0e942b235b22e880d2a12028c977fbe9a76": {
+    "sha": "d977f0e942b235b22e880d2a12028c977fbe9a76",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T21:06:06Z",
+    "Files": [
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 4,
+        "category": "Development"
+      },
+      {
+        "filename": "docs/img/kuzco-demo.gif",
+        "lines_changed": 0,
+        "category": "development"
+      },
+      {
+        "filename": "docs/img/kuzco-demo.tape",
+        "lines_changed": 14,
+        "category": "development"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 8,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 54,
+        "category": "Development"
+      }
+    ]
+  },
+  "3c003282b9654342a8bf92fdf6bd08fc9fed448e": {
+    "sha": "3c003282b9654342a8bf92fdf6bd08fc9fed448e",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T21:04:48Z",
+    "Files": [
+      {
+        "filename": "docs/img/kuzco-demo.gif",
+        "lines_changed": 0,
+        "category": "development"
+      },
+      {
+        "filename": "docs/img/kuzco-demo.tape",
+        "lines_changed": 14,
+        "category": "development"
+      }
+    ]
+  },
+  "b63ac133c74dedfecd89f00bfeaaa023f4738bd9": {
+    "sha": "b63ac133c74dedfecd89f00bfeaaa023f4738bd9",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T20:43:18Z",
+    "Files": [
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 4,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 8,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 54,
+        "category": "Development"
+      }
+    ]
+  },
+  "045ba4ce5f6c444e08582fd3649773d5670a227b": {
+    "sha": "045ba4ce5f6c444e08582fd3649773d5670a227b",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T20:25:11Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/publish.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "94c9b9c582aef4b654157335ddea61ade25ec866": {
+    "sha": "94c9b9c582aef4b654157335ddea61ade25ec866",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T20:25:05Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/publish.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "3755f2fbba946121d44cd56ededa9ce3a6cc108f": {
+    "sha": "3755f2fbba946121d44cd56ededa9ce3a6cc108f",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T20:24:45Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/publish.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "27d7070495e4f128ac22d6f6e6fcc10e5c7f483e": {
+    "sha": "27d7070495e4f128ac22d6f6e6fcc10e5c7f483e",
+    "Author": "renovate[bot]",
+    "Date": "2024-10-16T20:23:52Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/publish.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "c18aeddefc623fa6b773483adf0c186aecdc569e": {
+    "sha": "c18aeddefc623fa6b773483adf0c186aecdc569e",
+    "Author": "renovate[bot]",
+    "Date": "2024-10-16T20:23:48Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/publish.yml",
+        "lines_changed": 2,
+        "category": "Build"
+      }
+    ]
+  },
+  "198dcb9c61b6687903fabe3794b58784af0621ff": {
+    "sha": "198dcb9c61b6687903fabe3794b58784af0621ff",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-16T20:23:24Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/publish.yml",
+        "lines_changed": 43,
+        "category": "Build"
+      }
+    ]
+  },
+  "e47973d4ef7ae18a4cbcb7f99a7fbd07042d9735": {
+    "sha": "e47973d4ef7ae18a4cbcb7f99a7fbd07042d9735",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-15T22:56:24Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/publish.yml",
+        "lines_changed": 43,
+        "category": "Build"
+      }
+    ]
+  },
+  "5a7bcd76dea50fe4892b9de6168a11652853a1c6": {
+    "sha": "5a7bcd76dea50fe4892b9de6168a11652853a1c6",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-15T22:48:26Z",
+    "Files": [
+      {
+        "filename": ".goreleaser.yaml",
+        "lines_changed": 18,
+        "category": "Build"
+      }
+    ]
+  },
+  "35a5324174d177c3a193b8b3f2eceedf939a05c4": {
+    "sha": "35a5324174d177c3a193b8b3f2eceedf939a05c4",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-14T20:20:28Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 12,
+        "category": "development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 12,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 48,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/opentofu_schema.go",
+        "lines_changed": 53,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/parser.go",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/terraform_schema.go",
+        "lines_changed": 2,
+        "category": "Development"
+      }
+    ]
+  },
+  "13f3d6f10e922b85a627a15fc8c1081ba4cf5fa7": {
+    "sha": "13f3d6f10e922b85a627a15fc8c1081ba4cf5fa7",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-14T20:17:48Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 6,
+        "category": "development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 2,
+        "category": "Development"
+      }
+    ]
+  },
+  "51eca897affbc074eca2c4d6f4d1963e7a3f7b38": {
+    "sha": "51eca897affbc074eca2c4d6f4d1963e7a3f7b38",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-14T19:30:29Z",
+    "Files": [
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 48,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/opentofu_schema.go",
+        "lines_changed": 53,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/parser.go",
+        "lines_changed": 2,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/terraform_schema.go",
+        "lines_changed": 2,
+        "category": "Development"
+      }
+    ]
+  },
+  "6f03aabbbf82238f3cc56322a07223d6d23ab4eb": {
+    "sha": "6f03aabbbf82238f3cc56322a07223d6d23ab4eb",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-14T17:13:35Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 6,
+        "category": "development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 8,
+        "category": "Development"
+      }
+    ]
+  },
+  "03e80566052d5c1a849f6a4180a17295193f5623": {
+    "sha": "03e80566052d5c1a849f6a4180a17295193f5623",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-08T13:41:21Z",
+    "Files": [
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 4,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/output.go",
+        "lines_changed": 6,
+        "category": "Development"
+      }
+    ]
+  },
+  "8569763c7e7d321dc42e398b42959da419e2d764": {
+    "sha": "8569763c7e7d321dc42e398b42959da419e2d764",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-08T13:36:40Z",
+    "Files": [
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 4,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/output.go",
+        "lines_changed": 6,
+        "category": "Development"
+      }
+    ]
+  },
+  "62d01b024e413a653ac3380bae98f898f14155d0": {
+    "sha": "62d01b024e413a653ac3380bae98f898f14155d0",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-07T16:24:07Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/Customizing_Ollama.md",
+        "lines_changed": 54,
+        "category": "development"
+      }
+    ]
+  },
+  "5e61f610088a03e2d257e012872a1ae242702789": {
+    "sha": "5e61f610088a03e2d257e012872a1ae242702789",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-07T16:23:15Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/Customizing_Ollama.md",
+        "lines_changed": 2,
+        "category": "development"
+      }
+    ]
+  },
+  "867354efff99b0978fba51940ac91bb7c422bc5d": {
+    "sha": "867354efff99b0978fba51940ac91bb7c422bc5d",
+    "Author": "RoseSecurity",
+    "Date": "2024-10-07T16:18:43Z",
+    "Files": [
+      {
+        "filename": "docs/Getting_Started.md",
+        "lines_changed": 54,
+        "category": "development"
+      }
+    ]
+  },
+  "2d61cfc7d2d9b9803f7032fe0965f9b61c8bca31": {
+    "sha": "2d61cfc7d2d9b9803f7032fe0965f9b61c8bca31",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-30T13:26:21Z",
+    "Files": [
+      {
+        "filename": "Makefile",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 6,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 44,
+        "category": "Development"
+      }
+    ]
+  },
+  "59a4668079152ab2934ac9dfb27dcc862712cce6": {
+    "sha": "59a4668079152ab2934ac9dfb27dcc862712cce6",
+    "Author": "Michael Pursifull",
+    "Date": "2024-09-28T03:11:12Z",
+    "Files": [
+      {
+        "filename": "Makefile",
+        "lines_changed": 2,
+        "category": "Build"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 6,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 44,
+        "category": "Development"
+      }
+    ]
+  },
+  "2a11affd75f3fb35e4a4138ff0f483b512bfcf26": {
+    "sha": "2a11affd75f3fb35e4a4138ff0f483b512bfcf26",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-27T15:22:29Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 16,
+        "category": "development"
+      }
+    ]
+  },
+  "877720deb2b502682e5c6f4f24f421c371d0c5af": {
+    "sha": "877720deb2b502682e5c6f4f24f421c371d0c5af",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-27T15:04:40Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 11,
+        "category": "development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 5,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/version.go",
+        "lines_changed": 64,
+        "category": "Development"
+      },
+      {
+        "filename": "docs/img/kuzco-demo.gif",
+        "lines_changed": 0,
+        "category": "development"
+      },
+      {
+        "filename": "docs/img/kuzco-demo.tape",
+        "lines_changed": 7,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco.md",
+        "lines_changed": 10,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_bash.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_fish.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_powershell.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_zsh.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_version.md",
+        "lines_changed": 29,
+        "category": "development"
+      },
+      {
+        "filename": "go.mod",
+        "lines_changed": 30,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 72,
+        "category": "Build"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 20,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 28,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/output.go",
+        "lines_changed": 45,
+        "category": "Development"
+      }
+    ]
+  },
+  "0f3e1bf9594322b2f6589f705ac832b3f24fc207": {
+    "sha": "0f3e1bf9594322b2f6589f705ac832b3f24fc207",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-27T15:02:00Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      }
+    ]
+  },
+  "bb1edb4eb3474a33cf23ed21f703e469455fb86d": {
+    "sha": "bb1edb4eb3474a33cf23ed21f703e469455fb86d",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-27T15:00:22Z",
+    "Files": [
+      {
+        "filename": "docs/img/kuzco-demo.gif",
+        "lines_changed": 0,
+        "category": "development"
+      },
+      {
+        "filename": "docs/img/kuzco-demo.tape",
+        "lines_changed": 7,
+        "category": "development"
+      }
+    ]
+  },
+  "7e20192bf516f048a693a60d51584416c91bfd69": {
+    "sha": "7e20192bf516f048a693a60d51584416c91bfd69",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-27T14:43:45Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 13,
+        "category": "development"
+      }
+    ]
+  },
+  "9d3a48ca260ff3a9832f06582fa2c04d63f837fb": {
+    "sha": "9d3a48ca260ff3a9832f06582fa2c04d63f837fb",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-27T14:42:19Z",
+    "Files": [
+      {
+        "filename": "docs/kuzco.md",
+        "lines_changed": 10,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_bash.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_fish.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_powershell.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_zsh.md",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_version.md",
+        "lines_changed": 29,
+        "category": "development"
+      }
+    ]
+  },
+  "836be01c61b2b1ccc6a2196a6091707071faaba0": {
+    "sha": "836be01c61b2b1ccc6a2196a6091707071faaba0",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-27T14:41:19Z",
+    "Files": [
+      {
+        "filename": "go.mod",
+        "lines_changed": 30,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 72,
+        "category": "Build"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 12,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 22,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/output.go",
+        "lines_changed": 45,
+        "category": "Development"
+      }
+    ]
+  },
+  "793d785f0be1f30d791e04f97165a216caeea9a6": {
+    "sha": "793d785f0be1f30d791e04f97165a216caeea9a6",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-27T14:14:35Z",
+    "Files": [
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 5,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/version.go",
+        "lines_changed": 64,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 8,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 8,
+        "category": "Development"
+      }
+    ]
+  },
+  "aaf69df29c285fdfe2dfd3d248204f2c9afffc71": {
+    "sha": "aaf69df29c285fdfe2dfd3d248204f2c9afffc71",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T22:33:13Z",
+    "Files": [
+      {
+        "filename": ".github/workflows/codeql.yml",
+        "lines_changed": 49,
+        "category": "Build"
+      }
+    ]
+  },
+  "9121eb2423980916df463363df7aacdff1249037": {
+    "sha": "9121eb2423980916df463363df7aacdff1249037",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T22:23:23Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      }
+    ]
+  },
+  "251ce5ae31d11c4b294b8ca26f0e71711cc15132": {
+    "sha": "251ce5ae31d11c4b294b8ca26f0e71711cc15132",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T22:05:05Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      }
+    ]
+  },
+  "69c5f6827c9b27eb9968b28b5c0cc848b24f66c9": {
+    "sha": "69c5f6827c9b27eb9968b28b5c0cc848b24f66c9",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T18:12:14Z",
+    "Files": [
+      {
+        "filename": ".github/.github/CODEOWNERS",
+        "lines_changed": 1,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/FUNDING.yml",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/.github/ISSUE_TEMPLATE/bug_report.md",
+        "lines_changed": 27,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/ISSUE_TEMPLATE/feature_request.md",
+        "lines_changed": 20,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/PULL_REQUEST_TEMPLATE.md",
+        "lines_changed": 21,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/.github/workflows/build.yaml",
+        "lines_changed": 74,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/.github/workflows/scorecard.yml",
+        "lines_changed": 46,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/.github/workflows/test.yml",
+        "lines_changed": 48,
+        "category": "Test"
+      },
+      {
+        "filename": ".github/CODEOWNERS",
+        "lines_changed": 1,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/FUNDING.yml",
+        "lines_changed": 1,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/ISSUE_TEMPLATE/bug_report.md",
+        "lines_changed": 27,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/ISSUE_TEMPLATE/feature_request.md",
+        "lines_changed": 20,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/PULL_REQUEST_TEMPLATE.md",
+        "lines_changed": 21,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": ".github/workflows/build.yaml",
+        "lines_changed": 39,
+        "category": "Build"
+      },
+      {
+        "filename": ".github/workflows/scorecard.yml",
+        "lines_changed": 46,
+        "category": "Build"
+      },
+      {
+        "filename": ".goreleaser.yaml",
+        "lines_changed": 37,
+        "category": "Build"
+      }
+    ]
+  },
+  "75c33da810ee1768e0c9639202b1d299bec0eff7": {
+    "sha": "75c33da810ee1768e0c9639202b1d299bec0eff7",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T17:45:16Z",
+    "Files": [
+      {
+        "filename": "Brewfile",
+        "lines_changed": 1,
+        "category": "development"
+      }
+    ]
+  },
+  "e37dbe7617048baac4a08dc0850d018bc024464b": {
+    "sha": "e37dbe7617048baac4a08dc0850d018bc024464b",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T17:44:12Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 9,
+        "category": "development"
+      }
+    ]
+  },
+  "f846437ef8f52aad1b2a729ed0a1aee94844b5a4": {
+    "sha": "f846437ef8f52aad1b2a729ed0a1aee94844b5a4",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T16:59:24Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 9,
+        "category": "development"
+      },
+      {
+        "filename": "docs/img/kuzco-demo.gif",
+        "lines_changed": 0,
+        "category": "development"
+      }
+    ]
+  },
+  "21a5ce2350d6a3a3e7200753f1e60ed5f6f016b0": {
+    "sha": "21a5ce2350d6a3a3e7200753f1e60ed5f6f016b0",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T16:48:18Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      }
+    ]
+  },
+  "135ab2cd772d149e18336512aa22c5f9149117d1": {
+    "sha": "135ab2cd772d149e18336512aa22c5f9149117d1",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T16:46:41Z",
+    "Files": [
+      {
+        "filename": "README.md",
+        "lines_changed": 56,
+        "category": "development"
+      },
+      {
+        "filename": "docs/img/kuzco-demo.tape",
+        "lines_changed": 0,
+        "category": "development"
+      },
+      {
+        "filename": "docs/img/kuzco-logo.png",
+        "lines_changed": 0,
+        "category": "development"
+      }
+    ]
+  },
+  "12168259d9a31b070521518071f05ccd0a647efc": {
+    "sha": "12168259d9a31b070521518071f05ccd0a647efc",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T05:20:28Z",
+    "Files": [
+      {
+        "filename": "modules/s3-bucket.tf",
+        "lines_changed": 10,
+        "category": "Infrastructure"
+      }
+    ]
+  },
+  "9b65e2ef32b0a3747fd98c0804b77d1151571a5a": {
+    "sha": "9b65e2ef32b0a3747fd98c0804b77d1151571a5a",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T05:19:21Z",
+    "Files": [
+      {
+        "filename": ".editorconfig",
+        "lines_changed": 23,
+        "category": "development"
+      },
+      {
+        "filename": ".gitignore",
+        "lines_changed": 40,
+        "category": "development"
+      },
+      {
+        "filename": ".golangci.yml",
+        "lines_changed": 43,
+        "category": "Build"
+      },
+      {
+        "filename": ".pre-commit-config.yaml",
+        "lines_changed": 18,
+        "category": "Build"
+      },
+      {
+        "filename": "Brewfile",
+        "lines_changed": 2,
+        "category": "development"
+      },
+      {
+        "filename": "Makefile",
+        "lines_changed": 31,
+        "category": "Build"
+      },
+      {
+        "filename": "README.md",
+        "lines_changed": 3,
+        "category": "development"
+      },
+      {
+        "filename": "SECURITY.md",
+        "lines_changed": 29,
+        "category": "development"
+      },
+      {
+        "filename": "cmd/docs.go",
+        "lines_changed": 26,
+        "category": "Development"
+      },
+      {
+        "filename": "cmd/root.go",
+        "lines_changed": 64,
+        "category": "Development"
+      },
+      {
+        "filename": "docs/kuzco-demo.tape",
+        "lines_changed": 26,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco.md",
+        "lines_changed": 25,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion.md",
+        "lines_changed": 25,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_bash.md",
+        "lines_changed": 44,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_fish.md",
+        "lines_changed": 35,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_powershell.md",
+        "lines_changed": 32,
+        "category": "development"
+      },
+      {
+        "filename": "docs/kuzco_completion_zsh.md",
+        "lines_changed": 46,
+        "category": "development"
+      },
+      {
+        "filename": "go.mod",
+        "lines_changed": 31,
+        "category": "Build"
+      },
+      {
+        "filename": "go.sum",
+        "lines_changed": 59,
+        "category": "Build"
+      },
+      {
+        "filename": "internal/analyzer.go",
+        "lines_changed": 69,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/llm.go",
+        "lines_changed": 90,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/parser.go",
+        "lines_changed": 68,
+        "category": "Development"
+      },
+      {
+        "filename": "internal/schema.go",
+        "lines_changed": 58,
+        "category": "Development"
+      },
+      {
+        "filename": "main.go",
+        "lines_changed": 7,
+        "category": "Development"
+      },
+      {
+        "filename": "modules/s3-bucket.tf",
+        "lines_changed": 10,
+        "category": "Infrastructure"
+      },
+      {
+        "filename": "pkg/utils/logging.go",
+        "lines_changed": 44,
+        "category": "Development"
+      },
+      {
+        "filename": "renovate.json",
+        "lines_changed": 10,
+        "category": "Build"
+      },
+      {
+        "filename": "test/s3-bucket.tf",
+        "lines_changed": 10,
+        "category": "Test"
+      }
+    ]
+  },
+  "0bc56571370a5e1826d5bf022136141a6c15d5d2": {
+    "sha": "0bc56571370a5e1826d5bf022136141a6c15d5d2",
+    "Author": "RoseSecurity",
+    "Date": "2024-09-17T03:43:16Z",
+    "Files": [
+      {
+        "filename": ".gitignore",
+        "lines_changed": 25,
+        "category": "development"
+      },
+      {
+        "filename": "LICENSE",
+        "lines_changed": 201,
+        "category": "development"
+      },
+      {
+        "filename": "README.md",
+        "lines_changed": 2,
+        "category": "development"
+      }
+    ]
+  }
+}
