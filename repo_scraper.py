@@ -299,7 +299,10 @@ def parse_github_url(url):
         match = re.match(pattern, url.strip())
         if match:
             owner, repo = match.groups()
-            return owner, repo.rstrip(".git")
+            if repo.endswith(".git"):
+                repo = repo.rstrip(".git")
+
+            return owner, repo
 
     raise ValueError(f"Invalid GitHub URL format: {url}")
 
@@ -341,7 +344,6 @@ def get_all_commits(owner, repo):
 
                 page += 1
                 # Small delay to be respectful to the API
-                time.sleep(3)
             elif resp.status_code == 403:
                 print("Received a 403 error.")
                 # Check for specific rate limit headers
@@ -373,7 +375,6 @@ def get_all_commits(owner, repo):
         files_changed = get_commit_changed_files(owner, repo, commit_obj.sha)
         commit_obj.Files = files_changed
         data_we_need[commit_obj.sha] = commit_obj.to_dict()
-        time.sleep(3)
 
     # Write the processed data to a JSON file
     write_data_to_json(data_we_need, f"{repo}.json")
