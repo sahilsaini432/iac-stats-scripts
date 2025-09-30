@@ -240,7 +240,7 @@ class GitHubFileClassifier:
                         return category
 
         # Default to development if no other category matches
-        return "development"
+        return "Development"
 
 
 class FileData:
