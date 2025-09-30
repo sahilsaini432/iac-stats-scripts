@@ -400,7 +400,7 @@ def get_commit_changed_files(owner, repo, sha):
             print("Received a 403 error.")
             # Check for specific rate limit headers
             if "retry-after" in resp.headers:
-                wait_time = int(resp.headers["retry-after"])
+                wait_time = int(resp.headers["retry-after"]) + 5
                 print(f"Waiting for {wait_time} seconds before retrying.")
                 time.sleep(wait_time)
                 return get_commit_changed_files(owner, repo, sha)
