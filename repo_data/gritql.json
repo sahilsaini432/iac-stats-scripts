@@ -51,7 +51,7 @@
       {
         "filename": "python/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "python/gritql/__init__.py",
@@ -66,7 +66,7 @@
       {
         "filename": "python/gritql/py.typed",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "python/gritql/pytest.ini",
@@ -164,7 +164,7 @@
       {
         "filename": "__generated__/grit-wasm-bindings/README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "__generated__/grit-wasm-bindings/grit_wasm_bindings.d.ts",
@@ -179,7 +179,7 @@
       {
         "filename": "__generated__/grit-wasm-bindings/grit_wasm_bindings_bg.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "__generated__/grit-wasm-bindings/grit_wasm_bindings_bg.wasm.d.ts",
@@ -199,7 +199,7 @@
       {
         "filename": "__generated__/grit-wasm-bindings/marzano_wasm_bindings_bg.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "__generated__/grit-wasm-bindings/marzano_wasm_bindings_bg.wasm.d.ts",
@@ -219,12 +219,12 @@
       {
         "filename": "docs/.gitignore",
         "lines_changed": 48,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/README.md",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/checkly.config.ts",
@@ -254,257 +254,257 @@
       {
         "filename": "docs/public/arch-cli.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/arch-saas.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/autoreview-check.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/autoreview-new.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/bg.jpg",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/check-toggle.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/circleci-new.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/drift-detection.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/drift-found.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/favicon.svg",
         "lines_changed": 18,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/feedback.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/format-toggle.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/grit-logo.svg",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/heal-user.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/healing.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/may-stars.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/migration-sequence.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/morgante.jpeg",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/ruby-php.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/secrets-settings.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/slash-reject.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/slash-report.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/tree-sitter.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/vercel.svg",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/vsc-diagnostics.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/vsc-search.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-c-sharp.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-css.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-go.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-grit.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-gritql.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-hcl.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-html.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-java.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-javascript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-json.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-kotlin.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-markdown-block.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-markdown_inline.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-php.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-php_only.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-python.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-ruby.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-rust.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-solidity.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-sql.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-toml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-tsx.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-typescript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-vue.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/public/wasm_parsers/tree-sitter-yaml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/src/app/(doclike)/(default)/layout.tsx",
@@ -1850,7 +1850,7 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Cargo.lock",
@@ -1955,12 +1955,12 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-kotlin.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/Cargo.lock",
@@ -1975,12 +1975,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/Icon128.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/LICENSE",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/Makefile",
@@ -1995,27 +1995,27 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/README.md",
         "lines_changed": 66,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/binding.gyp",
         "lines_changed": 30,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/c/tree-sitter-kotlin.pc.in",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/c/tree-sitter.h.in",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/c/tree-sitter.pc.in",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/go/binding.go",
@@ -2030,7 +2030,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/node/binding.cc",
         "lines_changed": 20,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/node/index.d.ts",
@@ -2050,7 +2050,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/python/tree_sitter_kotlin/__init__.pyi",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/python/tree_sitter_kotlin/binding.c",
@@ -2060,12 +2060,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/python/tree_sitter_kotlin/py.typed",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/rust/README.md",
         "lines_changed": 22,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/bindings/rust/build.rs",
@@ -2115,7 +2115,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/playground-screenshot.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/pyproject.toml",
@@ -2125,7 +2125,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/queries/highlights.scm",
         "lines_changed": 380,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-kotlin/setup.py",
@@ -2170,12 +2170,12 @@
       {
         "filename": "resources/language-submodules/tree-sitter-c-sharp",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-submodules/tree-sitter-kotlin",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/metavariable-grammars/kotlin-metavariable-grammar.js",
@@ -2212,7 +2212,7 @@
       {
         "filename": "crates/grit-pattern-matcher/CHANGELOG.md",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/grit-pattern-matcher/Cargo.toml",
@@ -2281,7 +2281,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -2338,17 +2338,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/.clang-format",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/.editorconfig",
         "lines_changed": 39,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/.gitattributes",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/.github/ISSUE_TEMPLATE.md",
@@ -2368,12 +2368,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/.gitignore",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/CHANGELOG.md",
         "lines_changed": 51,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/Cargo.toml",
@@ -2383,7 +2383,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/LICENSE",
         "lines_changed": 176,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/Makefile",
@@ -2393,7 +2393,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/NOTICE",
         "lines_changed": 68,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/Package.swift",
@@ -2403,27 +2403,27 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/README.md",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/binding.gyp",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/bindings/c/tree-sitter-elixir.pc.in",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/bindings/c/tree-sitter.h.in",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/bindings/c/tree-sitter.pc.in",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/bindings/go/binding.go",
@@ -2438,7 +2438,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/bindings/node/binding.cc",
         "lines_changed": 20,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/bindings/node/binding_test.js",
@@ -2468,7 +2468,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/bindings/python/tree_sitter_elixir/__init__.pyi",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/bindings/python/tree_sitter_elixir/binding.c",
@@ -2478,7 +2478,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/bindings/python/tree_sitter_elixir/py.typed",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/bindings/rust/build.rs",
@@ -2503,17 +2503,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/docs/highlighting.md",
         "lines_changed": 60,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/docs/index.md",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/docs/parser.md",
         "lines_changed": 284,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/go.mod",
@@ -2548,22 +2548,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/queries/highlights.scm",
         "lines_changed": 223,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/queries/injections.scm",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/queries/locals.scm",
         "lines_changed": 27,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/queries/tags.scm",
         "lines_changed": 54,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-elixir/scripts/integration_test.sh",
@@ -2838,7 +2838,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -2867,7 +2867,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/tree-sitter-c_sharp.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -2884,7 +2884,7 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-c-sharp.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/grammar.js",
@@ -2936,7 +2936,7 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-c-sharp.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/Cargo.lock",
@@ -2966,7 +2966,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/tree-sitter-c_sharp.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/metavariable-grammars/c-sharp-metavariable-grammar.js",
@@ -2988,12 +2988,12 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".gitmodules",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Cargo.lock",
@@ -3013,22 +3013,22 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-c-sharp.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 19,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/.editorconfig",
         "lines_changed": 46,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/.npmignore",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/CMakeLists.txt",
@@ -3048,7 +3048,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/LICENSE",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/Makefile",
@@ -3063,12 +3063,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/README.md",
         "lines_changed": 43,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/binding.gyp",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/c/tree-sitter-c-sharp.h",
@@ -3078,7 +3078,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/c/tree-sitter-c-sharp.pc.in",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/go/binding.go",
@@ -3093,7 +3093,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/node/binding.cc",
         "lines_changed": 36,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/node/binding_test.js",
@@ -3123,7 +3123,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/python/tree_sitter_c_sharp/__init__.pyi",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/python/tree_sitter_c_sharp/binding.c",
@@ -3133,12 +3133,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/python/tree_sitter_c_sharp/py.typed",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/rust/README.md",
         "lines_changed": 37,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/rust/build.rs",
@@ -3168,7 +3168,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/eslint.config.mjs",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/go.mod",
@@ -3203,37 +3203,37 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/queries/highlights.scm",
         "lines_changed": 114,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/queries/tags.scm",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/script/file_sizes.txt",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/script/known_failures.txt",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/script/parse-examples",
         "lines_changed": 45,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/script/update-file-sizes",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/script/update-known-failures",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/setup.py",
@@ -3313,7 +3313,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/tree-sitter-c_sharp.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/tree-sitter.json",
@@ -3328,7 +3328,7 @@
       {
         "filename": "resources/language-submodules/tree-sitter-c-sharp",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/metavariable-grammars/c-sharp-metavariable-grammar.js",
@@ -3635,7 +3635,7 @@
       {
         "filename": "crates/cli/README.md",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "python/gritql/installer.py",
@@ -3667,7 +3667,7 @@
       {
         "filename": "crates/cli/README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/cli/src/updater.rs",
@@ -3709,7 +3709,7 @@
       {
         "filename": "crates/grit-pattern-matcher/CHANGELOG.md",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/grit-pattern-matcher/Cargo.toml",
@@ -4128,7 +4128,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -4150,7 +4150,7 @@
       {
         "filename": "crates/grit-pattern-matcher/CHANGELOG.md",
         "lines_changed": 36,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/grit-pattern-matcher/Cargo.toml",
@@ -4160,17 +4160,17 @@
       {
         "filename": "crates/grit-util/CHANGELOG.md",
         "lines_changed": 19,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/docs/assets/tree-sitter-toml-0.5.1/tree-sitter-toml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/docs/assets/web-tree-sitter-0.19.3/tree-sitter.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -5392,27 +5392,27 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-java.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-java/.editorconfig",
         "lines_changed": 39,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-java/.gitattributes",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-java/.gitignore",
         "lines_changed": 38,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-java/binding.gyp",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-java/bindings/c/tree-sitter-java.h",
@@ -5422,7 +5422,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-java/bindings/c/tree-sitter-java.pc.in",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-java/bindings/go/binding.go",
@@ -5442,7 +5442,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-java/bindings/node/binding.cc",
         "lines_changed": 36,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-java/bindings/node/index.d.ts",
@@ -5462,7 +5462,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-java/bindings/python/tree_sitter_java/__init__.pyi",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-java/bindings/python/tree_sitter_java/binding.c",
@@ -5472,7 +5472,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-java/bindings/python/tree_sitter_java/py.typed",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-java/bindings/rust/build.rs",
@@ -5861,7 +5861,7 @@
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -6056,7 +6056,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/cli/src/result_formatting.rs",
@@ -6480,7 +6480,7 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-yaml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/grammar.js",
@@ -7813,7 +7813,7 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-yaml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -7842,12 +7842,12 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 44,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Cargo.lock",
@@ -7862,27 +7862,27 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-yaml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 29,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/.editorconfig",
         "lines_changed": 36,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/.gitattributes",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/.gitignore",
         "lines_changed": 38,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/.travis.yml",
@@ -7892,7 +7892,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/CHANGELOG.md",
         "lines_changed": 69,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/Cargo.toml",
@@ -7902,7 +7902,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/LICENSE",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/Makefile",
@@ -7917,12 +7917,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/README.md",
         "lines_changed": 62,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/binding.gyp",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/bindings/c/tree-sitter-yaml.h",
@@ -7932,7 +7932,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/bindings/c/tree-sitter-yaml.pc.in",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/bindings/go/binding.go",
@@ -7952,7 +7952,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/bindings/node/binding.cc",
         "lines_changed": 36,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/bindings/node/index.d.ts",
@@ -7972,7 +7972,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/bindings/python/tree_sitter_yaml/__init__.pyi",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/bindings/python/tree_sitter_yaml/binding.c",
@@ -7982,7 +7982,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/bindings/python/tree_sitter_yaml/py.typed",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/bindings/rust/build.rs",
@@ -8002,7 +8002,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/docs/assets/tree-sitter-playground-0.19.3/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/docs/assets/tree-sitter-playground-0.19.3/playground.js",
@@ -8017,12 +8017,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/docs/assets/tree-sitter-yaml-0.5.0/tree-sitter-yaml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/docs/assets/web-tree-sitter-0.19.3/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/docs/assets/web-tree-sitter-0.19.3/tree-sitter.js",
@@ -8032,7 +8032,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/docs/assets/web-tree-sitter-0.19.3/tree-sitter.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/docs/index.html",
@@ -8077,7 +8077,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/queries/highlights.scm",
         "lines_changed": 79,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/schema/core/grammar.js",
@@ -8242,7 +8242,7 @@
       {
         "filename": "resources/language-submodules/tree-sitter-yaml",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/metavariable-grammars/yaml-metavariable-grammar.js",
@@ -8257,7 +8257,7 @@
       {
         "filename": "resources/metavariable-grammars/yaml-metavariable-scanner.cc",
         "lines_changed": 1034,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -8269,22 +8269,22 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-toml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 354,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/.gitattributes",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/.gitignore",
         "lines_changed": 38,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/Cargo.toml",
@@ -8304,7 +8304,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/binding.gyp",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/c/tree-sitter-toml.h",
@@ -8314,7 +8314,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/c/tree-sitter-toml.pc.in",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/go/binding.go",
@@ -8334,7 +8334,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/node/binding.cc",
         "lines_changed": 36,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/node/index.d.ts",
@@ -8354,7 +8354,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/python/tree_sitter_toml/__init__.pyi",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/python/tree_sitter_toml/binding.c",
@@ -8364,7 +8364,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/python/tree_sitter_toml/py.typed",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/rust/lib.rs",
@@ -8379,12 +8379,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/corpus/custom.txt",
         "lines_changed": 296,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/corpus/issues.txt",
         "lines_changed": 19,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/corpus/spec.txt",
@@ -8394,7 +8394,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/docs/assets/web-tree-sitter-0.19.3/tree-sitter.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/package-lock.json",
@@ -10591,17 +10591,17 @@
       {
         "filename": "python/.gitignore",
         "lines_changed": 130,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "python/README.md",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "python/gritql/README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "python/gritql/__init__.py",
@@ -11518,12 +11518,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/.yarn-integrity",
         "lines_changed": 49,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/CHANGELOG.md",
         "lines_changed": 557,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/CMakeLists.txt",
@@ -11533,97 +11533,97 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/LICENSE.md",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/README.md",
         "lines_changed": 456,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/asyncworker.md",
         "lines_changed": 146,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/buffers.md",
         "lines_changed": 54,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/callback.md",
         "lines_changed": 76,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/converters.md",
         "lines_changed": 41,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/errors.md",
         "lines_changed": 226,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/json.md",
         "lines_changed": 62,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/maybe_types.md",
         "lines_changed": 583,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/methods.md",
         "lines_changed": 672,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/new.md",
         "lines_changed": 147,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/node_misc.md",
         "lines_changed": 123,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/object_wrappers.md",
         "lines_changed": 263,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/persistent.md",
         "lines_changed": 296,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/scopes.md",
         "lines_changed": 73,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/script.md",
         "lines_changed": 58,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/string_bytes.md",
         "lines_changed": 62,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/v8_internals.md",
         "lines_changed": 199,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/doc/v8_misc.md",
         "lines_changed": 85,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/nan/include_dirs.js",
@@ -11768,7 +11768,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/.npmignore",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/Cargo.toml",
@@ -11778,7 +11778,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/Package.swift",
@@ -11788,17 +11788,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/README.md",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/binding.gyp",
         "lines_changed": 19,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/bindings/node/binding.cc",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/bindings/node/index.js",
@@ -11808,7 +11808,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/bindings/rust/README.md",
         "lines_changed": 46,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/bindings/rust/build.rs",
@@ -11913,32 +11913,32 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/queries/highlights-jsx.scm",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/queries/highlights-params.scm",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/queries/highlights.scm",
         "lines_changed": 205,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/queries/injections.scm",
         "lines_changed": 35,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/queries/locals.scm",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/queries/tags.scm",
         "lines_changed": 99,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/script/benchmark.js",
@@ -11948,12 +11948,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/script/known_failures.txt",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/script/parse-examples",
         "lines_changed": 43,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/src/grammar.json",
@@ -11983,7 +11983,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/tree-sitter-javascript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -12883,7 +12883,7 @@
       {
         "filename": ".grit/patterns/cargo_meta.md",
         "lines_changed": 20,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Cargo.lock",
@@ -12938,7 +12938,7 @@
       {
         "filename": "crates/grit-util/README.md",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/gritcache/Cargo.toml",
@@ -13017,7 +13017,7 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-ruby.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/grammar.js",
@@ -13116,7 +13116,7 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-ruby.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/.eslintrc.js",
@@ -13126,7 +13126,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/.gitignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/grammar.js",
@@ -13156,7 +13156,7 @@
       {
         "filename": "resources/language-submodules/tree-sitter-ruby",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/metavariable-grammars/ruby-metavariable-grammar.js",
@@ -13659,7 +13659,7 @@
       {
         "filename": "crates/grit-pattern-matcher/README.md",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/grit-pattern-matcher/src/binding.rs",
@@ -18089,12 +18089,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/JSONStream/LICENSE.APACHE2",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/JSONStream/LICENSE.MIT",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/JSONStream/bin.js",
@@ -18119,7 +18119,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/JSONStream/readme.markdown",
         "lines_changed": 207,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/JSONStream/test/bool.js",
@@ -18269,7 +18269,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-regex/license",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-regex/package.json",
@@ -18279,7 +18279,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-regex/readme.md",
         "lines_changed": 87,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-styles/index.js",
@@ -18289,7 +18289,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-styles/license",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-styles/package.json",
@@ -18299,7 +18299,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-styles/readme.md",
         "lines_changed": 147,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-find-index/index.js",
@@ -18309,7 +18309,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-find-index/license",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-find-index/package.json",
@@ -18319,12 +18319,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-find-index/readme.md",
         "lines_changed": 30,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-ify/README.md",
         "lines_changed": 51,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-ify/index.js",
@@ -18344,7 +18344,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/arrify/license",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/arrify/package.json",
@@ -18354,22 +18354,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/arrify/readme.md",
         "lines_changed": 36,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/balanced-match/.npmignore",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/balanced-match/LICENSE.md",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/balanced-match/README.md",
         "lines_changed": 91,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/balanced-match/index.js",
@@ -18384,12 +18384,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/brace-expansion/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/brace-expansion/README.md",
         "lines_changed": 129,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/brace-expansion/index.js",
@@ -18404,7 +18404,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/buffer-from/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/buffer-from/index.js",
@@ -18419,7 +18419,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/buffer-from/readme.md",
         "lines_changed": 69,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase-keys/index.js",
@@ -18429,7 +18429,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase-keys/license",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase-keys/package.json",
@@ -18439,7 +18439,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase-keys/readme.md",
         "lines_changed": 72,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase/index.js",
@@ -18449,7 +18449,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase/license",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase/package.json",
@@ -18459,7 +18459,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase/readme.md",
         "lines_changed": 57,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/index.js",
@@ -18469,12 +18469,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/index.js.flow",
         "lines_changed": 93,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/license",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/package.json",
@@ -18484,7 +18484,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/readme.md",
         "lines_changed": 314,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/templates.js",
@@ -18499,17 +18499,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/cliui/CHANGELOG.md",
         "lines_changed": 65,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/cliui/LICENSE.txt",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/cliui/README.md",
         "lines_changed": 115,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/cliui/index.js",
@@ -18524,17 +18524,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-convert/CHANGELOG.md",
         "lines_changed": 54,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-convert/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-convert/README.md",
         "lines_changed": 68,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-convert/conversions.js",
@@ -18564,17 +18564,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-name/.npmignore",
         "lines_changed": 107,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-name/LICENSE",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-name/README.md",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-name/index.js",
@@ -18594,17 +18594,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/commander/CHANGELOG.md",
         "lines_changed": 419,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/commander/LICENSE",
         "lines_changed": 22,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/commander/Readme.md",
         "lines_changed": 428,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/commander/index.js",
@@ -18624,7 +18624,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/compare-func/README.md",
         "lines_changed": 70,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/compare-func/index.js",
@@ -18644,12 +18644,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-map/LICENSE",
         "lines_changed": 18,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-map/README.markdown",
         "lines_changed": 62,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-map/example/map.js",
@@ -18674,7 +18674,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-stream/LICENSE",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-stream/index.js",
@@ -18689,22 +18689,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-stream/readme.md",
         "lines_changed": 102,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/CHANGELOG.md",
         "lines_changed": 352,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/README.md",
         "lines_changed": 103,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/conventional-changelog.js",
@@ -18734,22 +18734,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/templates/commit.hbs",
         "lines_changed": 61,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/templates/footer.hbs",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/templates/header.hbs",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/templates/template.hbs",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/writer-opts.js",
@@ -18759,17 +18759,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/CHANGELOG.md",
         "lines_changed": 165,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/README.md",
         "lines_changed": 41,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/conventional-changelog.js",
@@ -18799,17 +18799,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/templates/commit.hbs",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/templates/header.hbs",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/templates/template.hbs",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/writer-opts.js",
@@ -18819,17 +18819,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/CHANGELOG.md",
         "lines_changed": 170,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/README.md",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/conventional-changelog.js",
@@ -18859,17 +18859,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/templates/commit.hbs",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/templates/header.hbs",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/templates/template.hbs",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/writer-opts.js",
@@ -18934,17 +18934,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/CHANGELOG.md",
         "lines_changed": 132,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/README.md",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/add-bang-notes.js",
@@ -18979,22 +18979,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/templates/commit.hbs",
         "lines_changed": 30,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/templates/footer.hbs",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/templates/header.hbs",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/templates/template.hbs",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/writer-opts.js",
@@ -19084,17 +19084,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/CHANGELOG.md",
         "lines_changed": 222,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/README.md",
         "lines_changed": 63,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/conventional-changelog.js",
@@ -19124,17 +19124,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/templates/commit.hbs",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/templates/header.hbs",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/templates/template.hbs",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/writer-opts.js",
@@ -19144,17 +19144,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/CHANGELOG.md",
         "lines_changed": 207,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/README.md",
         "lines_changed": 53,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/conventional-changelog.js",
@@ -19184,17 +19184,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/templates/commit.hbs",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/templates/header.hbs",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/templates/template.hbs",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/writer-opts.js",
@@ -19204,17 +19204,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/CHANGELOG.md",
         "lines_changed": 132,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/README.md",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/conventional-changelog.js",
@@ -19244,17 +19244,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/templates/commit.hbs",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/templates/header.hbs",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/templates/template.hbs",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/writer-opts.js",
@@ -19264,17 +19264,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/CHANGELOG.md",
         "lines_changed": 210,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/README.md",
         "lines_changed": 52,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/conventional-changelog.js",
@@ -19304,17 +19304,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/templates/commit.hbs",
         "lines_changed": 56,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/templates/header.hbs",
         "lines_changed": 17,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/templates/template.hbs",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/writer-opts.js",
@@ -19324,17 +19324,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/CHANGELOG.md",
         "lines_changed": 170,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/README.md",
         "lines_changed": 90,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/conventional-changelog.js",
@@ -19364,22 +19364,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/templates/commit.hbs",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/templates/footer.hbs",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/templates/header.hbs",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/templates/template.hbs",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/writer-opts.js",
@@ -19389,17 +19389,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-preset-loader/CHANGELOG.md",
         "lines_changed": 154,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-preset-loader/LICENSE.md",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-preset-loader/README.md",
         "lines_changed": 41,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-preset-loader/index.js",
@@ -19414,17 +19414,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-writer/CHANGELOG.md",
         "lines_changed": 504,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-writer/LICENSE.md",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-writer/README.md",
         "lines_changed": 369,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-writer/cli.js",
@@ -19449,37 +19449,37 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-writer/templates/commit.hbs",
         "lines_changed": 56,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-writer/templates/footer.hbs",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-writer/templates/header.hbs",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-writer/templates/template.hbs",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog/CHANGELOG.md",
         "lines_changed": 838,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog/LICENSE.md",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog/README.md",
         "lines_changed": 66,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog/index.js",
@@ -19494,17 +19494,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-commits-filter/CHANGELOG.md",
         "lines_changed": 103,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-commits-filter/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-commits-filter/README.md",
         "lines_changed": 184,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-commits-filter/index.js",
@@ -19519,7 +19519,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-commits-parser/CHANGELOG.md",
         "lines_changed": 358,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -19553,22 +19553,22 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-ruby.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/.gitignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/.npmignore",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/.vscode/settings.json",
@@ -19588,17 +19588,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/README.md",
         "lines_changed": 17,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/binding.gyp",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/bindings/rust/README.md",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/bindings/rust/build.rs",
@@ -19668,7 +19668,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -19865,7 +19865,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -20166,7 +20166,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -20529,7 +20529,7 @@
       {
         "filename": "CODEOWNERS",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -21513,12 +21513,12 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-php.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-php_only.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/common/define-grammar.js",
@@ -21573,7 +21573,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -21696,7 +21696,7 @@
       {
         "filename": "crates/wasm-bindings/tree-sitter.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -21832,7 +21832,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/index.html",
@@ -22747,7 +22747,7 @@
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -23430,7 +23430,7 @@
       {
         "filename": "vendor/tree-sitter-facade",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -23813,7 +23813,7 @@
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/core/src/test.rs",
@@ -23828,12 +23828,12 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-markdown-block.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-markdown_inline.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-markdown/tree-sitter-markdown-inline/package.json",
@@ -24794,7 +24794,7 @@
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 40,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -24806,12 +24806,12 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Cargo.lock",
@@ -24891,22 +24891,22 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-gritql.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-php.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-php_only.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 46,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/.eslintrc.js",
@@ -24916,7 +24916,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-php/.npmignore",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/Cargo.lock",
@@ -24931,7 +24931,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-php/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/Makefile",
@@ -24946,27 +24946,27 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-php/README.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/binding.gyp",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/bindings/c/tree-sitter.h.in",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/bindings/c/tree-sitter.pc.in",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/bindings/node/binding.cc",
         "lines_changed": 37,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/bindings/node/index.js",
@@ -24986,7 +24986,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-php/bindings/rust/README.md",
         "lines_changed": 43,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/bindings/rust/build.rs",
@@ -25091,12 +25091,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-php/php/binding.gyp",
         "lines_changed": 19,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/php/bindings/node/binding.cc",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/php/bindings/node/index.js",
@@ -25171,12 +25171,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-php/php_only/binding.gyp",
         "lines_changed": 19,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/php_only/bindings/node/binding.cc",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/php_only/bindings/node/index.js",
@@ -25246,37 +25246,37 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-php/queries/highlights.scm",
         "lines_changed": 155,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/queries/injections-text.scm",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/queries/injections.scm",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/queries/tags.scm",
         "lines_changed": 40,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/script/known-failures.txt",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-php/script/parse-examples",
         "lines_changed": 49,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-submodules/tree-sitter-php",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/metavariable-grammars/php-common-metavariable-grammar.js",
@@ -25347,22 +25347,22 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-tsx.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-typescript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/tsx/tree-sitter-tsx.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/typescript/tree-sitter-typescript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -25449,7 +25449,7 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-vue.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/build/Makefile",
@@ -25928,7 +25928,7 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-javascript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-javascript/grammar.js",
@@ -26060,7 +26060,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -26077,7 +26077,7 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-html.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-html/.appveyor.yml",
@@ -26102,12 +26102,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-html/README.md",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-html/bindings/rust/README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-html/grammar.js",
@@ -26212,7 +26212,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/tree-sitter-javascript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-vue/build/Makefile",
@@ -26232,7 +26232,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-vue/node_modules/.yarn-integrity",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-vue/node_modules/tree-sitter-html/.appveyor.yml",
@@ -26257,12 +26257,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-vue/node_modules/tree-sitter-html/README.md",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-vue/node_modules/tree-sitter-html/bindings/rust/README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-vue/node_modules/tree-sitter-html/build/Makefile",
@@ -26342,7 +26342,7 @@
       {
         "filename": "resources/language-submodules/tree-sitter-html",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/node-types/html-node-types.json",
@@ -26614,7 +26614,7 @@
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -27054,22 +27054,22 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-javascript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-tsx.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-typescript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-javascript/grammar.js",
@@ -27164,7 +27164,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/tree-sitter-javascript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/tsx/src/grammar.json",
@@ -27339,7 +27339,7 @@
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 51,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -27351,7 +27351,7 @@
       {
         "filename": ".gitattributes",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -27363,7 +27363,7 @@
       {
         "filename": "README.md",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -27375,7 +27375,7 @@
       {
         "filename": "README.md",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -27387,17 +27387,17 @@
       {
         "filename": "README.md",
         "lines_changed": 29,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "assets/grit-logo-darkmode.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "assets/grit-logo.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -27532,7 +27532,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -27606,7 +27606,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -29471,77 +29471,77 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-toml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-css/tree-sitter-css.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-go/tree-sitter-go.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-hcl/tree-sitter-hcl.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-html/tree-sitter-html.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-java/tree-sitter-java.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-javascript/tree-sitter-javascript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-json/tree-sitter-json.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-markdown/tree-sitter-markdown-inline/tree-sitter-markdown_inline.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-markdown/tree-sitter-markdown/tree-sitter-markdown.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-python/tree-sitter-python.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-ruby/tree-sitter-ruby.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-rust/tree-sitter-rust.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-solidity/tree-sitter-solidity.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/rust/build.rs",
@@ -29571,7 +29571,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/tree-sitter-toml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/build/Makefile",
@@ -29626,17 +29626,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/node_modules/tree-sitter-javascript/tree-sitter-javascript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/tsx/tree-sitter-tsx.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-typescript/typescript/tree-sitter-typescript.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-vue/build/Makefile",
@@ -29671,12 +29671,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-vue/node_modules/tree-sitter-html/tree-sitter-html.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-yaml/tree-sitter-yaml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/metavariable-grammars/toml-metavariable-grammar.js",
@@ -29691,7 +29691,7 @@
       {
         "filename": "vendor/tree-sitter-gritql",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -29720,7 +29720,7 @@
       {
         "filename": "SECURITY.md",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -29764,7 +29764,7 @@
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-c-sharp/bindings/rust/build.rs",
@@ -29884,7 +29884,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-vue/tree-sitter-vue.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -29896,27 +29896,27 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-go.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-markdown-block.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-toml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-go/bindings/rust/build.rs",
@@ -29931,17 +29931,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-go/tree-sitter-go.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/.editorconfig",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/.npmignore",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/.travis.yml",
@@ -29951,7 +29951,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/CHANGELOG.md",
         "lines_changed": 95,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/Cargo.toml",
@@ -29961,22 +29961,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/README.md",
         "lines_changed": 41,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/binding.gyp",
         "lines_changed": 19,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/node/binding.cc",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/bindings/node/index.js",
@@ -29996,7 +29996,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/docs/assets/tree-sitter-playground-0.19.3/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/docs/assets/tree-sitter-playground-0.19.3/playground.js",
@@ -30011,12 +30011,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/docs/assets/tree-sitter-toml-0.5.1/tree-sitter-toml.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/docs/assets/web-tree-sitter-0.19.3/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/docs/assets/web-tree-sitter-0.19.3/tree-sitter.js",
@@ -30026,7 +30026,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/docs/assets/web-tree-sitter-0.19.3/tree-sitter.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/docs/index.html",
@@ -30111,12 +30111,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/JSONStream/LICENSE.APACHE2",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/JSONStream/LICENSE.MIT",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/JSONStream/bin.js",
@@ -30141,7 +30141,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/JSONStream/readme.markdown",
         "lines_changed": 207,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/JSONStream/test/bool.js",
@@ -30291,7 +30291,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-regex/license",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-regex/package.json",
@@ -30301,7 +30301,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-regex/readme.md",
         "lines_changed": 87,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-styles/index.js",
@@ -30311,7 +30311,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-styles/license",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-styles/package.json",
@@ -30321,7 +30321,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/ansi-styles/readme.md",
         "lines_changed": 147,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-find-index/index.js",
@@ -30331,7 +30331,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-find-index/license",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-find-index/package.json",
@@ -30341,12 +30341,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-find-index/readme.md",
         "lines_changed": 30,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-ify/README.md",
         "lines_changed": 51,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/array-ify/index.js",
@@ -30366,7 +30366,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/arrify/license",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/arrify/package.json",
@@ -30376,22 +30376,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/arrify/readme.md",
         "lines_changed": 36,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/balanced-match/.npmignore",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/balanced-match/LICENSE.md",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/balanced-match/README.md",
         "lines_changed": 91,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/balanced-match/index.js",
@@ -30406,12 +30406,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/brace-expansion/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/brace-expansion/README.md",
         "lines_changed": 129,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/brace-expansion/index.js",
@@ -30426,7 +30426,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/buffer-from/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/buffer-from/index.js",
@@ -30441,7 +30441,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/buffer-from/readme.md",
         "lines_changed": 69,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase-keys/index.js",
@@ -30451,7 +30451,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase-keys/license",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase-keys/package.json",
@@ -30461,7 +30461,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase-keys/readme.md",
         "lines_changed": 72,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase/index.js",
@@ -30471,7 +30471,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase/license",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase/package.json",
@@ -30481,7 +30481,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/camelcase/readme.md",
         "lines_changed": 57,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/index.js",
@@ -30491,12 +30491,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/index.js.flow",
         "lines_changed": 93,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/license",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/package.json",
@@ -30506,7 +30506,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/readme.md",
         "lines_changed": 314,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/chalk/templates.js",
@@ -30521,17 +30521,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/cliui/CHANGELOG.md",
         "lines_changed": 65,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/cliui/LICENSE.txt",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/cliui/README.md",
         "lines_changed": 115,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/cliui/index.js",
@@ -30546,17 +30546,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-convert/CHANGELOG.md",
         "lines_changed": 54,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-convert/LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-convert/README.md",
         "lines_changed": 68,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-convert/conversions.js",
@@ -30586,17 +30586,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-name/.npmignore",
         "lines_changed": 107,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-name/LICENSE",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-name/README.md",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/color-name/index.js",
@@ -30616,17 +30616,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/commander/CHANGELOG.md",
         "lines_changed": 419,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/commander/LICENSE",
         "lines_changed": 22,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/commander/Readme.md",
         "lines_changed": 428,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/commander/index.js",
@@ -30646,7 +30646,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/compare-func/README.md",
         "lines_changed": 70,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/compare-func/index.js",
@@ -30666,12 +30666,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-map/LICENSE",
         "lines_changed": 18,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-map/README.markdown",
         "lines_changed": 62,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-map/example/map.js",
@@ -30696,7 +30696,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-stream/LICENSE",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-stream/index.js",
@@ -30711,22 +30711,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/concat-stream/readme.md",
         "lines_changed": 102,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/CHANGELOG.md",
         "lines_changed": 352,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/README.md",
         "lines_changed": 103,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/conventional-changelog.js",
@@ -30756,22 +30756,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/templates/commit.hbs",
         "lines_changed": 61,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/templates/footer.hbs",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/templates/header.hbs",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/templates/template.hbs",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-angular/writer-opts.js",
@@ -30781,17 +30781,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/CHANGELOG.md",
         "lines_changed": 165,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/README.md",
         "lines_changed": 41,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/conventional-changelog.js",
@@ -30821,17 +30821,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/templates/commit.hbs",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/templates/header.hbs",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/templates/template.hbs",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-atom/writer-opts.js",
@@ -30841,17 +30841,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/CHANGELOG.md",
         "lines_changed": 170,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/README.md",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/conventional-changelog.js",
@@ -30881,17 +30881,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/templates/commit.hbs",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/templates/header.hbs",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/templates/template.hbs",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-codemirror/writer-opts.js",
@@ -30956,17 +30956,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/CHANGELOG.md",
         "lines_changed": 132,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/README.md",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/add-bang-notes.js",
@@ -31001,22 +31001,22 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/templates/commit.hbs",
         "lines_changed": 30,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/templates/footer.hbs",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/templates/header.hbs",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/templates/template.hbs",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-conventionalcommits/writer-opts.js",
@@ -31106,17 +31106,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/CHANGELOG.md",
         "lines_changed": 222,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/README.md",
         "lines_changed": 63,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/conventional-changelog.js",
@@ -31146,17 +31146,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/templates/commit.hbs",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/templates/header.hbs",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/templates/template.hbs",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-ember/writer-opts.js",
@@ -31166,17 +31166,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/CHANGELOG.md",
         "lines_changed": 207,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/README.md",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/conventional-changelog.js",
@@ -31206,17 +31206,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/templates/commit.hbs",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/templates/header.hbs",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/templates/template.hbs",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-eslint/writer-opts.js",
@@ -31226,17 +31226,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/CHANGELOG.md",
         "lines_changed": 132,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/README.md",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/conventional-changelog.js",
@@ -31266,17 +31266,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/templates/commit.hbs",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/templates/header.hbs",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/templates/template.hbs",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-express/writer-opts.js",
@@ -31286,17 +31286,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/CHANGELOG.md",
         "lines_changed": 210,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/README.md",
         "lines_changed": 52,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/conventional-changelog.js",
@@ -31326,17 +31326,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/templates/commit.hbs",
         "lines_changed": 56,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/templates/header.hbs",
         "lines_changed": 17,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/templates/template.hbs",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jquery/writer-opts.js",
@@ -31346,17 +31346,17 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/CHANGELOG.md",
         "lines_changed": 170,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/LICENSE.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/README.md",
         "lines_changed": 90,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/conventional-changelog.js",
@@ -31386,12 +31386,12 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/templates/commit.hbs",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-toml/node_modules/conventional-changelog-jshint/templates/footer.hbs",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -31430,7 +31430,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -31452,12 +31452,12 @@
       {
         "filename": "crates/wasm-bindings/wasm_parsers/tree-sitter-go.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/edit_grammars.mjs",
         "lines_changed": 22,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/language-metavariables/tree-sitter-go/bindings/rust/build.rs",
@@ -31482,7 +31482,7 @@
       {
         "filename": "resources/language-metavariables/tree-sitter-go/tree-sitter-go.wasm",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "resources/metavariable-grammars/go-metavariable-grammar.js",
@@ -31528,7 +31528,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/auth/src/info.rs",
@@ -32162,12 +32162,12 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".grit/.gitignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".grit/grit.yaml",
@@ -32177,17 +32177,17 @@
       {
         "filename": ".grit/patterns/flushable_unwrap.md",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".grit/patterns/no_panic.md",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -32199,12 +32199,12 @@
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "package.json",
@@ -32221,7 +32221,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -32233,7 +32233,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -32250,17 +32250,17 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".gitmodules",
         "lines_changed": 61,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 30,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Cargo.lock",
@@ -32275,12 +32275,12 @@
       {
         "filename": "LICENSE",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "README.md",
         "lines_changed": 69,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/auth/Cargo.toml",
@@ -32320,12 +32320,12 @@
       {
         "filename": "crates/cli/README.md",
         "lines_changed": 31,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/cli/benchmark/.gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "crates/cli/benchmark/apply.json",
@@ -33752,7 +33752,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       }
     ]
   }

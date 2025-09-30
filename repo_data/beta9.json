@@ -172,7 +172,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 27,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/pod.pb.go",
@@ -265,7 +265,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/middleware/subdomain.go",
@@ -389,7 +389,7 @@
       {
         "filename": "docs/openapi/README.md",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/openapi/volume.swagger.json",
@@ -399,7 +399,7 @@
       {
         "filename": "pkg/abstractions/volume/volume.proto",
         "lines_changed": 89,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/gateway.go",
@@ -544,7 +544,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 26,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/sandbox.go",
@@ -569,7 +569,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/types/worker.go",
@@ -599,7 +599,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/pod.pb.go",
@@ -776,7 +776,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/criu.go",
@@ -872,7 +872,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/criu_nvidia.go",
@@ -1078,7 +1078,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/http.go",
@@ -1093,7 +1093,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 106,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/sandbox.go",
@@ -1118,7 +1118,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 103,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/container.go",
@@ -1183,7 +1183,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 29,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/criu.go",
@@ -1233,7 +1233,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/backend_repo.pb.go",
@@ -1355,7 +1355,7 @@
       {
         "filename": "docs/openapi/README.md",
         "lines_changed": 46,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/openapi/gateway.swagger.json",
@@ -1390,32 +1390,32 @@
       {
         "filename": "googleapis/google/api/annotations.proto",
         "lines_changed": 31,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "googleapis/google/api/field_behavior.proto",
         "lines_changed": 104,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "googleapis/google/api/http.proto",
         "lines_changed": 370,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "googleapis/google/api/httpbody.proto",
         "lines_changed": 80,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 17,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 132,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/gateway.go",
@@ -1425,7 +1425,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 196,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/gateway.pb.go",
@@ -1603,7 +1603,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/sandbox.go",
@@ -1623,7 +1623,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/pod.pb.go",
@@ -1685,7 +1685,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/types.pb.go",
@@ -1766,7 +1766,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/storage_manager.go",
@@ -1893,7 +1893,7 @@
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 57,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/api/v1/workspace.go",
@@ -1948,7 +1948,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/storage_manager.go",
@@ -2034,7 +2034,7 @@
       {
         "filename": "sdk/uv.lock",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -2163,7 +2163,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/criu.go",
@@ -2514,7 +2514,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/snapshot",
@@ -2534,7 +2534,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/http.go",
@@ -2549,7 +2549,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 18,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/sandbox.go",
@@ -2569,7 +2569,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/image.pb.go",
@@ -2621,7 +2621,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "cmd/gateway/main.go",
@@ -2673,7 +2673,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "manifests/kustomize/components/beta9-gateway/service.yaml",
@@ -2713,7 +2713,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/middleware/subdomain.go",
@@ -2812,7 +2812,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/machine.go",
@@ -2949,7 +2949,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/beta9-cli",
@@ -2991,7 +2991,7 @@
       {
         "filename": "sdk/uv.lock",
         "lines_changed": 1866,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3003,7 +3003,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3069,7 +3069,7 @@
       {
         "filename": "sdk/uv.lock",
         "lines_changed": 1866,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3201,7 +3201,7 @@
       {
         "filename": "static/readme.gif",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3327,7 +3327,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3451,7 +3451,7 @@
       {
         "filename": "README.md",
         "lines_changed": 27,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3497,12 +3497,12 @@
       {
         "filename": "README.md",
         "lines_changed": 34,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "static/readme.gif",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3514,12 +3514,12 @@
       {
         "filename": "README.md",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "static/beam-logo-dark.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3696,7 +3696,7 @@
       {
         "filename": "README.md",
         "lines_changed": 50,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3774,7 +3774,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/sandbox.go",
@@ -3789,7 +3789,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/runc_server.go",
@@ -3799,7 +3799,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/pod.pb.go",
@@ -3910,7 +3910,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 32,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/sandbox.go",
@@ -3930,7 +3930,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/runc_server.go",
@@ -3940,7 +3940,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 29,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/pod.pb.go",
@@ -3985,7 +3985,7 @@
       {
         "filename": "sdk/uv.lock",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3997,7 +3997,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 22,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/sandbox.go",
@@ -4007,7 +4007,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/pod.pb.go",
@@ -4129,7 +4129,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 48,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/proxy.go",
@@ -4159,7 +4159,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/runc_server.go",
@@ -4174,7 +4174,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 36,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/pod.pb.go",
@@ -4320,7 +4320,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 151,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/common/runc_client.go",
@@ -4330,7 +4330,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/runc_server.go",
@@ -4350,7 +4350,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 146,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/pod.pb.go",
@@ -4380,7 +4380,7 @@
       {
         "filename": "sdk/.gitignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/pyproject.toml",
@@ -4505,7 +4505,7 @@
       {
         "filename": "sdk/.gitignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/src/beta9/abstractions/integrations/__init__.py",
@@ -4697,7 +4697,7 @@
       {
         "filename": "pkg/abstractions/taskqueue/taskqueue.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/volume/http.go",
@@ -4732,7 +4732,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/service.go",
@@ -4797,7 +4797,7 @@
       {
         "filename": "sdk/.gitignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/pyproject.toml",
@@ -4965,7 +4965,7 @@
       {
         "filename": "sdk/uv.lock",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -5159,12 +5159,12 @@
       {
         "filename": "pkg/abstractions/shell/shell.proto",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -5384,7 +5384,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -5404,7 +5404,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/gateway.pb.go",
@@ -5476,7 +5476,7 @@
       {
         "filename": "pkg/abstractions/shell/shell.proto",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/types/worker.go",
@@ -5638,7 +5638,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/proxy.go",
@@ -5648,7 +5648,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/image.pb.go",
@@ -5746,7 +5746,7 @@
       {
         "filename": ".stignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/ipbind_arm.so",
@@ -5830,7 +5830,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/ipbind_arm.so",
@@ -5912,17 +5912,17 @@
       {
         "filename": "README.md",
         "lines_changed": 164,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "static/beam-logo-white.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "static/beam-logo.jpeg",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -6347,7 +6347,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/worker.pb.go",
@@ -6700,7 +6700,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/types.pb.go",
@@ -6755,7 +6755,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/container_repo.pb.go",
@@ -6932,7 +6932,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/usage.go",
@@ -7140,7 +7140,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/usage.go",
@@ -7229,7 +7229,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/usage.go",
@@ -7528,7 +7528,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/src/beta9/clients/types/__init__.py",
@@ -7662,7 +7662,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/types.pb.go",
@@ -8587,7 +8587,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/repository/worker_repo.proto",
@@ -8627,7 +8627,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/gateway.pb.go",
@@ -8978,7 +8978,7 @@
       {
         "filename": "sdk/uv.lock",
         "lines_changed": 98,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -9064,7 +9064,7 @@
       {
         "filename": "sdk/uv.lock",
         "lines_changed": 1499,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -9088,7 +9088,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/machine.go",
@@ -9374,7 +9374,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 17,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/object.go",
@@ -9444,7 +9444,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 20,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/types/worker.go",
@@ -9681,7 +9681,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/types.pb.go",
@@ -9720,7 +9720,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/types.pb.go",
@@ -9742,7 +9742,7 @@
       {
         "filename": "pkg/abstractions/image/base_requirements.txt",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -9754,7 +9754,7 @@
       {
         "filename": "pkg/abstractions/image/base_requirements.txt",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -9844,7 +9844,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/volume_cache.so",
@@ -10209,7 +10209,7 @@
       {
         "filename": "pkg/abstractions/container/container.proto",
         "lines_changed": 32,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/endpoint/autoscaler.go",
@@ -10224,7 +10224,7 @@
       {
         "filename": "pkg/abstractions/endpoint/endpoint.proto",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/endpoint/instance.go",
@@ -10294,7 +10294,7 @@
       {
         "filename": "pkg/abstractions/taskqueue/taskqueue.proto",
         "lines_changed": 29,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/common/keys.go",
@@ -10319,7 +10319,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/container.go",
@@ -10369,7 +10369,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/container.pb.go",
@@ -11443,7 +11443,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/lifecycle.go",
@@ -11605,7 +11605,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/workspace.go",
@@ -11937,7 +11937,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/types.pb.go",
@@ -11979,7 +11979,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/container.go",
@@ -12165,7 +12165,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/logging.go",
@@ -12290,7 +12290,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -12340,7 +12340,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/autoscaler.go",
@@ -12370,7 +12370,7 @@
       {
         "filename": "pkg/abstractions/pod/pod.proto",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/pod/proxy.go",
@@ -12405,7 +12405,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/middleware/subdomain.go",
@@ -12470,7 +12470,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/cedana.go",
@@ -12793,7 +12793,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/common/io.go",
@@ -13074,7 +13074,7 @@
       {
         "filename": "pkg/abstractions/function/function.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/function/task.go",
@@ -13152,7 +13152,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/pool.go",
@@ -13172,7 +13172,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/gateway.pb.go",
@@ -13429,7 +13429,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/types.pb.go",
@@ -14070,7 +14070,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/common/config.default.yaml",
@@ -14152,7 +14152,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 31,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/repository/container_repo.go",
@@ -14222,7 +14222,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 30,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/types/worker.go",
@@ -14608,7 +14608,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -14653,7 +14653,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/repository/container_repo.go",
@@ -14738,7 +14738,7 @@
       {
         "filename": "pkg/types/types.proto",
         "lines_changed": 127,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/types/worker.go",
@@ -15109,7 +15109,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -15223,7 +15223,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/deployment.go",
@@ -15336,7 +15336,7 @@
       {
         "filename": "docs/opa/README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -15348,7 +15348,7 @@
       {
         "filename": "docs/opa/README.md",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -15360,7 +15360,7 @@
       {
         "filename": "docs/opa/README.md",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -15372,17 +15372,17 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/opa/README.md",
         "lines_changed": 75,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/opa/opa.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -15640,7 +15640,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -15761,7 +15761,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/image.pb.go",
@@ -16383,7 +16383,7 @@
       {
         "filename": "README.md",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy/fly-io/.dockerignore",
@@ -16448,7 +16448,7 @@
       {
         "filename": "pkg/abstractions/volume/volume.proto",
         "lines_changed": 106,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/common/config.default.yaml",
@@ -16463,7 +16463,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/types/config.go",
@@ -16905,7 +16905,7 @@
       {
         "filename": "pkg/abstractions/shell/shell.proto",
         "lines_changed": 18,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/api/v1/stub.go",
@@ -17268,7 +17268,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/workspace.go",
@@ -17422,7 +17422,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/gateway.go",
@@ -17972,7 +17972,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/common/redis_test.go",
@@ -18171,7 +18171,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -18381,7 +18381,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -18727,7 +18727,7 @@
       {
         "filename": ".stignore",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/setup.sh",
@@ -18772,7 +18772,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -19102,7 +19102,7 @@
       {
         "filename": "pkg/abstractions/taskqueue/taskqueue.proto",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/task/dispatch.go",
@@ -19403,7 +19403,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/machine.go",
@@ -19509,7 +19509,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -19596,7 +19596,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -19780,7 +19780,7 @@
       {
         "filename": "pkg/abstractions/experimental/bot/bot.proto",
         "lines_changed": 27,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/experimental/bot/http.go",
@@ -19869,7 +19869,7 @@
       {
         "filename": "pkg/abstractions/experimental/bot/bot.proto",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/experimental/bot/http.go",
@@ -20236,7 +20236,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/image.go",
@@ -20283,7 +20283,7 @@
       {
         "filename": "README.md",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -20447,7 +20447,7 @@
       {
         "filename": "pkg/abstractions/experimental/bot/bot.proto",
         "lines_changed": 52,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/experimental/bot/http.go",
@@ -20487,7 +20487,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -21083,7 +21083,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/container.go",
@@ -21700,7 +21700,7 @@
       {
         "filename": "README.md",
         "lines_changed": 77,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -22071,7 +22071,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/worker.go",
@@ -22240,7 +22240,7 @@
       {
         "filename": "pkg/abstractions/map/map.proto",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/map/map_redis.go",
@@ -22563,7 +22563,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -22846,7 +22846,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 57,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/service.go",
@@ -23800,7 +23800,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -23993,7 +23993,7 @@
       {
         "filename": "sdk/vendors.txt",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -24157,7 +24157,7 @@
       {
         "filename": "intercept.so",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -24169,7 +24169,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/volume_cache.so",
@@ -24184,7 +24184,7 @@
       {
         "filename": "intercept.so",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/worker/file_cache.go",
@@ -24608,7 +24608,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/image.pb.go",
@@ -24855,7 +24855,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -24867,7 +24867,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -24899,7 +24899,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -24911,7 +24911,7 @@
       {
         "filename": "README.md",
         "lines_changed": 152,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -25357,7 +25357,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -25466,7 +25466,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -25682,7 +25682,7 @@
       {
         "filename": "pkg/abstractions/function/function.proto",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/function/http.go",
@@ -25974,7 +25974,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -25986,7 +25986,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -26320,7 +26320,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 51,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/token.go",
@@ -26697,7 +26697,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -26709,12 +26709,12 @@
       {
         "filename": "README.md",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/jp/README.md",
         "lines_changed": 46,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -26932,7 +26932,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/pyproject.toml",
@@ -27025,7 +27025,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/src/beta9/abstractions/queue.py",
@@ -27654,7 +27654,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -27738,7 +27738,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/providers/ec2.go",
@@ -27807,7 +27807,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -27900,7 +27900,7 @@
       {
         "filename": "pkg/abstractions/volume/volume.proto",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/repository/backend_postgres.go",
@@ -28154,7 +28154,7 @@
       {
         "filename": "pkg/abstractions/experimental/signal/signal.proto",
         "lines_changed": 27,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/experimental/signal/signal_redis.go",
@@ -28777,7 +28777,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/machine.go",
@@ -28844,7 +28844,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/deployment.go",
@@ -29258,7 +29258,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/machine.go",
@@ -29332,7 +29332,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/machine.go",
@@ -29396,7 +29396,7 @@
       {
         "filename": "pkg/abstractions/endpoint/endpoint.proto",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/endpoint/serve.go",
@@ -29416,7 +29416,7 @@
       {
         "filename": "pkg/abstractions/taskqueue/taskqueue.proto",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/endpoint.pb.go",
@@ -29995,7 +29995,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -30077,7 +30077,7 @@
       {
         "filename": "pkg/abstractions/volume/volume.proto",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/volume.pb.go",
@@ -30313,7 +30313,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/object.go",
@@ -30372,7 +30372,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/object.go",
@@ -30414,7 +30414,7 @@
       {
         "filename": "README.md",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -30872,7 +30872,7 @@
       {
         "filename": ".stignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy/aws-dev/README.md",
@@ -31383,7 +31383,7 @@
       {
         "filename": "pkg/abstractions/secret/secret.proto",
         "lines_changed": 74,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/taskqueue/instance.go",
@@ -31408,7 +31408,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/stub.go",
@@ -31587,7 +31587,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/container.go",
@@ -31602,7 +31602,7 @@
       {
         "filename": "pkg/scheduler/scheduler.proto",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/scheduler/service.go",
@@ -31795,7 +31795,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/worker.pb.go",
@@ -31956,12 +31956,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/jp/README.md",
         "lines_changed": 206,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -32097,7 +32097,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 34,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/machine.go",
@@ -32264,7 +32264,7 @@
       {
         "filename": "pkg/abstractions/image/base_requirements.txt",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -32322,7 +32322,7 @@
       {
         "filename": "pkg/abstractions/image/base_requirements.txt",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/gen.sh",
@@ -32498,7 +32498,7 @@
       {
         "filename": "pkg/abstractions/image/base_requirements.txt",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/output/http.go",
@@ -33120,7 +33120,7 @@
       {
         "filename": "pkg/abstractions/output/output.proto",
         "lines_changed": 56,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/taskqueue/instance.go",
@@ -33597,7 +33597,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 22,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/services/container.go",
@@ -33709,7 +33709,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".github/workflows/test.yml",
@@ -33779,7 +33779,7 @@
       {
         "filename": "pkg/abstractions/container/container.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/endpoint/autoscaler.go",
@@ -33799,7 +33799,7 @@
       {
         "filename": "pkg/abstractions/endpoint/endpoint.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/endpoint/http.go",
@@ -33829,7 +33829,7 @@
       {
         "filename": "pkg/abstractions/function/function.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/function/http.go",
@@ -33844,7 +33844,7 @@
       {
         "filename": "pkg/abstractions/image/base_requirements.txt",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/image/build.go",
@@ -33864,7 +33864,7 @@
       {
         "filename": "pkg/abstractions/image/image.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/map/map.go",
@@ -33874,7 +33874,7 @@
       {
         "filename": "pkg/abstractions/map/map.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/map/map_redis.go",
@@ -33884,7 +33884,7 @@
       {
         "filename": "pkg/abstractions/queue/queue.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/queue/simplequeue.go",
@@ -33934,7 +33934,7 @@
       {
         "filename": "pkg/abstractions/taskqueue/taskqueue.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/volume/http.go",
@@ -33949,7 +33949,7 @@
       {
         "filename": "pkg/abstractions/volume/volume.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/abstractions/volume/volume_test.go",
@@ -34109,7 +34109,7 @@
       {
         "filename": "pkg/gateway/gateway.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/gateway/logging.go",
@@ -34359,7 +34359,7 @@
       {
         "filename": "pkg/scheduler/scheduler.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "pkg/scheduler/scheduler_test.go",
@@ -34554,7 +34554,7 @@
       {
         "filename": "pkg/worker/worker.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/gen.sh",
@@ -34571,7 +34571,7 @@
       {
         "filename": ".stignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy/charts/beta9/values.yaml",
@@ -34623,7 +34623,7 @@
       {
         "filename": "CODE_OF_CONDUCT.md",
         "lines_changed": 128,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -34635,7 +34635,7 @@
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -34683,47 +34683,47 @@
       {
         "filename": "LICENSE",
         "lines_changed": 862,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/es/README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/in/README.md",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/it/README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/kr/README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/pt/README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/tr/README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/zh/zh_cn/README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/zh/zh_cw/README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -34735,7 +34735,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "go.mod",
@@ -34767,7 +34767,7 @@
       {
         "filename": "README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -34779,7 +34779,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -34791,12 +34791,12 @@
       {
         "filename": "README.md",
         "lines_changed": 50,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "static/beam-logo.jpeg",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -34833,7 +34833,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 66,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/deployment.go",
@@ -34967,7 +34967,7 @@
       {
         "filename": "README.md",
         "lines_changed": 144,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -35119,7 +35119,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/deployment.go",
@@ -35307,7 +35307,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/deployment.go",
@@ -35391,7 +35391,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/delete_workers.sh",
@@ -35702,7 +35702,7 @@
       {
         "filename": "internal/abstractions/volume/volume.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/volume.pb.go",
@@ -35734,47 +35734,47 @@
       {
         "filename": "README.md",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/es/README.md",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/in/README.md",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/it/README.md",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/kr/README.md",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/pt/README.md",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/tr/README.md",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/zh/zh_cn/README.md",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/zh/zh_cw/README.md",
         "lines_changed": 20,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -35803,7 +35803,7 @@
       {
         "filename": "internal/abstractions/volume/volume.proto",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/volume.pb.go",
@@ -35840,47 +35840,47 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/es/README.md",
         "lines_changed": 148,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/in/README.md",
         "lines_changed": 147,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/it/README.md",
         "lines_changed": 149,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/kr/README.md",
         "lines_changed": 148,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/pt/README.md",
         "lines_changed": 148,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/tr/README.md",
         "lines_changed": 148,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/zh/zh_cn/README.md",
         "lines_changed": 148,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/zh/zh_cw/README.md",
         "lines_changed": 148,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -35952,7 +35952,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/service.go",
@@ -36099,7 +36099,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/Makefile",
@@ -36905,7 +36905,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/auth.go",
@@ -37012,7 +37012,7 @@
       {
         "filename": "README.md",
         "lines_changed": 76,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -37078,7 +37078,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/stub.go",
@@ -37401,7 +37401,7 @@
       {
         "filename": "internal/abstractions/taskqueue/taskqueue.proto",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/gateway.go",
@@ -37470,7 +37470,7 @@
       {
         "filename": "internal/abstractions/endpoint/endpoint.proto",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/endpoint/instance.go",
@@ -37808,7 +37808,7 @@
       {
         "filename": "internal/abstractions/volume/volume.proto",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/repository/backend_postgres.go",
@@ -38044,7 +38044,7 @@
       {
         "filename": "internal/abstractions/endpoint/endpoint.proto",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/endpoint/http.go",
@@ -38074,7 +38074,7 @@
       {
         "filename": "internal/abstractions/image/base_requirements.txt",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/taskqueue/autoscaler.go",
@@ -38104,7 +38104,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 18,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/object.go",
@@ -38276,7 +38276,7 @@
       {
         "filename": "internal/abstractions/image/base_requirements.txt",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/volume/http.go",
@@ -38291,7 +38291,7 @@
       {
         "filename": "internal/abstractions/volume/volume.proto",
         "lines_changed": 45,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/volume/volume_test.go",
@@ -38527,7 +38527,7 @@
       {
         "filename": "sdk/README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -38578,12 +38578,12 @@
       {
         "filename": "internal/abstractions/image/base_requirements.txt",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/object.go",
@@ -38886,7 +38886,7 @@
       {
         "filename": "internal/abstractions/function/function.proto",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/function/http.go",
@@ -39508,7 +39508,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -39537,7 +39537,7 @@
       {
         "filename": "README.md",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -39571,7 +39571,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -39583,7 +39583,7 @@
       {
         "filename": "README.md",
         "lines_changed": 83,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -40059,7 +40059,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "go.mod",
@@ -40314,7 +40314,7 @@
       {
         "filename": "internal/abstractions/endpoint/endpoint.proto",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/endpoint/http.go",
@@ -40436,7 +40436,7 @@
       {
         "filename": "internal/abstractions/container/container.proto",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/container.pb.go",
@@ -40510,7 +40510,7 @@
       {
         "filename": "internal/abstractions/container/container.proto",
         "lines_changed": 23,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/function/function.go",
@@ -41006,7 +41006,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -41308,7 +41308,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -41550,7 +41550,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -41625,17 +41625,17 @@
       {
         "filename": "manifests/k3d/beta9.yaml.skip",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "manifests/k3d/juicefs.yaml.skip",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "manifests/k3d/localstack.yaml.skip",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "manifests/k3d/traefik-config.yaml",
@@ -41652,12 +41652,12 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".gitignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -41906,7 +41906,7 @@
       {
         "filename": "manifests/k3d/victoria-metrics.yaml.skip",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -41967,7 +41967,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "manifests/k3d/beta9.yaml",
@@ -41977,7 +41977,7 @@
       {
         "filename": "sdk/README.md",
         "lines_changed": 44,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/bin/demo.sh",
@@ -41992,17 +41992,17 @@
       {
         "filename": "sdk/docs/demo-list-tasks.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/docs/demo.gif",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/examples/demo/.beta9ignore",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/examples/demo/main.py",
@@ -42046,7 +42046,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docker/Dockerfile.gateway",
@@ -42183,7 +42183,7 @@
       {
         "filename": "manifests/k3d/victoria-metrics.yaml.skip",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -42259,7 +42259,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/src/beta9/sync.py",
@@ -42281,7 +42281,7 @@
       {
         "filename": "README.md",
         "lines_changed": 32,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/setup.sh",
@@ -42340,7 +42340,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy/aws-dev/variables.tf",
@@ -42357,7 +42357,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -42367,12 +42367,12 @@
       {
         "filename": "README.md",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "TODO.md",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/k3d.sh",
@@ -42452,7 +42452,7 @@
       {
         "filename": "internal/abstractions/endpoint/endpoint.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/function/function.go",
@@ -42462,7 +42462,7 @@
       {
         "filename": "internal/abstractions/function/function.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/function/http.go",
@@ -42482,7 +42482,7 @@
       {
         "filename": "internal/abstractions/image/image.proto",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/map/map.go",
@@ -42492,7 +42492,7 @@
       {
         "filename": "internal/abstractions/map/map.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/map/map_redis.go",
@@ -42502,7 +42502,7 @@
       {
         "filename": "internal/abstractions/queue/queue.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/queue/simplequeue.go",
@@ -42537,7 +42537,7 @@
       {
         "filename": "internal/abstractions/taskqueue/taskqueue.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/volume/volume.go",
@@ -42547,7 +42547,7 @@
       {
         "filename": "internal/abstractions/volume/volume.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/api/v1/deploy.go",
@@ -42627,7 +42627,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/auth.go",
@@ -42747,7 +42747,7 @@
       {
         "filename": "internal/scheduler/scheduler.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/scheduler/scheduler_test.go",
@@ -42832,7 +42832,7 @@
       {
         "filename": "internal/worker/worker.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "manifests/k3d/beta9.yaml",
@@ -42907,7 +42907,7 @@
       {
         "filename": "sdk/README.md",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/bin/docgen.md",
@@ -43149,7 +43149,7 @@
       {
         "filename": "LICENSE",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy/aws-dev/.gitignore",
@@ -43298,12 +43298,12 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".gitignore",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -43480,7 +43480,7 @@
       {
         "filename": "internal/abstractions/endpoint/endpoint.proto",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/function/function.go",
@@ -43490,7 +43490,7 @@
       {
         "filename": "internal/abstractions/function/function.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/repository/base.go",
@@ -43609,7 +43609,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -43631,7 +43631,7 @@
       {
         "filename": "README.md",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docker/Dockerfile.beam",
@@ -43673,7 +43673,7 @@
       {
         "filename": "README.md",
         "lines_changed": 27,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -43811,7 +43811,7 @@
       {
         "filename": "internal/abstractions/queue/queue.proto",
         "lines_changed": 18,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/queue/simplequeue.go",
@@ -43878,7 +43878,7 @@
       {
         "filename": "proto/cache.proto",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/cache_grpc.pb.go",
@@ -43972,17 +43972,17 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".flake8",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".secrets.template",
         "lines_changed": 54,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -44152,7 +44152,7 @@
       {
         "filename": "internal/scheduler/scheduler.proto",
         "lines_changed": 49,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/scheduler/scheduler_test.go",
@@ -44296,7 +44296,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/stub.go",
@@ -44507,7 +44507,7 @@
       {
         "filename": "internal/abstractions/function/function.proto",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/function/http.go",
@@ -44564,12 +44564,12 @@
       {
         "filename": "LICENSE",
         "lines_changed": 202,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "README.md",
         "lines_changed": 50,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -44796,7 +44796,7 @@
       {
         "filename": "internal/abstractions/function/function.proto",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/image/build.go",
@@ -44841,7 +44841,7 @@
       {
         "filename": "internal/abstractions/taskqueue/taskqueue.proto",
         "lines_changed": 68,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/common/keys.go",
@@ -44861,7 +44861,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/auth.go",
@@ -45033,7 +45033,7 @@
       {
         "filename": "internal/abstractions/function/function.proto",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/queue/simplequeue_redis.go",
@@ -45048,7 +45048,7 @@
       {
         "filename": "internal/abstractions/volume/volume.proto",
         "lines_changed": 18,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/gateway.go",
@@ -45058,7 +45058,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/stub.go",
@@ -45170,7 +45170,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 15,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/task.go",
@@ -45264,7 +45264,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 39,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/service.go",
@@ -45371,7 +45371,7 @@
       {
         "filename": ".secrets.template",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "hack/k3d.yaml",
@@ -45408,7 +45408,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/services/auth.go",
@@ -45465,7 +45465,7 @@
       {
         "filename": "sdk/.gitignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/src/beam/config.py",
@@ -45482,7 +45482,7 @@
       {
         "filename": "sdk/.gitignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/src/beam/__init__.py",
@@ -45563,7 +45563,7 @@
       {
         "filename": "internal/abstractions/function/function.proto",
         "lines_changed": 26,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/taskqueue/redis_queue.go",
@@ -45598,7 +45598,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 48,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/service.go",
@@ -45653,7 +45653,7 @@
       {
         "filename": "internal/scheduler/scheduler.proto",
         "lines_changed": 63,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/scheduler/service.go",
@@ -45800,7 +45800,7 @@
       {
         "filename": "internal/scheduler/scheduler.proto",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/worker/image.go",
@@ -45878,7 +45878,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/datamodels/backend.md",
@@ -45903,7 +45903,7 @@
       {
         "filename": "internal/gateway/gateway.proto",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/service.go",
@@ -46135,7 +46135,7 @@
       {
         "filename": "internal/abstractions/queue/queue.proto",
         "lines_changed": 20,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/queue/simplequeue.go",
@@ -46362,7 +46362,7 @@
       {
         "filename": "internal/abstractions/queue/queue.proto",
         "lines_changed": 26,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/queue/simplequeue.go",
@@ -46524,7 +46524,7 @@
       {
         "filename": ".flake8",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/queue/queue.go",
@@ -46534,7 +46534,7 @@
       {
         "filename": "internal/abstractions/queue/queue.proto",
         "lines_changed": 49,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/queue/simple_queue_redis.go",
@@ -46661,7 +46661,7 @@
       {
         "filename": ".flake8",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/queue/simple_queue_redis.go",
@@ -46764,7 +46764,7 @@
       {
         "filename": "internal/abstractions/queue/queue.proto",
         "lines_changed": 49,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/queue/redis_simple_queue.go",
@@ -46881,7 +46881,7 @@
       {
         "filename": ".secrets.template",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/gateway/gateway.go",
@@ -46930,22 +46930,22 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".gitignore",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".secrets.template",
         "lines_changed": 94,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".stignore",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -47025,12 +47025,12 @@
       {
         "filename": "internal/abstractions/function/function.proto",
         "lines_changed": 45,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/image/base_requirements.txt",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/image/build.go",
@@ -47257,7 +47257,7 @@
       {
         "filename": "proto/gateway.proto",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/gateway_grpc.pb.go",
@@ -47289,7 +47289,7 @@
       {
         "filename": "internal/abstractions/bucket/bucket.proto",
         "lines_changed": 17,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/common/logbuf.go",
@@ -47329,7 +47329,7 @@
       {
         "filename": "proto/gateway.proto",
         "lines_changed": 45,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/gateway_grpc.pb.go",
@@ -47351,7 +47351,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".vscode/settings.json",
@@ -47371,7 +47371,7 @@
       {
         "filename": "sdk/.gitignore",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/Makefile",
@@ -47381,7 +47381,7 @@
       {
         "filename": "sdk/README.md",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "sdk/__init__.py",
@@ -47595,7 +47595,7 @@
       {
         "filename": ".secrets.template",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -47675,7 +47675,7 @@
       {
         "filename": "internal/abstractions/image/base_requirements.txt",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/image/build.go",
@@ -47695,7 +47695,7 @@
       {
         "filename": "internal/abstractions/image/image.proto",
         "lines_changed": 45,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/volume/volume.go",
@@ -47855,7 +47855,7 @@
       {
         "filename": "internal/worker/worker.proto",
         "lines_changed": 39,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/bucket.pb.go",
@@ -47885,7 +47885,7 @@
       {
         "filename": "proto/gateway.proto",
         "lines_changed": 42,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/gateway_grpc.pb.go",
@@ -47925,7 +47925,7 @@
       {
         "filename": "proto/scheduler.proto",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/scheduler_grpc.pb.go",
@@ -47952,7 +47952,7 @@
       {
         "filename": ".secrets.template",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Dockerfile",
@@ -48009,7 +48009,7 @@
       {
         "filename": "internal/abstractions/map/map.proto",
         "lines_changed": 16,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/taskqueue/queue.go",
@@ -48034,7 +48034,7 @@
       {
         "filename": "proto/gateway.proto",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/gateway_grpc.pb.go",
@@ -48095,7 +48095,7 @@
       {
         "filename": "internal/abstractions/bucket/bucket.proto",
         "lines_changed": 17,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/filesystem/filesystem.go",
@@ -48110,7 +48110,7 @@
       {
         "filename": "internal/abstractions/map/map.proto",
         "lines_changed": 60,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "internal/abstractions/map/map_redis.go",
@@ -48220,7 +48220,7 @@
       {
         "filename": "proto/filesystem.proto",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/filesystem_grpc.pb.go",
@@ -48252,7 +48252,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Dockerfile",
@@ -48292,7 +48292,7 @@
       {
         "filename": "proto/filesystem.proto",
         "lines_changed": 9,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/filesystem_grpc.pb.go",
@@ -48796,12 +48796,12 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".secrets.template",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "cmd/beam/main.go",
@@ -49121,22 +49121,22 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".gitignore",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".secrets.template",
         "lines_changed": 50,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".stignore",
         "lines_changed": 18,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".vscode/settings.json",
@@ -49156,7 +49156,7 @@
       {
         "filename": "TODO.md",
         "lines_changed": 1,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "bin/__init__.py",
@@ -49501,7 +49501,7 @@
       {
         "filename": "proto/cache.proto",
         "lines_changed": 28,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/cache_grpc.pb.go",
@@ -49521,7 +49521,7 @@
       {
         "filename": "proto/imageservice.proto",
         "lines_changed": 47,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/imageservice_grpc.pb.go",
@@ -49536,7 +49536,7 @@
       {
         "filename": "proto/scheduler.proto",
         "lines_changed": 151,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "proto/scheduler_grpc.pb.go",

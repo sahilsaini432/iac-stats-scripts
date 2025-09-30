@@ -138,7 +138,7 @@
       {
         "filename": "CODEOWNERS",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -235,7 +235,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "metadata.yaml",
@@ -313,7 +313,7 @@
       {
         "filename": "README.md",
         "lines_changed": 40,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "assets/architecture.json",
@@ -323,12 +323,12 @@
       {
         "filename": "assets/architecture.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "assets/architecture.svg",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "examples/simple_example/main.tf",
@@ -353,7 +353,7 @@
       {
         "filename": "notebook/gen_ai_jss.ipynb",
         "lines_changed": 1119,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "outputs.tf",
@@ -505,7 +505,7 @@
       {
         "filename": "CHANGELOG.md",
         "lines_changed": 21,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "metadata.yaml",
@@ -758,7 +758,7 @@
       {
         "filename": "CODEOWNERS",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -888,7 +888,7 @@
       {
         "filename": "CODEOWNERS",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -1105,12 +1105,12 @@
       {
         "filename": "docs/contributing.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "notebook/gen_ai_jss.ipynb",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -1182,7 +1182,7 @@
       {
         "filename": "notebook/gen_ai_jss.ipynb",
         "lines_changed": 5,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "webhook/main.py",
@@ -1199,7 +1199,7 @@
       {
         "filename": "CHANGELOG.md",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "versions.tf",
@@ -1390,7 +1390,7 @@
       {
         "filename": "CHANGELOG.md",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "versions.tf",
@@ -1519,7 +1519,7 @@
       {
         "filename": "notebook/gen_ai_jss.ipynb",
         "lines_changed": 562,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "webhook/document_extract.py",
@@ -1563,7 +1563,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "main.tf",
@@ -1686,7 +1686,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "examples/simple_example/main.tf",
@@ -1735,7 +1735,7 @@
       {
         "filename": "README.md",
         "lines_changed": 66,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "metadata.display.yaml",
@@ -1782,7 +1782,7 @@
       {
         "filename": "notebook/gen_ai_jss.ipynb",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -1799,7 +1799,7 @@
       {
         "filename": "notebook/gen_ai_jss.ipynb",
         "lines_changed": 54,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -1811,7 +1811,7 @@
       {
         "filename": "notebook/gen_ai_jss.ipynb",
         "lines_changed": 670,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -1862,7 +1862,7 @@
       {
         "filename": ".flake8",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".github/workflows/lint.yaml",
@@ -1877,12 +1877,12 @@
       {
         "filename": "README.md",
         "lines_changed": 7,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "examples/simple_example/README.md",
         "lines_changed": 14,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "examples/simple_example/main.tf",
@@ -2025,7 +2025,7 @@
       {
         "filename": "CODEOWNERS",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -2083,17 +2083,17 @@
       {
         "filename": ".gitignore",
         "lines_changed": 59,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "CHANGELOG.md",
         "lines_changed": 17,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 131,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -2103,17 +2103,17 @@
       {
         "filename": "README.md",
         "lines_changed": 111,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "SECURITY.md",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "assets/icon.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "build/int.cloudbuild.yaml",
@@ -2123,7 +2123,7 @@
       {
         "filename": "config.env",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy.sh",
@@ -2280,7 +2280,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "main.tf",
@@ -2324,7 +2324,7 @@
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -2610,7 +2610,7 @@
       {
         "filename": "config.env",
         "lines_changed": 8,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy.sh",
@@ -2620,7 +2620,7 @@
       {
         "filename": "examples/simple_example/README.md",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "examples/simple_example/main.tf",
@@ -2759,7 +2759,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": ".github/release-please.yml",
@@ -2774,17 +2774,17 @@
       {
         "filename": ".gitignore",
         "lines_changed": 59,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "CHANGELOG.md",
         "lines_changed": 17,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 131,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Makefile",
@@ -2794,17 +2794,17 @@
       {
         "filename": "README.md",
         "lines_changed": 111,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "SECURITY.md",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "assets/icon.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "build/int.cloudbuild.yaml",
@@ -2814,7 +2814,7 @@
       {
         "filename": "config.env",
         "lines_changed": 6,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy.sh",
@@ -2824,7 +2824,7 @@
       {
         "filename": "examples/simple_example/README.md",
         "lines_changed": 25,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "examples/simple_example/main.tf",
@@ -2995,17 +2995,17 @@
       {
         "filename": "assets/architecture.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "assets/architecture.svg",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "config.env",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "src/main.py",
@@ -3137,12 +3137,12 @@
       {
         "filename": "assets/architecture.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "assets/architecture.svg",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3159,12 +3159,12 @@
       {
         "filename": "assets/architecture.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "assets/architecture.svg",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3176,7 +3176,7 @@
       {
         "filename": "assets/architecture.svg",
         "lines_changed": 24,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3188,7 +3188,7 @@
       {
         "filename": "assets/architecture.png",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3224,7 +3224,7 @@
       {
         "filename": "config.env",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "src/main.py",
@@ -3398,7 +3398,7 @@
       {
         "filename": "docs/CODE_OF_CONDUCT.md",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "terraform/webhook/bigquery.py",
@@ -3626,7 +3626,7 @@
       {
         "filename": "docs/CODE_OF_CONDUCT.md",
         "lines_changed": 0,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -3638,7 +3638,7 @@
       {
         "filename": "config.env",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "terraform/main.tf",
@@ -3655,7 +3655,7 @@
       {
         "filename": "config.env",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "src/main.py",
@@ -3804,7 +3804,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Dockerfile",
@@ -3814,12 +3814,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "config.env",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy.sh",
@@ -3936,7 +3936,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 13,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Dockerfile",
@@ -3946,12 +3946,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "config.env",
         "lines_changed": 12,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy.sh",
@@ -4090,7 +4090,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 11,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "Dockerfile",
@@ -4100,7 +4100,7 @@
       {
         "filename": "config.env",
         "lines_changed": 10,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "deploy.sh",
@@ -4127,22 +4127,22 @@
       {
         "filename": "LICENSE",
         "lines_changed": 202,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/code-of-conduct.md",
         "lines_changed": 93,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "docs/contributing.md",
         "lines_changed": 32,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -4154,7 +4154,7 @@
       {
         "filename": "config.env",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -4217,7 +4217,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "src/main.py",
@@ -4349,7 +4349,7 @@
       {
         "filename": "LICENSE",
         "lines_changed": 202,
-        "category": "development"
+        "category": "Development"
       },
       {
         "filename": "src/document_extract.py",
@@ -4494,7 +4494,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       }
     ]
   },
@@ -4506,7 +4506,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "development"
+        "category": "Development"
       }
     ]
   }
