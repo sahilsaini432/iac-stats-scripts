@@ -8,6 +8,7 @@ from collections import defaultdict
 from pathlib import Path
 import stat
 
+
 class InfraBuildOverlapAnalyzer:
     def __init__(self):
         self.total_commits = 0
@@ -77,10 +78,13 @@ class InfraBuildOverlapAnalyzer:
 
         # Process each commit
         for commit_sha, commit_data in data.items():
+            files = commit_data.get("Files", [])
+            if files is None or len(files) == 0:
+                continue  # Skip commits with no files
+
             self.total_commits += 1
 
             # Get all categories for this commit
-            files = commit_data.get("Files", [])
             commit_categories = set()
 
             for file_info in files:

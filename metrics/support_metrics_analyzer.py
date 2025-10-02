@@ -44,10 +44,13 @@ class CommitCategoryAnalyzer:
 
         # Process each commit
         for commit_sha, commit_data in data.items():
+            files = commit_data.get("Files", [])
+            if files is None or len(files) == 0:
+                continue  # Skip commits with no files
+
             self.total_commits += 1
 
             # Process files in this commit
-            files = commit_data.get("Files", [])
             commit_categories = set()  # Track categories touched by this commit
 
             for file_info in files:
@@ -166,7 +169,8 @@ def main():
                 analyzer.print_summary(os.path.basename(json_file))
 
                 # Export summary if requested
-                analyzer.export_summary(f"{fileName}-stats.json", json_file)
+                # TODO: Enable this to create a json file with stats
+                # analyzer.export_summary(f"{fileName}-stats.json", json_file)
 
             print()  # Add spacing between files
 
