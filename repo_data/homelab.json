@@ -19,7 +19,7 @@
       {
         "filename": "docs/reference/roadmap.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31,7 +31,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -43,7 +43,7 @@
       {
         "filename": "flake.nix",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -55,7 +55,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -67,7 +67,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/actualbudget/Chart.yaml",
@@ -144,7 +144,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -192,7 +192,7 @@
       {
         "filename": "docs/getting-started/vpn-setup.md",
         "lines_changed": 160,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -219,12 +219,12 @@
       {
         "filename": "external/terraform.tfvars.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "flake.nix",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -253,7 +253,7 @@
       {
         "filename": "docs/installation/production/external-resources.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/Makefile",
@@ -268,12 +268,12 @@
       {
         "filename": "flake.lock",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "flake.nix",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/tools_test.go",
@@ -295,47 +295,47 @@
       {
         "filename": "README.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/concepts/Development-shell.md",
         "lines_changed": 42,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/concepts/tools-container.md",
         "lines_changed": 40,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/configuration.md",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/deployment.md",
         "lines_changed": 16,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/prerequisites.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/sandbox.md",
         "lines_changed": 18,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/decision-records.md",
         "lines_changed": 23,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/overview.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -357,12 +357,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/backup-and-restore.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -379,27 +379,27 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/backup-and-restore.md",
         "lines_changed": 105,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/post-installation.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/external-resources.md",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/terraform.tfvars.example",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -527,7 +527,7 @@
       {
         "filename": "flake.nix",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe_server/tasks/main.yml",
@@ -549,12 +549,12 @@
       {
         "filename": "flake.lock",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "flake.nix",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/tools_test.go",
@@ -617,7 +617,7 @@
       {
         "filename": "README.md",
         "lines_changed": 17,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/homepage/values.yaml",
@@ -627,12 +627,12 @@
       {
         "filename": "docs/getting-started/vpn-setup.md",
         "lines_changed": 61,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/external-resources.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/main.tf",
@@ -662,7 +662,7 @@
       {
         "filename": "external/terraform.tfvars.example",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/variables.tf",
@@ -746,7 +746,7 @@
       {
         "filename": "docs/installation/production/external-resources.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -775,7 +775,7 @@
       {
         "filename": "docs/getting-started/user-onboarding.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "platform/kanidm/values.yaml",
@@ -886,7 +886,7 @@
       {
         "filename": "docs/reference/architecture/overview.md",
         "lines_changed": 106,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "scripts/configure",
@@ -950,57 +950,57 @@
       {
         "filename": "docs/concepts/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/getting-started/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/argocd.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/cert-manager.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/gitea.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -1017,7 +1017,7 @@
       {
         "filename": "README.md",
         "lines_changed": 48,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1029,7 +1029,7 @@
       {
         "filename": "system/monitoring-system/files/webhook-transformer/alertmanager-to-ntfy.jsonnet",
         "lines_changed": 48,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1058,7 +1058,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1171,12 +1171,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/license.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -1193,7 +1193,7 @@
       {
         "filename": "README.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "platform/zot/Chart.yaml",
@@ -1222,7 +1222,7 @@
       {
         "filename": "metal/roles/pxe_server/templates/kickstart.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1278,7 +1278,7 @@
       {
         "filename": "docs/concepts/secrets-management.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/main.tf",
@@ -1308,7 +1308,7 @@
       {
         "filename": "external/terraform.tfvars.example",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/variables.tf",
@@ -1388,22 +1388,22 @@
       {
         "filename": "README.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/single-node-cluster-adjustments.md",
         "lines_changed": 44,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/longhorn.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/overview.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -1432,7 +1432,7 @@
       {
         "filename": "metal/roles/pxe_server/templates/kickstart.ks.j2",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "system/longhorn-system/Chart.yaml",
@@ -1633,7 +1633,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1657,7 +1657,7 @@
       {
         "filename": "docs/how-to-guides/troubleshooting/pxe-boot.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1684,7 +1684,7 @@
       {
         "filename": "external/terraform.tfvars.example",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/variables.tf",
@@ -1724,7 +1724,7 @@
       {
         "filename": "system/monitoring-system/files/webhook-transformer/alertmanager-to-ntfy.jsonnet",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "system/monitoring-system/templates/configmap.yaml",
@@ -1787,17 +1787,17 @@
       {
         "filename": "README.md",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/external-resources.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/roadmap.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1890,7 +1890,7 @@
       {
         "filename": "external/terraform.tfvars.example",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/variables.tf",
@@ -1932,12 +1932,12 @@
       {
         "filename": "external/terraform.tfvars.example",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/terraform.tfvars.j2",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/tfvars.yml",
@@ -1966,7 +1966,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/seafile/Chart.yaml",
@@ -1981,12 +1981,12 @@
       {
         "filename": "docs/reference/architecture/overview.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/roadmap.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2010,7 +2010,7 @@
       {
         "filename": "Dockerfile.tools",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2034,7 +2034,7 @@
       {
         "filename": "docs/installation/post-installation.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2073,7 +2073,7 @@
       {
         "filename": "README.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2119,7 +2119,7 @@
       {
         "filename": "docs/how-to-guides/single-node-cluster-adjustments.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2196,12 +2196,12 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/media-management.md",
         "lines_changed": 63,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -2235,7 +2235,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/homepage/Chart.yaml",
@@ -2286,7 +2286,7 @@
       {
         "filename": "docs/getting-started/user-onboarding.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2315,7 +2315,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/hajimari/Chart.yaml",
@@ -2480,12 +2480,12 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/k3s/templates/kube-vip.yaml.j2",
         "lines_changed": 39,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2507,17 +2507,17 @@
       {
         "filename": "README.md",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/overview.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/roadmap.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/namespaces.yml",
@@ -2609,7 +2609,7 @@
       {
         "filename": "flake.nix",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "scripts/helm-diff",
@@ -2750,17 +2750,17 @@
       {
         "filename": "README.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/getting-started/user-onboarding.md",
         "lines_changed": 16,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/roadmap.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2794,12 +2794,12 @@
       {
         "filename": "flake.lock",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "flake.nix",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/go.mod",
@@ -2826,7 +2826,7 @@
       {
         "filename": "flake.nix",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "scripts/hacks",
@@ -3036,12 +3036,12 @@
       {
         "filename": "README.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/overview.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/main.tf",
@@ -3130,7 +3130,7 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3259,7 +3259,7 @@
       {
         "filename": "docs/reference/architecture/decision-records.md",
         "lines_changed": 44,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3271,32 +3271,32 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/concepts/secrets-management.md",
         "lines_changed": 34,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/vault.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/post-installation.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/overview.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/roadmap.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -3340,12 +3340,12 @@
       {
         "filename": "docs/concepts/secrets-management.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/post-installation.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "platform/dex/templates/secret.yaml",
@@ -3612,7 +3612,7 @@
       {
         "filename": "Dockerfile.tools",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Makefile",
@@ -3663,7 +3663,7 @@
       {
         "filename": "README.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3692,12 +3692,12 @@
       {
         "filename": ".envrc",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Dockerfile.tools",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Makefile",
@@ -3707,27 +3707,27 @@
       {
         "filename": "docs/concepts/tools-container.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/configuration.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/deployment.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/sandbox.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/decision-records.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/versions.tf",
@@ -3737,22 +3737,22 @@
       {
         "filename": "flake.lock",
         "lines_changed": 61,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "flake.nix",
         "lines_changed": 54,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "renovate.json5",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "shell.nix",
         "lines_changed": 42,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/tools_test.go",
@@ -3793,7 +3793,7 @@
       {
         "filename": "README.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "platform/harbor/Chart.yaml",
@@ -4021,7 +4021,7 @@
       {
         "filename": "shell.nix",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -4065,7 +4065,7 @@
       {
         "filename": "shell.nix",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -4232,7 +4232,7 @@
       {
         "filename": "Dockerfile.tools",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -4586,7 +4586,7 @@
       {
         "filename": "docs/installation/post-installation.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -4598,7 +4598,7 @@
       {
         "filename": "docs/installation/production/prerequisites.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -4659,7 +4659,7 @@
       {
         "filename": "shell.nix",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/go.mod",
@@ -4785,7 +4785,7 @@
       {
         "filename": "docs/how-to-guides/troubleshooting/pxe-boot.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -4862,12 +4862,12 @@
       {
         "filename": ".envrc",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/concepts/tools-container.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -4879,7 +4879,7 @@
       {
         "filename": "docs/installation/sandbox.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -4903,7 +4903,7 @@
       {
         "filename": "docs/reference/contributing.md",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -4920,7 +4920,7 @@
       {
         "filename": "docs/installation/post-installation.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5015,7 +5015,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5027,12 +5027,12 @@
       {
         "filename": "docs/how-to-guides/updating-documentation.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/post-installation.md",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5090,7 +5090,7 @@
       {
         "filename": "shell.nix",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5143,7 +5143,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "scripts/wait-main-apps",
@@ -5175,7 +5175,7 @@
       {
         "filename": "shell.nix",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/Makefile",
@@ -5209,7 +5209,7 @@
       {
         "filename": "shell.nix",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/tools_test.go",
@@ -5238,7 +5238,7 @@
       {
         "filename": "docs/concepts/certificate-management.md",
         "lines_changed": 56,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/concepts/testing.md",
@@ -5248,37 +5248,37 @@
       {
         "filename": "docs/how-to-guides/troubleshooting/argocd.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/cert-manager.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/gitea.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/longhorn.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/vault.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/networking.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/contributing.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -5295,7 +5295,7 @@
       {
         "filename": "docs/reference/architecture/decision-records.md",
         "lines_changed": 35,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5319,47 +5319,47 @@
       {
         "filename": "docs/concepts/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/getting-started/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/updating-documentation.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/index.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -5381,157 +5381,157 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/concepts/documentation.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/concepts/pxe-boot.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/concepts/secrets-management.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/concepts/tools-container.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/getting-started/install-pre-commit-hooks.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/getting-started/user-onboarding.md",
         "lines_changed": 46,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/add-or-remove-nodes.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/alternate-dns-setup.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/disable-dhcp-proxy-in-dnsmasq.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/expose-services-to-the-internet.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/run-commands-on-multiple-nodes.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/single-node-cluster-adjustments.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/argocd.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/cert-manager.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/gitea.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/longhorn.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/pxe-boot.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/troubleshooting/vault.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/how-to-guides/use-both-github-and-gitea.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/post-installation.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/configuration.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/deployment.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/external-resources.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/prerequisites.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/sandbox.md",
         "lines_changed": 23,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/decision-records.md",
         "lines_changed": 116,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/networking.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture/overview.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/tutorials/create-a-new-user-account.md",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/user-guide/onboarding.md",
         "lines_changed": 28,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -5548,7 +5548,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/tools_test.go",
@@ -5565,7 +5565,7 @@
       {
         "filename": "README.md",
         "lines_changed": 57,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5577,17 +5577,17 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/external-resources.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/tutorials/expose-services-to-the-internet.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5611,12 +5611,12 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/external-resources.md",
         "lines_changed": 36,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/main.tf",
@@ -5646,7 +5646,7 @@
       {
         "filename": "external/terraform.tfvars.j2",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/tfvars.yml",
@@ -5678,12 +5678,12 @@
       {
         "filename": "docs/installation/production/configuration.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/tools-container.md",
         "lines_changed": 36,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -5700,7 +5700,7 @@
       {
         "filename": "docs/installation/sandbox.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5729,17 +5729,17 @@
       {
         "filename": "docs/installation/production/configuration.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/deployment.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/sandbox.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -5769,7 +5769,7 @@
       {
         "filename": "shell.nix",
         "lines_changed": 40,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/tools_test.go",
@@ -5796,7 +5796,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -5906,7 +5906,7 @@
       {
         "filename": "metal/roles/pxe_server/templates/kickstart.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5918,7 +5918,7 @@
       {
         "filename": "docs/reference/changelog.md",
         "lines_changed": 19,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5959,12 +5959,12 @@
       {
         "filename": "docs/architecture/secrets-management.md",
         "lines_changed": 64,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/dnsmasq.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "platform/vault/files/generate-secrets/config.yaml",
@@ -6092,12 +6092,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/sandbox.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -6114,17 +6114,17 @@
       {
         "filename": "README.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/architecture/overview.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe_server/defaults/main.yml",
@@ -6134,7 +6134,7 @@
       {
         "filename": "metal/roles/pxe_server/templates/kickstart.ks.j2",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6156,12 +6156,12 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/tutorials/install-pre-commit-hooks.md",
         "lines_changed": 17,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -6190,12 +6190,12 @@
       {
         "filename": "README.md",
         "lines_changed": 19,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/contributing.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6207,7 +6207,7 @@
       {
         "filename": "docs/runbooks/dnsmasq.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -6224,12 +6224,12 @@
       {
         "filename": "docs/runbooks/dnsmasq.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe_server/defaults/main.yml",
@@ -6264,12 +6264,12 @@
       {
         "filename": "metal/roles/pxe_server/templates/dhcpd.conf.j2",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe_server/templates/dnsmasq.conf.j2",
         "lines_changed": 26,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6293,67 +6293,67 @@
       {
         "filename": "docs/architecture/bare-metal-provisioning.md",
         "lines_changed": 31,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/architecture/networking.md",
         "lines_changed": 23,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/architecture/overview.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/architecture/secrets-management.md",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/deployment.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/post-installation.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/contributing.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/argocd.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/cert-manager.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/documentation.md",
         "lines_changed": 33,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/gitea.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/longhorn.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/vault.md",
         "lines_changed": 30,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -6387,22 +6387,22 @@
       {
         "filename": "docs/installation/Development.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/configuration.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/deployment.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/external-resources.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6414,12 +6414,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/Development.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6465,7 +6465,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6482,7 +6482,7 @@
       {
         "filename": "README.md",
         "lines_changed": 348,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/Makefile",
@@ -6492,7 +6492,7 @@
       {
         "filename": "docs/README.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/book.toml",
@@ -6502,92 +6502,92 @@
       {
         "filename": "docs/index.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/Development.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/configuration.md",
         "lines_changed": 44,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/deployment.md",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/external-resources.md",
         "lines_changed": 32,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/post-installation.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/installation/production/prerequisites.md",
         "lines_changed": 79,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture.md",
         "lines_changed": 177,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/changelog.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/contributing.md",
         "lines_changed": 33,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/faq.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/license.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/roadmap.md",
         "lines_changed": 91,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/argocd.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/cert-manager.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/gitea.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/longhorn.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/runbooks/vault.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/src/CNAME",
@@ -6662,52 +6662,52 @@
       {
         "filename": "docs/troubleshooting.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/tutorials/add-or-remove-nodes.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/tutorials/create-a-new-user-account.md",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/tutorials/expose-services-to-the-internet.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/tutorials/manual-dns-setup.md",
         "lines_changed": 18,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/tutorials/run-commands-on-multiple-nodes.md",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/tutorials/single-node-cluster-adjustments.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/tutorials/use-both-github-and-gitea.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/user-guide/onboarding.md",
         "lines_changed": 28,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/README.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "mkdocs.yml",
@@ -6816,7 +6816,7 @@
       {
         "filename": "metal/roles/pxe_server/templates/kickstart.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6852,7 +6852,7 @@
       {
         "filename": "external/README.md",
         "lines_changed": 17,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6869,7 +6869,7 @@
       {
         "filename": "external/README.md",
         "lines_changed": 46,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -7266,7 +7266,7 @@
       {
         "filename": "README.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "bootstrap/argocd/values.yaml",
@@ -7334,7 +7334,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -7494,7 +7494,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "platform/authentik/Chart.yaml",
@@ -7639,7 +7639,7 @@
       {
         "filename": "docs/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/Makefile",
@@ -7804,12 +7804,12 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/book.toml",
@@ -7898,7 +7898,7 @@
       {
         "filename": "README.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -8194,7 +8194,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -8321,7 +8321,7 @@
       {
         "filename": "external/README.md",
         "lines_changed": 16,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/backblaze.tf",
@@ -8331,7 +8331,7 @@
       {
         "filename": "external/terraform.tfvars.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/tfvars.yml",
@@ -8647,12 +8647,12 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "platform/vault/.helmignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -8688,7 +8688,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -8748,7 +8748,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -8806,7 +8806,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -8852,12 +8852,12 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "platform/vault/.helmignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9248,7 +9248,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/src/SUMMARY.md",
@@ -9450,7 +9450,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/src/deployment/configuration.md",
@@ -9472,7 +9472,7 @@
       {
         "filename": "metal/roles/pxe_server/templates/kickstart.ks.j2",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9518,7 +9518,7 @@
       {
         "filename": "external/README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9530,7 +9530,7 @@
       {
         "filename": "metal/roles/pxe_server/templates/dhcpd.conf.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9542,7 +9542,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9595,7 +9595,7 @@
       {
         "filename": "metal/roles/pxe_server/templates/kickstart.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9631,7 +9631,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/src/deployment/configuration.md",
@@ -9757,7 +9757,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9769,7 +9769,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/Makefile",
@@ -9929,7 +9929,7 @@
       {
         "filename": "external/README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9941,7 +9941,7 @@
       {
         "filename": "docs/README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10175,7 +10175,7 @@
       {
         "filename": "renovate.json5",
         "lines_changed": 19,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10187,7 +10187,7 @@
       {
         "filename": "renovate.json5",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10492,7 +10492,7 @@
       {
         "filename": "README.md",
         "lines_changed": 123,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10540,7 +10540,7 @@
       {
         "filename": "README.md",
         "lines_changed": 42,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10552,7 +10552,7 @@
       {
         "filename": "README.md",
         "lines_changed": 38,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10564,7 +10564,7 @@
       {
         "filename": "README.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10576,7 +10576,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10636,7 +10636,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10648,7 +10648,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10783,7 +10783,7 @@
       {
         "filename": "metal/roles/pxe_server/templates/kickstart.ks.j2",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10851,7 +10851,7 @@
       {
         "filename": "README.md",
         "lines_changed": 45,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10875,7 +10875,7 @@
       {
         "filename": "README.md",
         "lines_changed": 22,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10887,7 +10887,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10899,7 +10899,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10940,7 +10940,7 @@
       {
         "filename": "README.md",
         "lines_changed": 24,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -11487,7 +11487,7 @@
       {
         "filename": "metal/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/Vagrantfile",
@@ -11711,7 +11711,7 @@
       {
         "filename": "README.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -11728,7 +11728,7 @@
       {
         "filename": "metal/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/Vagrantfile",
@@ -12559,7 +12559,7 @@
       {
         "filename": "metal/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/boot.yml",
@@ -12589,12 +12589,12 @@
       {
         "filename": "metal/roles/pxe_server/files/data/iso/.gitignore",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe_server/files/data/os/.gitignore",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe_server/files/data/pxe-config/.gitignore",
@@ -12639,17 +12639,17 @@
       {
         "filename": "metal/roles/pxe_server/templates/dhcpd.conf.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe_server/templates/grub.cfg.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe_server/templates/kickstart.ks.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/shutdown.yml",
@@ -12825,7 +12825,7 @@
       {
         "filename": ".gitattributes",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -12948,7 +12948,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/src/roadmap.md",
@@ -13231,7 +13231,7 @@
       {
         "filename": "external/README.md",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -13258,7 +13258,7 @@
       {
         "filename": "external/terraform.tfvars.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/variables.tf",
@@ -13307,7 +13307,7 @@
       {
         "filename": "README.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -13319,7 +13319,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "platform/gitea/files/init_gitops_repo.py",
@@ -13370,7 +13370,7 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -13573,7 +13573,7 @@
       {
         "filename": ".gitattributes",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -13585,7 +13585,7 @@
       {
         "filename": ".gitattributes",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -13754,7 +13754,7 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -13766,7 +13766,7 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -13850,7 +13850,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/blog/ingress.yaml",
@@ -14182,7 +14182,7 @@
       {
         "filename": "README.md",
         "lines_changed": 24,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -14342,7 +14342,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -14354,7 +14354,7 @@
       {
         "filename": "README.md",
         "lines_changed": 41,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -14492,7 +14492,7 @@
       {
         "filename": "external/README.md",
         "lines_changed": 67,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -14775,7 +14775,7 @@
       {
         "filename": "external/README.md",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/cloudflare.tf",
@@ -14809,7 +14809,7 @@
       {
         "filename": "external/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/backblaze.tf",
@@ -14826,7 +14826,7 @@
       {
         "filename": "external/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/applicationset.tf",
@@ -14853,7 +14853,7 @@
       {
         "filename": "external/README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -14945,7 +14945,7 @@
       {
         "filename": "external/.gitignore",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "external/applicationset.tf",
@@ -15011,7 +15011,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/grub.cfg.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -15298,7 +15298,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -15361,7 +15361,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/src/introduction.md",
@@ -15422,7 +15422,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/src/deployment/dns.md",
@@ -15626,7 +15626,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -15848,12 +15848,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -15865,12 +15865,12 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/src/CNAME",
@@ -15914,12 +15914,12 @@
       {
         "filename": "docs/introduction.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/license.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/src/SUMMARY.md",
@@ -16016,12 +16016,12 @@
       {
         "filename": "README.md",
         "lines_changed": 77,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/SUMMARY.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/deployment/README.md",
@@ -16061,32 +16061,32 @@
       {
         "filename": "docs/license.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/contributors.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/faq.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/try_on_a_vm.md",
         "lines_changed": 44,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -16098,12 +16098,12 @@
       {
         "filename": "docs/SUMMARY.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/introduction.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -16161,7 +16161,7 @@
       {
         "filename": "docs/reference/faq.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -16581,7 +16581,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/Makefile",
@@ -16688,12 +16688,12 @@
       {
         "filename": "LICENSE",
         "lines_changed": 674,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "LICENSE.md",
         "lines_changed": 675,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -16729,7 +16729,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -16765,7 +16765,7 @@
       {
         "filename": "docs/SUMMARY.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/deployment/dns.md",
@@ -16852,7 +16852,7 @@
       {
         "filename": "docs/troubleshooting/pxe_boot.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "scripts/pxe-logs",
@@ -17179,7 +17179,7 @@
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -17225,7 +17225,7 @@
       {
         "filename": "README.md",
         "lines_changed": 65,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -17237,7 +17237,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -17577,7 +17577,7 @@
       {
         "filename": "docs/changelog.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -17589,7 +17589,7 @@
       {
         "filename": "metal/README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -17601,7 +17601,7 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -17649,7 +17649,7 @@
       {
         "filename": "experimental/README.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "experimental/scripts/backup.sh",
@@ -17671,7 +17671,7 @@
       {
         "filename": "experimental/cluster-api/README.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "experimental/cluster-api/bootstrap.sh",
@@ -17723,12 +17723,12 @@
       {
         "filename": "experimental/terraform-cdk/.gitignore",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "experimental/terraform-cdk/README.md",
         "lines_changed": 33,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "experimental/terraform-cdk/cdktf.json",
@@ -17959,7 +17959,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "bootstrap/root-app/applicationsets/platform.yaml",
@@ -18011,7 +18011,7 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18023,7 +18023,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/authelia/Chart.yaml",
@@ -18116,7 +18116,7 @@
       {
         "filename": "README.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "bootstrap/Makefile",
@@ -18131,7 +18131,7 @@
       {
         "filename": "cluster/README.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cluster/main.tf",
@@ -18165,7 +18165,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/hosts.yml",
@@ -18190,12 +18190,12 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/k3s/templates/k3s.service.j2",
         "lines_changed": 24,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18248,7 +18248,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18270,7 +18270,7 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18287,12 +18287,12 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/k3s/templates/k3s.service.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18319,12 +18319,12 @@
       {
         "filename": "metal/roles/k3s/templates/config.yaml.j2",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/k3s/templates/k3s.service.j2",
         "lines_changed": 24,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18363,12 +18363,12 @@
       {
         "filename": "metal/roles/pxe-server/files/data/iso/.gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/data/os/.gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/data/pxe-config/.gitignore",
@@ -18413,7 +18413,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/dhcpd.conf.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/docker-compose.yml",
@@ -18423,22 +18423,22 @@
       {
         "filename": "metal/roles/pxe-server/templates/grub.cfg.j2",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 79,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/kickstart.ks.j2",
         "lines_changed": 51,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/tfstate/defaults/main.yml",
@@ -18453,7 +18453,7 @@
       {
         "filename": "metal/roles/tfstate/templates/backend.tfvars.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/wake/tasks/main.yml",
@@ -18492,7 +18492,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/kickstart.ks.j2",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18509,12 +18509,12 @@
       {
         "filename": "metal/roles/pxe-server/templates/grub.cfg.j2",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/kickstart.ks.j2",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18541,7 +18541,7 @@
       {
         "filename": "metal/roles/tfstate/templates/backend.tfvars.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18588,12 +18588,12 @@
       {
         "filename": "metal/roles/pxe-server/templates/grub.cfg.j2",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/kickstart.ks.j2",
         "lines_changed": 19,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18622,12 +18622,12 @@
       {
         "filename": "metal/roles/pxe-server/files/data/iso/.gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/data/os/.gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/docker-compose.yml",
@@ -18691,7 +18691,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/dhcpd.conf.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/docker-compose.yml",
@@ -18701,12 +18701,12 @@
       {
         "filename": "metal/roles/pxe-server/templates/grub.cfg.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 79,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18730,7 +18730,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -18783,7 +18783,7 @@
       {
         "filename": "docs/README.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/deployment/provisioning_flow.md",
@@ -19190,7 +19190,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/Makefile",
@@ -19278,7 +19278,7 @@
       {
         "filename": "apps/README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/kustomization.yaml",
@@ -19639,7 +19639,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -19822,7 +19822,7 @@
       {
         "filename": "experimental/README.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -19875,7 +19875,7 @@
       {
         "filename": ".gitattributes",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -19897,7 +19897,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/Makefile",
@@ -19912,7 +19912,7 @@
       {
         "filename": "cluster/README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cluster/bootstrap.tf",
@@ -19954,12 +19954,12 @@
       {
         "filename": "experimental/terraform-cdk/.gitignore",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "experimental/terraform-cdk/README.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "experimental/terraform-cdk/cdktf.json",
@@ -19991,7 +19991,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/Makefile",
@@ -20001,7 +20001,7 @@
       {
         "filename": "experimental/cluster-api/README.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "experimental/cluster-api/bootstrap.sh",
@@ -20058,7 +20058,7 @@
       {
         "filename": "experimental/cluster-api/README.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "experimental/cluster-api/bootstrap.sh",
@@ -20110,7 +20110,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/Makefile",
@@ -20142,7 +20142,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/kustomization.yaml",
@@ -20192,27 +20192,27 @@
       {
         "filename": "docs/reference/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting/pxe_boot.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -20234,7 +20234,7 @@
       {
         "filename": "experimetal/cluster/README.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "experimetal/cluster/bootstrap.sh",
@@ -20344,7 +20344,7 @@
       {
         "filename": "metal/README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/ansible.cfg",
@@ -20384,7 +20384,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/dhcp/dhcpd.conf.j2",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/docker-compose.yml",
@@ -20399,7 +20399,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 79,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/tftp/Dockerfile",
@@ -20409,7 +20409,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/tfstate/defaults/main.yml",
@@ -20424,7 +20424,7 @@
       {
         "filename": "metal/roles/tfstate/templates/backend.tfvars.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/wake/tasks/main.yml",
@@ -20543,7 +20543,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 30,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -20555,7 +20555,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Vagrantfile",
@@ -20572,7 +20572,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Vagrantfile",
@@ -20672,7 +20672,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -20696,7 +20696,7 @@
       {
         "filename": "docs/troubleshooting/pxe_boot.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -20733,17 +20733,17 @@
       {
         "filename": "docs/reference/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -20755,7 +20755,7 @@
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/defaults/main.yml",
@@ -20921,7 +20921,7 @@
       {
         "filename": "metal/README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/ansible.cfg",
@@ -20951,7 +20951,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/dhcp/dhcpd.conf.j2",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/docker-compose.yml",
@@ -20985,7 +20985,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21044,7 +21044,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 109,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/tftp/Dockerfile",
@@ -21054,7 +21054,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21081,7 +21081,7 @@
       {
         "filename": "metal/roles/tfstate/templates/backend.tfvars.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21283,7 +21283,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21427,22 +21427,22 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 121,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/README.md",
         "lines_changed": 121,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/SUMMARY.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21505,7 +21505,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/dhcp/dhcpd.conf.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21544,22 +21544,22 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 121,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/README.md",
         "lines_changed": 121,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/SUMMARY.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21571,12 +21571,12 @@
       {
         "filename": "README.md",
         "lines_changed": 122,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/Makefile",
@@ -21586,12 +21586,12 @@
       {
         "filename": "docs/README.md",
         "lines_changed": 121,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/SUMMARY.md",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/deployment/README.md",
@@ -21626,42 +21626,42 @@
       {
         "filename": "docs/introduction.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/faq.md",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 102,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/todo.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting/README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting/pxe_boot.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21673,7 +21673,7 @@
       {
         "filename": "docs/README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21685,12 +21685,12 @@
       {
         "filename": "README.md",
         "lines_changed": 122,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/Makefile",
@@ -21700,12 +21700,12 @@
       {
         "filename": "docs/README.md",
         "lines_changed": 121,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/SUMMARY.md",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/deployment/README.md",
@@ -21740,42 +21740,42 @@
       {
         "filename": "docs/introduction.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/architecture.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/reference/faq.md",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 102,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/todo.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting/README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting/pxe_boot.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21792,7 +21792,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21804,7 +21804,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/Makefile",
@@ -21814,7 +21814,7 @@
       {
         "filename": "docs/SUMMARY.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/book.toml",
@@ -21824,7 +21824,7 @@
       {
         "filename": "docs/introduction.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -21887,12 +21887,12 @@
       {
         "filename": "docs/ISSUE_TEMPLATE/bug_report.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/ISSUE_TEMPLATE/feature_request.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21933,7 +21933,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22164,12 +22164,12 @@
       {
         "filename": "docs/changelog.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22181,7 +22181,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/diagrams/provision.py",
@@ -22198,7 +22198,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/diagrams/provision.py",
@@ -22208,7 +22208,7 @@
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22237,7 +22237,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/bootstrap.tf",
@@ -22254,7 +22254,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22266,7 +22266,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 30,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22278,7 +22278,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22290,7 +22290,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -22312,7 +22312,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/diagrams/provision.py",
@@ -22329,7 +22329,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -22392,7 +22392,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22404,7 +22404,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22428,7 +22428,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/hosts.yml",
@@ -22468,7 +22468,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/dhcp/dhcpd.conf.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/docker-compose.yml",
@@ -22483,7 +22483,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/tftp/Dockerfile",
@@ -22493,7 +22493,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/wake/tasks/main.yml",
@@ -22522,7 +22522,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22534,7 +22534,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22558,7 +22558,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22599,7 +22599,7 @@
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22611,17 +22611,17 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/todo.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/README.md",
@@ -22681,22 +22681,22 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 64,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/fedora.ks.j2",
         "lines_changed": 55,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/network/network.ks.j2",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/tfstate/tasks/main.yml",
@@ -22706,7 +22706,7 @@
       {
         "filename": "metal/roles/tfstate/templates/backend.tfvars.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -22740,7 +22740,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 24,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/tfstate/tasks/main.yml",
@@ -22750,7 +22750,7 @@
       {
         "filename": "metal/roles/tfstate/templates/backend.tfvars.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22872,7 +22872,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22925,7 +22925,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22937,7 +22937,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22949,7 +22949,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22961,7 +22961,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22990,7 +22990,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/ignition/ignition.yaml.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23014,7 +23014,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23026,7 +23026,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/defaults/main.yml",
@@ -23135,7 +23135,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23208,7 +23208,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23225,12 +23225,12 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/fedora.ks.j2",
         "lines_changed": 55,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/network/network.ks.j2",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23242,7 +23242,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23254,7 +23254,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23266,7 +23266,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23278,7 +23278,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23290,7 +23290,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23302,7 +23302,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23314,7 +23314,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23338,7 +23338,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/tasks/server.yml",
@@ -23370,7 +23370,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/fedora.ks.j2",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23439,12 +23439,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/todo.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23456,7 +23456,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23468,7 +23468,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23480,7 +23480,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/resources/metallb.yaml",
@@ -23553,12 +23553,12 @@
       {
         "filename": "README.md",
         "lines_changed": 98,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23570,7 +23570,7 @@
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/group_vars/all.yml",
@@ -23597,17 +23597,17 @@
       {
         "filename": ".gitignore",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 31,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/todo.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/Makefile",
@@ -23632,7 +23632,7 @@
       {
         "filename": "metal/roles/tfstate/templates/backend.tfvars.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23644,7 +23644,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "scripts/backup.sh",
@@ -23678,7 +23678,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23702,7 +23702,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/kustomization.yaml",
@@ -23756,7 +23756,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23768,12 +23768,12 @@
       {
         "filename": "docs/changelog.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23802,17 +23802,17 @@
       {
         "filename": "README.md",
         "lines_changed": 26,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/changelog.md",
         "lines_changed": 57,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/roadmap.md",
         "lines_changed": 48,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23877,7 +23877,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23889,7 +23889,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/hosts.ini",
@@ -23940,7 +23940,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23952,12 +23952,12 @@
       {
         "filename": "README.md",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/debugging.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23986,7 +23986,7 @@
       {
         "filename": "docs/debugging.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -23998,7 +23998,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24010,7 +24010,7 @@
       {
         "filename": "README.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24022,7 +24022,7 @@
       {
         "filename": "README.md",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24034,7 +24034,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24224,12 +24224,12 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/fedora.ks.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24385,27 +24385,27 @@
       {
         "filename": "README.md",
         "lines_changed": 27,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/changelog.md",
         "lines_changed": 50,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/debugging.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/milestones.md",
         "lines_changed": 54,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/todo.md",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/Makefile",
@@ -24570,7 +24570,7 @@
       {
         "filename": "metal/README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/group_vars/all.yml",
@@ -24600,17 +24600,17 @@
       {
         "filename": "metal/roles/lxd/templates/env",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/lxd/templates/leader.yaml.j2",
         "lines_changed": 18,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/lxd/templates/member.yaml.j2",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/tfstate/tasks/main.yml",
@@ -24620,7 +24620,7 @@
       {
         "filename": "metal/roles/tfstate/templates/etcd.j2",
         "lines_changed": 44,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -24702,7 +24702,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24748,7 +24748,7 @@
       {
         "filename": "metal/roles/lxd/templates/leader.yaml.j2",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/snap/tasks/main.yml",
@@ -24765,7 +24765,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/group_vars/all.yml",
@@ -24790,17 +24790,17 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/fedora.ks.j2",
         "lines_changed": 35,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/network/network.ks.j2",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24824,7 +24824,7 @@
       {
         "filename": "docs/troubleshooting.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24848,7 +24848,7 @@
       {
         "filename": "README.md",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24860,7 +24860,7 @@
       {
         "filename": "docs/milestones.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24894,7 +24894,7 @@
       {
         "filename": ".gitattributes",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24906,7 +24906,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -24981,7 +24981,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -25010,7 +25010,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/Makefile",
@@ -25042,7 +25042,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -25078,7 +25078,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -25300,7 +25300,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/README.md",
@@ -25322,7 +25322,7 @@
       {
         "filename": "docs/milestones.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -25334,12 +25334,12 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/todo.md",
         "lines_changed": 19,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/modules/kubernetes-cluster/ansible/main.yml",
@@ -25376,7 +25376,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -25388,7 +25388,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -25577,7 +25577,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/cluster.tf",
@@ -25611,7 +25611,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 35,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/Makefile",
@@ -25661,7 +25661,7 @@
       {
         "filename": "metal/roles/lxd/templates/leader.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/tfstate/tasks/main.yml",
@@ -25683,7 +25683,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/modules/kubernetes-cluster-bootstrap/main.tf",
@@ -25809,7 +25809,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/modules/vpn/ansible/main.yml",
@@ -25953,7 +25953,7 @@
       {
         "filename": "docs/milestones.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/Makefile",
@@ -25980,7 +25980,7 @@
       {
         "filename": "metal/roles/lxd/templates/leader.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26045,7 +26045,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26067,7 +26067,7 @@
       {
         "filename": "metal/roles/tfstate/templates/etcd.j2",
         "lines_changed": 44,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26120,7 +26120,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 18,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/terraform.tf",
@@ -26154,7 +26154,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/tfstate/tasks/main.yml",
@@ -26164,12 +26164,12 @@
       {
         "filename": "metal/roles/tfstate/templates/minio.env.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/tfstate/templates/minio.service.j2",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26325,12 +26325,12 @@
       {
         "filename": "docs/milestones.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/todo.md",
         "lines_changed": 19,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26376,7 +26376,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26388,7 +26388,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/platform/cluster.tf",
@@ -26410,7 +26410,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/platform/terraform.tf",
@@ -26483,7 +26483,7 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26672,17 +26672,17 @@
       {
         "filename": "README.md",
         "lines_changed": 64,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/changelog.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/milestones.md",
         "lines_changed": 49,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26723,7 +26723,7 @@
       {
         "filename": "apps/README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/README.md",
@@ -26733,7 +26733,7 @@
       {
         "filename": "metal/README.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26745,7 +26745,7 @@
       {
         "filename": "README.md",
         "lines_changed": 32,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26762,12 +26762,12 @@
       {
         "filename": "docs/todo.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/troubleshooting.md",
         "lines_changed": 19,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26784,7 +26784,7 @@
       {
         "filename": "docs/TODO.md",
         "lines_changed": 16,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26835,7 +26835,7 @@
       {
         "filename": "docs/TODO.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26847,7 +26847,7 @@
       {
         "filename": "README.md",
         "lines_changed": 64,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26976,7 +26976,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27003,7 +27003,7 @@
       {
         "filename": "platform/README.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27015,12 +27015,12 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/Makefile",
@@ -27145,7 +27145,7 @@
       {
         "filename": "README.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "tools/Dockerfile",
@@ -27167,7 +27167,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/Makefile",
@@ -27182,7 +27182,7 @@
       {
         "filename": "metal/roles/lxd/templates/env",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27194,7 +27194,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/lxd/tasks/main.yml",
@@ -27204,7 +27204,7 @@
       {
         "filename": "metal/roles/lxd/templates/env",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27318,7 +27318,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27330,7 +27330,7 @@
       {
         "filename": "genesis/README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "genesis/docker-compose.yaml",
@@ -27396,7 +27396,7 @@
       {
         "filename": "metal/roles/lxd/templates/leader.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27423,17 +27423,17 @@
       {
         "filename": "metal/roles/lxd/templates/leader.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/lxd/templates/member.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/centos8.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27494,22 +27494,22 @@
       {
         "filename": "metal/roles/pxe-boot/templates/dhcp/dhcpd.conf.j2",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/centos8.ks.j2",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/network/network.ks.j2",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27546,7 +27546,7 @@
       {
         "filename": "metal/roles/lxd/templates/leader.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/tasks/main.yml",
@@ -27561,7 +27561,7 @@
       {
         "filename": "metal/roles/pxe-boot/templates/dhcp/dhcpd.conf.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/docker-compose.yml",
@@ -27576,12 +27576,12 @@
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/centos8.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/http/kickstart/network/network.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/Dockerfile",
@@ -27591,12 +27591,12 @@
       {
         "filename": "metal/roles/pxe-boot/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/http/kickstart/network/network.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/shutdown/tasks/main.yml",
@@ -27713,7 +27713,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/http/kickstart/centos8.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27766,7 +27766,7 @@
       {
         "filename": "README.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27800,12 +27800,12 @@
       {
         "filename": "metal/roles/tfstate/templates/minio.env.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/tfstate/templates/minio.service.j2",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/hosts.ini",
@@ -27910,7 +27910,7 @@
       {
         "filename": "metal/roles/lxd/templates/leader.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/hosts.ini",
@@ -28021,12 +28021,12 @@
       {
         "filename": "metal/roles/lxd/templates/leader.yaml.j2",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/lxd/templates/member.yaml.j2",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28055,12 +28055,12 @@
       {
         "filename": "metal/roles/lxd/templates/leader.yaml.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/lxd/templates/member.yaml.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28152,12 +28152,12 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "test/Makefile",
@@ -28194,7 +28194,7 @@
       {
         "filename": "metal/roles/lxd/templates/preseed.yaml.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/tfstate/tasks/main.yml",
@@ -28277,7 +28277,7 @@
       {
         "filename": "metal/roles/lxd/templates/preseed.yaml.j2",
         "lines_changed": 39,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28289,7 +28289,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28306,7 +28306,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28318,7 +28318,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28330,7 +28330,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28342,7 +28342,7 @@
       {
         "filename": "README.md",
         "lines_changed": 57,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28684,7 +28684,7 @@
       {
         "filename": "LICENSE",
         "lines_changed": 674,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28776,7 +28776,7 @@
       {
         "filename": "README.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28788,7 +28788,7 @@
       {
         "filename": "README.md",
         "lines_changed": 36,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28800,7 +28800,7 @@
       {
         "filename": "metal/README.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28812,7 +28812,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/group_vars/all.yml",
@@ -28842,7 +28842,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/dhcp/dhcpd.conf.j2",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/docker-compose.yml",
@@ -28857,12 +28857,12 @@
       {
         "filename": "metal/roles/pxe-server/templates/http/kickstart/centos8.ks.j2",
         "lines_changed": 51,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/http/kickstart/network/network.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/tftp/Dockerfile",
@@ -28872,7 +28872,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28884,7 +28884,7 @@
       {
         "filename": "metal/roles/pxe-server/files",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28896,7 +28896,7 @@
       {
         "filename": "metal/roles/pxe-server/files",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/dhcp/Dockerfile",
@@ -28926,22 +28926,22 @@
       {
         "filename": "metal/roles/pxe-server/templates/centos8.ks.j2",
         "lines_changed": 53,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/dhcpd.conf.j2",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/grub.cfg.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/network.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28953,12 +28953,12 @@
       {
         "filename": "metal/roles/pxe-server/files/http/kickstart/.gitkeep",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/tftp/tftpboot/.gitkeep",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28970,12 +28970,12 @@
       {
         "filename": "metal/roles/pxe-server/files/http/kickstart/.gitkeep",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/tftp/tftpboot/.gitkeep",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -28987,7 +28987,7 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -29023,7 +29023,7 @@
       {
         "filename": "metal/roles/pxe-server/files",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/dhcp/Dockerfile",
@@ -29053,22 +29053,22 @@
       {
         "filename": "metal/roles/pxe-server/templates/centos8.ks.j2",
         "lines_changed": 53,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/dhcpd.conf.j2",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/grub.cfg.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/network.ks.j2",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -29080,7 +29080,7 @@
       {
         "filename": "metal/roles/pxe-server/files",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -29170,7 +29170,7 @@
       {
         "filename": "README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/playbook.yml",
@@ -29180,7 +29180,7 @@
       {
         "filename": "metal/roles/pxe-server/files",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/tasks/main.yml",
@@ -29202,12 +29202,12 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -29229,22 +29229,22 @@
       {
         "filename": "docs/00_metal.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/01_infra.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/02_platform.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/03_apps.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -29268,7 +29268,7 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Makefile",
@@ -29278,7 +29278,7 @@
       {
         "filename": "apps/README.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "apps/index/Cargo.toml",
@@ -29313,22 +29313,22 @@
       {
         "filename": "docs/00_metal.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/01_infra.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/02_platform.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/03_apps.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/README.md",
@@ -29343,7 +29343,7 @@
       {
         "filename": "metal/README.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/reset.py",
@@ -29353,7 +29353,7 @@
       {
         "filename": "platform/README.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -29395,12 +29395,12 @@
       {
         "filename": "metal/roles/pxe-server/templates/dhcp/dhcpd.conf.j2",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/http/kickstart/centos8.ks.j2",
         "lines_changed": 53,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/http/kickstart/config/00-00-00-00-00-00.ks.j2",
@@ -29410,7 +29410,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -29437,12 +29437,12 @@
       {
         "filename": "metal/roles/pxe-server/templates/dhcp/dhcpd.conf.j2",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/http/kickstart/centos8.ks.j2",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/templates/http/kickstart/config/00-00-00-00-00-00.ks.j2",
@@ -29452,7 +29452,7 @@
       {
         "filename": "metal/roles/pxe-server/templates/tftp/tftpboot/grub.cfg.j2",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -29464,7 +29464,7 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/dhcp/Dockerfile",
@@ -29489,7 +29489,7 @@
       {
         "filename": "metal/roles/pxe-server/files/http/kickstart/centos8.ks.template",
         "lines_changed": 53,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/http/kickstart/config/00-00-00-00-00-00.ks.template",
@@ -29499,7 +29499,7 @@
       {
         "filename": "metal/roles/pxe-server/files/pxe-server",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/files/tftp/Dockerfile",
@@ -29521,7 +29521,7 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/hosts.ini",
@@ -29536,7 +29536,7 @@
       {
         "filename": "metal/roles/pxe-server/files/pxe-server",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/roles/pxe-server/tasks/main.yml",
@@ -29558,7 +29558,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "config/hosts.ini",
@@ -29575,7 +29575,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "metal/Makefile",
@@ -30250,7 +30250,7 @@
       {
         "filename": "README.md",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30324,7 +30324,7 @@
       {
         "filename": "README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30336,7 +30336,7 @@
       {
         "filename": "README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30348,7 +30348,7 @@
       {
         "filename": "README.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30454,7 +30454,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30538,7 +30538,7 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "infra/pxe-server",
@@ -30813,7 +30813,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Vagrantfile",
@@ -30842,7 +30842,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30866,7 +30866,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30878,12 +30878,12 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "pxe-server",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30907,7 +30907,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30943,7 +30943,7 @@
       {
         "filename": "README.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31015,7 +31015,7 @@
       {
         "filename": "pxe-server",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31054,12 +31054,12 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "pxe-server",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31212,7 +31212,7 @@
       {
         "filename": "roles/lxd/templates/lxd_preseed.yml.j2",
         "lines_changed": 31,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31378,7 +31378,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "playbook.yml",
@@ -31405,7 +31405,7 @@
       {
         "filename": "README.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31417,7 +31417,7 @@
       {
         "filename": ".README.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31585,7 +31585,7 @@
       {
         "filename": "roles/lxd/templates/lxd_preseed.yml.j2",
         "lines_changed": 31,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31758,7 +31758,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Vagrantfile",
@@ -31790,7 +31790,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31802,7 +31802,7 @@
       {
         "filename": "README.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31814,7 +31814,7 @@
       {
         "filename": "README.md",
         "lines_changed": 26,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31850,7 +31850,7 @@
       {
         "filename": "README.md",
         "lines_changed": 24,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31932,7 +31932,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32045,7 +32045,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32143,7 +32143,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32242,7 +32242,7 @@
       {
         "filename": "README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32348,7 +32348,7 @@
       {
         "filename": "README.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32428,7 +32428,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker-compose.yml",
@@ -32460,7 +32460,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   }

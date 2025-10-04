@@ -7,7 +7,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -305,7 +305,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/EmbeddingEngines/genericOpenAi/index.js",
@@ -342,7 +342,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/collectorApi/index.js",
@@ -435,7 +435,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -578,7 +578,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -618,17 +618,17 @@
       {
         "filename": "locales/README.ja-JP.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.env.example",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -700,7 +700,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -712,7 +712,7 @@
       {
         "filename": "BARE_METAL.md",
         "lines_changed": 34,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -994,7 +994,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -1019,7 +1019,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -1083,7 +1083,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -1215,7 +1215,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/workspaces.js",
@@ -1255,7 +1255,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 38,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/BackgroundWorkers/index.js",
@@ -1460,7 +1460,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -1587,7 +1587,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/http/index.js",
@@ -2036,7 +2036,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/__tests__/utils/TextSplitter/index.test.js",
@@ -2170,7 +2170,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -2210,7 +2210,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/utils.js",
@@ -2294,7 +2294,7 @@
       {
         "filename": "BARE_METAL.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2438,7 +2438,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -2918,7 +2918,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/chats/embed.js",
@@ -2977,17 +2977,17 @@
       {
         "filename": "extras/support/announcements/assets/mobile.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "extras/support/announcements/assets/private-browsing.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "extras/support/announcements/list.txt",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "package.json",
@@ -3104,7 +3104,7 @@
       {
         "filename": "README.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3116,7 +3116,7 @@
       {
         "filename": "CONTRIBUTING.md",
         "lines_changed": 105,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -4138,7 +4138,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/vectorDbProviders/milvus/index.js",
@@ -4272,7 +4272,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/admin.js",
@@ -4771,7 +4771,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/__tests__/utils/agentFlows/executor.test.js",
@@ -5167,7 +5167,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5691,7 +5691,7 @@
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -5720,7 +5720,7 @@
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6234,12 +6234,12 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/aws/cloudformation/DEPLOY.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/digitalocean/terraform/DEPLOY.md",
@@ -6281,7 +6281,7 @@
       {
         "filename": "README.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6447,7 +6447,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/locales/en/common.js",
@@ -6503,7 +6503,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -6533,27 +6533,27 @@
       {
         "filename": "locales/README.fa-IR.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.ja-JP.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.tr-TR.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -6600,7 +6600,7 @@
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6949,7 +6949,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -6961,7 +6961,7 @@
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -7005,12 +7005,12 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 35,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -7073,12 +7073,12 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 38,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -7164,7 +7164,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -7431,7 +7431,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -7509,7 +7509,7 @@
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -7545,7 +7545,7 @@
       {
         "filename": "README.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/admin.js",
@@ -8147,7 +8147,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/api/document/index.js",
@@ -8194,7 +8194,7 @@
       {
         "filename": "embed",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/public/embed/anythingllm-chat-widget.min.css",
@@ -8216,7 +8216,7 @@
       {
         "filename": "embed",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -8434,7 +8434,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/collectorApi/index.js",
@@ -9217,7 +9217,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9256,12 +9256,12 @@
       {
         "filename": "extras/support/announcements/assets/mcp.jpg",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "extras/support/announcements/list.txt",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/package.json",
@@ -9456,7 +9456,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -9530,7 +9530,7 @@
       {
         "filename": ".prettierignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/AiProviders/gemini/defaultModels.js",
@@ -9681,7 +9681,7 @@
       {
         "filename": "embed",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/public/embed/anythingllm-chat-widget.min.css",
@@ -9715,22 +9715,22 @@
       {
         "filename": "locales/README.fa-IR.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.ja-JP.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.tr-TR.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9776,7 +9776,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -9833,7 +9833,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/mcpServers.js",
@@ -10268,7 +10268,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/chats/apiChatHandler.js",
@@ -10305,12 +10305,12 @@
       {
         "filename": "locales/README.ja-JP.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 18,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10408,7 +10408,7 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -10853,7 +10853,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/collectorApi/index.js",
@@ -11057,7 +11057,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -11102,27 +11102,27 @@
       {
         "filename": "locales/README.fa-IR.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.ja-JP.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.tr-TR.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -11263,7 +11263,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/WorkspaceChat/ChatContainer/PromptInput/SpeechToText/index.jsx",
@@ -11315,7 +11315,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -11800,7 +11800,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -11962,7 +11962,7 @@
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 22,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -12150,7 +12150,7 @@
       {
         "filename": "locales/README.tr-TR.md",
         "lines_changed": 269,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -12231,7 +12231,7 @@
       {
         "filename": ".devcontainer/README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".github/workflows/build-and-push-image.yaml",
@@ -12246,7 +12246,7 @@
       {
         "filename": "BARE_METAL.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/extensions/resync/index.js",
@@ -12271,7 +12271,7 @@
       {
         "filename": "frontend/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/DataConnectorOption/media/index.js",
@@ -12413,7 +12413,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -12425,7 +12425,7 @@
       {
         "filename": ".devcontainer/README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".github/workflows/build-and-push-image.yaml",
@@ -12440,7 +12440,7 @@
       {
         "filename": "BARE_METAL.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/extensions/resync/index.js",
@@ -12465,7 +12465,7 @@
       {
         "filename": "frontend/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/DataConnectorOption/media/index.js",
@@ -12624,7 +12624,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/App.jsx",
@@ -12764,7 +12764,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/agentFlows.js",
@@ -13646,7 +13646,7 @@
       {
         "filename": "BARE_METAL.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/Dockerfile",
@@ -13782,7 +13782,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/AiProviders/novita/index.js",
@@ -14101,7 +14101,7 @@
       {
         "filename": "locales/README.fa-IR.md",
         "lines_changed": 286,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -14349,7 +14349,7 @@
       {
         "filename": ".nvmrc",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -14453,7 +14453,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -14495,7 +14495,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/storage/models/.gitignore",
@@ -14604,7 +14604,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -14677,7 +14677,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -14777,7 +14777,7 @@
       {
         "filename": "server/storage/vector-cache/VECTOR_CACHE.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -15088,7 +15088,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/api/admin/index.js",
@@ -15664,7 +15664,7 @@
       {
         "filename": "embed",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/public/embed/anythingllm-chat-widget.min.js",
@@ -15698,7 +15698,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -15793,7 +15793,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -15853,7 +15853,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -17067,7 +17067,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -17170,7 +17170,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -18804,7 +18804,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -19236,7 +19236,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -19281,17 +19281,17 @@
       {
         "filename": "locales/README.ja-JP.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -19473,7 +19473,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/api/userManagement/index.js",
@@ -19498,7 +19498,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/swagger/openapi.json",
@@ -19537,7 +19537,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/api/document/index.js",
@@ -19625,7 +19625,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -19637,7 +19637,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -19694,7 +19694,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -19837,7 +19837,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/embedManagement.js",
@@ -20028,7 +20028,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -20216,7 +20216,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/prisma/seed.js",
@@ -20349,7 +20349,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -20584,7 +20584,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/LLMSelection/DeepSeekOptions/index.jsx",
@@ -21077,7 +21077,7 @@
       {
         "filename": "embed",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/public/embed/anythingllm-chat-widget.min.js",
@@ -21148,7 +21148,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -21193,17 +21193,17 @@
       {
         "filename": "locales/README.ja-JP.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -21326,7 +21326,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/LLMSelection/AwsBedrockLLMOptions/index.jsx",
@@ -21387,7 +21387,7 @@
       {
         "filename": "browser-extension",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21539,7 +21539,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/admin.js",
@@ -21644,7 +21644,7 @@
       {
         "filename": ".devcontainer/README.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21717,7 +21717,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21759,7 +21759,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -21881,7 +21881,7 @@
       {
         "filename": "browser-extension",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/pages/GeneralSettings/EmbedConfigs/NewEmbedModal/index.jsx",
@@ -21971,12 +21971,12 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -21993,22 +21993,22 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "browser-extension",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/App.jsx",
@@ -22128,7 +22128,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/middleware/validBrowserExtensionApiKey.js",
@@ -22181,7 +22181,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -22222,27 +22222,27 @@
       {
         "filename": ".gitmodules",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/.gitignore",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/README.md",
         "lines_changed": 112,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/index.html",
@@ -22496,7 +22496,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 23,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/swagger/openapi.json",
@@ -22662,7 +22662,7 @@
       {
         "filename": "embed/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/src/components/ChatWindow/ChatContainer/ChatHistory/index.jsx",
@@ -22704,7 +22704,7 @@
       {
         "filename": "embed/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/src/hooks/useScriptAttributes.js",
@@ -23391,7 +23391,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/package.json",
@@ -23855,7 +23855,7 @@
       {
         "filename": "README.md",
         "lines_changed": 22,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/WorkspaceChat/ChatContainer/ChatHistory/HistoricalMessage/Actions/EditMessage/index.jsx",
@@ -24310,7 +24310,7 @@
       {
         "filename": "embed/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24494,7 +24494,7 @@
       {
         "filename": "README.md",
         "lines_changed": 19,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -24506,7 +24506,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -24635,7 +24635,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -25161,7 +25161,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/src/hooks/useScriptAttributes.js",
@@ -25206,12 +25206,12 @@
       {
         "filename": "locales/README.ja-JP.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/api/document/index.js",
@@ -25258,7 +25258,7 @@
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -25591,7 +25591,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/Dockerfile",
@@ -25630,7 +25630,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/Dockerfile",
@@ -26470,7 +26470,7 @@
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 40,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -26494,7 +26494,7 @@
       {
         "filename": "embed/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -27608,7 +27608,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -27672,7 +27672,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -27839,7 +27839,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/admin.js",
@@ -27904,7 +27904,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 42,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/BackgroundWorkers/index.js",
@@ -28068,7 +28068,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/api/index.js",
@@ -28253,7 +28253,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -29240,7 +29240,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -29357,7 +29357,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -29877,12 +29877,12 @@
       {
         "filename": ".prettierignore",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".prettierrc",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/package.json",
@@ -29892,7 +29892,7 @@
       {
         "filename": "embed/.prettierignore",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/jsconfig.json",
@@ -29959,7 +29959,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/EmbeddingEngines/liteLLM/index.js",
@@ -29986,17 +29986,17 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.ja-JP.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "locales/README.zh-CN.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30008,12 +30008,12 @@
       {
         "filename": "README.ja-JP.md",
         "lines_changed": 235,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30025,7 +30025,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30125,7 +30125,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -30777,7 +30777,7 @@
       {
         "filename": "README.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30789,7 +30789,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -30889,7 +30889,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/api/workspace/index.js",
@@ -30975,7 +30975,7 @@
       {
         "filename": "frontend/.gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/Footer/index.jsx",
@@ -31088,7 +31088,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/index.js",
@@ -31276,7 +31276,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -31311,7 +31311,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -31664,7 +31664,7 @@
       {
         "filename": "README.md",
         "lines_changed": 23,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -31850,7 +31850,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/workspaces.js",
@@ -31948,7 +31948,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -32027,7 +32027,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -32135,7 +32135,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32147,7 +32147,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32365,7 +32365,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/chats/index.js",
@@ -32387,7 +32387,7 @@
       {
         "filename": "BARE_METAL.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32562,7 +32562,7 @@
       {
         "filename": "embed/README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/index.html",
@@ -32619,7 +32619,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -32659,7 +32659,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -32723,7 +32723,7 @@
       {
         "filename": "README.zh-CN.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32735,7 +32735,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32747,7 +32747,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32759,12 +32759,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.zh-CN.md",
         "lines_changed": 438,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32776,7 +32776,7 @@
       {
         "filename": "README.zh.md",
         "lines_changed": 219,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32788,7 +32788,7 @@
       {
         "filename": "BARE_METAL.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32971,7 +32971,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -32983,7 +32983,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -33059,7 +33059,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -33141,7 +33141,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -33468,7 +33468,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/chats/embed.js",
@@ -33535,7 +33535,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/package.json",
@@ -34125,7 +34125,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 24,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/PasswordRecovery/index.js",
@@ -34253,7 +34253,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -34420,7 +34420,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -34456,7 +34456,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -34486,7 +34486,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/EmbeddingEngines/lmstudio/index.js",
@@ -34518,12 +34518,12 @@
       {
         "filename": "README.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "pull_request_template.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -34903,7 +34903,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".github/workflows/build-and-push-image.yaml",
@@ -34918,7 +34918,7 @@
       {
         "filename": "cloud-deployments/aws/cloudformation/aws_https_instructions.md",
         "lines_changed": 18,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/index.js",
@@ -35058,7 +35058,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/admin.js",
@@ -35113,7 +35113,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 46,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/agents/aibitat/error.js",
@@ -35280,7 +35280,7 @@
       {
         "filename": "README.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -35450,7 +35450,7 @@
       {
         "filename": "embed/README.md",
         "lines_changed": 18,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/src/components/ChatWindow/ChatContainer/ChatHistory/HistoricalMessage/index.jsx",
@@ -35794,7 +35794,7 @@
       {
         "filename": "frontend/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/lib/CTAButton/index.jsx",
@@ -36008,7 +36008,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/chats/embed.js",
@@ -36069,7 +36069,7 @@
       {
         "filename": "README.md",
         "lines_changed": 17,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -36460,7 +36460,7 @@
       {
         "filename": "embed/README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/index.html",
@@ -36574,7 +36574,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -36719,7 +36719,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/boot/index.js",
@@ -36999,7 +36999,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/swagger/openapi.json",
@@ -37084,7 +37084,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -37138,7 +37138,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -37517,7 +37517,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -37762,7 +37762,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/files/pfp.js",
@@ -38159,7 +38159,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -38349,7 +38349,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -38746,7 +38746,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -38776,7 +38776,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/EmbeddingEngines/ollama/index.js",
@@ -39007,7 +39007,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -39047,7 +39047,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -39116,7 +39116,7 @@
       {
         "filename": "README.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -39151,7 +39151,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -39254,7 +39254,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -39311,7 +39311,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/AiProviders/openAi/index.js",
@@ -39654,7 +39654,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -40126,7 +40126,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/chats/index.js",
@@ -40342,7 +40342,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 30,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/chats/commands/reset.js",
@@ -40717,7 +40717,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -40729,7 +40729,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -40841,7 +40841,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/helpers/updateENV.js",
@@ -40974,7 +40974,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 43,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -41016,7 +41016,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -41058,22 +41058,22 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/.gitignore",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/.prettierignore",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/README.md",
         "lines_changed": 90,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "embed/index.html",
@@ -41298,7 +41298,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/embed/index.js",
@@ -41333,7 +41333,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 37,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/chats/embed.js",
@@ -41384,7 +41384,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -41428,7 +41428,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/EmbeddingEngines/openAi/index.js",
@@ -41485,7 +41485,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -41578,7 +41578,7 @@
       {
         "filename": "BARE_METAL.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -41763,7 +41763,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/api/system/index.js",
@@ -41815,7 +41815,7 @@
       {
         "filename": "BARE_METAL.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -41827,12 +41827,12 @@
       {
         "filename": "BARE_METAL.md",
         "lines_changed": 106,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -42154,7 +42154,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/chats/index.js",
@@ -42300,7 +42300,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -42335,7 +42335,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -42446,7 +42446,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -42486,7 +42486,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -42623,7 +42623,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/AiProviders/anthropic/index.js",
@@ -43024,12 +43024,12 @@
       {
         "filename": "cloud-deployments/aws/cloudformation/aws_https_instructions.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/package.json",
@@ -43092,7 +43092,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -43127,7 +43127,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -43355,7 +43355,7 @@
       {
         "filename": "README.md",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -43390,7 +43390,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -43583,7 +43583,7 @@
       {
         "filename": "pull_request_template.md",
         "lines_changed": 36,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -43706,7 +43706,7 @@
       {
         "filename": ".devcontainer/README.md",
         "lines_changed": 72,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".devcontainer/devcontainer.json",
@@ -43716,27 +43716,27 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 17,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".editorconfig",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".gitignore",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".prettierignore",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".prettierrc",
         "lines_changed": 38,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".vscode/launch.json",
@@ -43756,7 +43756,7 @@
       {
         "filename": "collector/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "eslint.config.js",
@@ -43766,17 +43766,17 @@
       {
         "filename": "frontend/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/.eslintrc.cjs",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/.gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/package.json",
@@ -43806,7 +43806,7 @@
       {
         "filename": "server/.flowconfig",
         "lines_changed": 30,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/jsconfig.json",
@@ -43867,7 +43867,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -43879,7 +43879,7 @@
       {
         "filename": "README.md",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -43992,7 +43992,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/index.js",
@@ -44267,12 +44267,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/chatting.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -44323,7 +44323,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/utils/paths.js",
@@ -44507,7 +44507,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -44542,7 +44542,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -44584,7 +44584,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -44634,7 +44634,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -44852,7 +44852,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/files/index.js",
@@ -44913,7 +44913,7 @@
       {
         "filename": "collector/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -44925,7 +44925,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -44937,7 +44937,7 @@
       {
         "filename": "collector/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -44949,7 +44949,7 @@
       {
         "filename": "README.md",
         "lines_changed": 100,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/HOW_TO_USE_DOCKER.md",
@@ -44959,12 +44959,12 @@
       {
         "filename": "images/deployBtns/aws.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/deployBtns/docker.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -45306,7 +45306,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/HOW_TO_USE_DOCKER.md",
@@ -45323,7 +45323,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -45411,12 +45411,12 @@
       {
         "filename": "collector/storage/.gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/storage/tmp/.placeholder",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/utils/WhisperProviders/localWhisper.js",
@@ -45463,12 +45463,12 @@
       {
         "filename": "README.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/aws/cloudformation/DEPLOY.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/aws/cloudformation/cloudformation_create_anythingllm.json",
@@ -45503,22 +45503,22 @@
       {
         "filename": "collector/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/.gitignore",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/.nvmrc",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/README.md",
         "lines_changed": 62,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/api.py",
@@ -45528,7 +45528,7 @@
       {
         "filename": "collector/hotdir/__HOTDIR__.md",
         "lines_changed": 16,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/index.js",
@@ -45849,7 +45849,7 @@
       {
         "filename": "cloud-deployments/aws/cloudformation/aws_https_instructions.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/aws/cloudformation/cloudformation_create_anythingllm.json",
@@ -45886,7 +45886,7 @@
       {
         "filename": "README.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/HOW_TO_USE_DOCKER.md",
@@ -46054,7 +46054,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -46076,7 +46076,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -46148,7 +46148,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/HOW_TO_USE_DOCKER.md",
@@ -46165,7 +46165,7 @@
       {
         "filename": "README.md",
         "lines_changed": 28,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/Dockerfile",
@@ -46200,32 +46200,32 @@
       {
         "filename": "images/screenshots/SCREENSHOTS.md",
         "lines_changed": 18,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/document.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/home.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/llm_selection.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/uploading_doc.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/vector_databases.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -46287,7 +46287,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -46364,7 +46364,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/files/logo.js",
@@ -46794,7 +46794,7 @@
       {
         "filename": "README.md",
         "lines_changed": 35,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/HOW_TO_USE_DOCKER.md",
@@ -46811,7 +46811,7 @@
       {
         "filename": "README.md",
         "lines_changed": 24,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/aws/cloudformation/cloudformation_create_anythingllm.json",
@@ -46942,7 +46942,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/user.js",
@@ -47058,7 +47058,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -47271,12 +47271,12 @@
       {
         "filename": "images/LLMproviders/localai-embedding.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/LLMproviders/localai-setup.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -47288,7 +47288,7 @@
       {
         "filename": "README.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/HOW_TO_USE_DOCKER.md",
@@ -47353,7 +47353,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/api.py",
@@ -47685,7 +47685,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -47764,7 +47764,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -47811,7 +47811,7 @@
       {
         "filename": "frontend/public/robots.txt",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/index.js",
@@ -48129,7 +48129,7 @@
       {
         "filename": "README.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -48159,7 +48159,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -48457,7 +48457,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 23,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/chats/index.js",
@@ -48499,7 +48499,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/LLMSelection/AzureAiOptions/index.jsx",
@@ -48583,7 +48583,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/AiProviders/anthropic/index.js",
@@ -48726,7 +48726,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -49017,7 +49017,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -49153,7 +49153,7 @@
       {
         "filename": "cloud-deployments/aws/cloudformation/DEPLOY.md",
         "lines_changed": 56,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/aws/cloudformation/cloudformation_create_anythingllm.json",
@@ -49175,12 +49175,12 @@
       {
         "filename": "cloud-deployments/aws/cloudformation/cf_template.template",
         "lines_changed": 255,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/aws/cloudformation/generate.mjs",
         "lines_changed": 70,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -49344,12 +49344,12 @@
       {
         "filename": "images/screenshots/chatting.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/uploading_doc.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -49361,57 +49361,57 @@
       {
         "filename": "README.md",
         "lines_changed": 27,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/promo.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/SCREENSHOTS.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/chat.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/chatting.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/document.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/home.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/keys.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/llm_selection.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/uploading_doc.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/vector_databases.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -49423,7 +49423,7 @@
       {
         "filename": "images/youtube.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -49435,7 +49435,7 @@
       {
         "filename": "server/storage/anythingllm.db.bak",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -49493,12 +49493,12 @@
       {
         "filename": "frontend/public/fonts/AvenirNext.ttf",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/public/fonts/PlusJakartaSans.ttf",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/App.jsx",
@@ -49963,7 +49963,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -49983,17 +49983,17 @@
       {
         "filename": "server/storage/anythingllm.db.bak",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/storage/assets/anything-llm-dark.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/storage/assets/anything-llm.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/swagger/index.js",
@@ -50020,7 +50020,7 @@
       {
         "filename": "cloud-deployments/aws/cloudformation/aws_https_instructions.md",
         "lines_changed": 94,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -50135,7 +50135,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -50196,7 +50196,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/models/systemSettings.js",
@@ -50315,7 +50315,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/Dockerfile",
@@ -50340,7 +50340,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/admin.js",
@@ -50460,7 +50460,7 @@
       {
         "filename": "server/prisma/schema.prisma",
         "lines_changed": 118,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/prisma/seed.js",
@@ -50547,7 +50547,7 @@
       {
         "filename": "cloud-deployments/aws/cloudformation/cf_template.template",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -50648,7 +50648,7 @@
       {
         "filename": ".editorconfig",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/requirements.txt",
@@ -50727,12 +50727,12 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.env.example",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/vectorDbProviders/pinecone/PINECONE_SETUP.md",
@@ -50872,7 +50872,7 @@
       {
         "filename": "SECURITY.md",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -50979,17 +50979,17 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/public/anything-llm-dark.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/public/anything-llm-light.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/App.jsx",
@@ -51509,12 +51509,12 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "package.json",
@@ -51543,12 +51543,12 @@
       {
         "filename": "frontend/.env.production",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/.gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -51597,7 +51597,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -51656,7 +51656,7 @@
       {
         "filename": "frontend/.env.production",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/utils.js",
@@ -51685,7 +51685,7 @@
       {
         "filename": "README.md",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/chat.js",
@@ -51812,7 +51812,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/admin.js",
@@ -51837,12 +51837,12 @@
       {
         "filename": "server/storage/assets/anything-llm-dark.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/storage/assets/anything-llm-light.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/files/logo.js",
@@ -51905,7 +51905,7 @@
       {
         "filename": "README.md",
         "lines_changed": 16,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/index.html",
@@ -51915,12 +51915,12 @@
       {
         "filename": "frontend/public/favicon.ico",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/public/favicon.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/Sidebar/index.jsx",
@@ -51935,12 +51935,12 @@
       {
         "filename": "images/promo.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/wordmark.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -52036,7 +52036,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -52172,7 +52172,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -52293,7 +52293,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -52552,12 +52552,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/youtube.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -52603,7 +52603,7 @@
       {
         "filename": "README.md",
         "lines_changed": 41,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/package.json",
@@ -52843,7 +52843,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/admin.js",
@@ -53009,7 +53009,7 @@
       {
         "filename": "cloud-deployments/aws/cloudformation/DEPLOY.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/aws/cloudformation/aws_build_from_source_no_credentials.json",
@@ -53100,7 +53100,7 @@
       {
         "filename": "cloud-deployments/aws/cloudformation/DEPLOY.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/aws/cloudformation/aws_no_creds.json",
@@ -53110,12 +53110,12 @@
       {
         "filename": "cloud-deployments/aws/cloudformation/cf_template.template",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/aws/cloudformation/generate.mjs",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cloud-deployments/digitalocean/terraform/DEPLOY.md",
@@ -53199,7 +53199,7 @@
       {
         "filename": "frontend/.eslintrc.cjs",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/Modals/MangeWorkspace/Settings/index.jsx",
@@ -53318,7 +53318,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -53409,7 +53409,7 @@
       {
         "filename": "collector/README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/main.py",
@@ -53441,7 +53441,7 @@
       {
         "filename": "aws/cloudformation/DEPLOY.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "aws/cloudformation/aws_no_creds.json",
@@ -53458,7 +53458,7 @@
       {
         "filename": "collector/README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/main.py",
@@ -53657,7 +53657,7 @@
       {
         "filename": "aws/cloudformation/cf_template.template",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/.env.example",
@@ -53677,7 +53677,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -53687,7 +53687,7 @@
       {
         "filename": "server/storage/README.md",
         "lines_changed": 24,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/helpers/updateENV.js",
@@ -53721,7 +53721,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/scripts/link.py",
@@ -53750,7 +53750,7 @@
       {
         "filename": ".gitattributes",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/scripts/sitemap.py",
@@ -53906,7 +53906,7 @@
       {
         "filename": "collector/README.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -53918,22 +53918,22 @@
       {
         "filename": "aws/cloudformation/DEPLOY.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "aws/cloudformation/cf_template.template",
         "lines_changed": 16,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/.gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/api.py",
@@ -54115,7 +54115,7 @@
       {
         "filename": "collector/hotdir/__HOTDIR__.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -54374,7 +54374,7 @@
       {
         "filename": "aws/cloudformation/generate.mjs",
         "lines_changed": 16,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "package.json",
@@ -54391,12 +54391,12 @@
       {
         "filename": "aws/cloudformation/cf_template.template",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "aws/cloudformation/generate.mjs",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -54408,22 +54408,22 @@
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "aws/cloudformation/DEPLOY.md",
         "lines_changed": 54,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "aws/cloudformation/cf_template.template",
         "lines_changed": 244,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "aws/cloudformation/generate.mjs",
         "lines_changed": 56,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docker/Dockerfile",
@@ -54438,17 +54438,17 @@
       {
         "filename": "images/screenshots/cf_outputs.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/create_stack.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/upload.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "package.json",
@@ -54504,7 +54504,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -54528,7 +54528,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -54550,7 +54550,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -54562,17 +54562,17 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".gitignore",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/main.py",
@@ -54662,7 +54662,7 @@
       {
         "filename": "server/.gitignore",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/index.js",
@@ -54697,12 +54697,12 @@
       {
         "filename": "server/storage/documents/DOCUMENTS.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/storage/vector-cache/VECTOR_CACHE.md",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/utils/files/index.js",
@@ -54729,7 +54729,7 @@
       {
         "filename": "README.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -54741,7 +54741,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -54826,7 +54826,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -54920,7 +54920,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/system.js",
@@ -54984,7 +54984,7 @@
       {
         "filename": "collector/README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -55092,7 +55092,7 @@
       {
         "filename": "README.md",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/Modals/ManageWorkspace.jsx",
@@ -55102,12 +55102,12 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.gitignore",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/package.json",
@@ -55154,7 +55154,7 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -55262,7 +55262,7 @@
       {
         "filename": ".nvmrc",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -55274,7 +55274,7 @@
       {
         "filename": "frontend/.nvmrc",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "package.json",
@@ -55301,7 +55301,7 @@
       {
         "filename": "README.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/components/DefaultChat/index.jsx",
@@ -55331,12 +55331,12 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.nvmrc",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/chat.js",
@@ -55455,7 +55455,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -55467,17 +55467,17 @@
       {
         "filename": ".gitignore",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "LICENSE",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 59,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "clean.sh",
@@ -55487,22 +55487,22 @@
       {
         "filename": "collector/.env.example",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/.gitignore",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/README.md",
         "lines_changed": 45,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/hotdir/__HOTDIR__.md",
         "lines_changed": 17,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "collector/main.py",
@@ -55617,22 +55617,22 @@
       {
         "filename": "frontend/.env.production",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/.eslintrc.cjs",
         "lines_changed": 15,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/.gitignore",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/.nvmrc",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/index.html",
@@ -55657,12 +55657,12 @@
       {
         "filename": "frontend/public/favicon.ico",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/public/fonts/AvenirNext.ttf",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "frontend/src/App.jsx",
@@ -55822,37 +55822,37 @@
       {
         "filename": "images/choices.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/gcp-project-bar.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/SCREENSHOTS.md",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/chat.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/document.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/home.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "images/screenshots/keys.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "package.json",
@@ -55862,22 +55862,22 @@
       {
         "filename": "server/.env.example",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.gitignore",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/.nvmrc",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/documents/DOCUMENTS.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "server/endpoints/chat.js",
@@ -55962,7 +55962,7 @@
       {
         "filename": "server/vector-cache/VECTOR_CACHE.md",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   }

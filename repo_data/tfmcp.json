@@ -17,7 +17,7 @@
       {
         "filename": "RELEASE_NOTES_v0.1.5.md",
         "lines_changed": 64,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -29,7 +29,7 @@
       {
         "filename": "CLAUDE.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -46,7 +46,7 @@
       {
         "filename": "CLAUDE.md",
         "lines_changed": 80,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -104,7 +104,7 @@
       {
         "filename": "CLAUDE.md",
         "lines_changed": 111,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "package-lock.json",
@@ -119,27 +119,27 @@
       {
         "filename": "rules/README.md",
         "lines_changed": 51,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "rules/general/000_init.md",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "rules/mcp/000_protocol.md",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "rules/rust/000_coding_style.md",
         "lines_changed": 26,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "rules/rust/001_architecture.md",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "rules/terraform/000_terraform_standards.md",
@@ -166,7 +166,7 @@
       {
         "filename": "CLAUDE.md",
         "lines_changed": 80,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Cargo.lock",
@@ -268,7 +268,7 @@
       {
         "filename": "RELEASE_NOTES_v0.1.4.md",
         "lines_changed": 108,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "src/formatters/output.rs",
@@ -447,7 +447,7 @@
       {
         "filename": "CLAUDE.md",
         "lines_changed": 250,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Cargo.lock",
@@ -574,7 +574,7 @@
       {
         "filename": "README.md",
         "lines_changed": 79,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -586,7 +586,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 5,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "terraform/main.tf",
@@ -603,22 +603,22 @@
       {
         "filename": ".cursor/rules/000_general.mdc",
         "lines_changed": 28,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".cursor/rules/001_rust.mdc",
         "lines_changed": 63,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".cursor/rules/002_terraform.mdc",
         "lines_changed": 36,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".cursor/rules/003_mcp.mdc",
         "lines_changed": 32,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -701,7 +701,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Cargo.lock",
@@ -862,7 +862,7 @@
       {
         "filename": ".dockerignore",
         "lines_changed": 35,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Dockerfile",
@@ -872,7 +872,7 @@
       {
         "filename": "README.md",
         "lines_changed": 61,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -913,7 +913,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -985,27 +985,27 @@
       {
         "filename": "rules/README.md",
         "lines_changed": 51,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "rules/general/000_init.md",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "rules/mcp/000_protocol.md",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "rules/rust/000_coding_style.md",
         "lines_changed": 26,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "rules/rust/001_architecture.md",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "rules/terraform/000_terraform_standards.md",
@@ -1022,7 +1022,7 @@
       {
         "filename": ".cursor/rules/README.md",
         "lines_changed": 37,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".cursor/rules/project.json",
@@ -1049,17 +1049,17 @@
       {
         "filename": ".terraform-version",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "example/.terraform-version",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "example/demo/.terraform-version",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1071,12 +1071,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "example/README.md",
         "lines_changed": 24,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "example/demo/main.tf",
@@ -1098,7 +1098,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1137,7 +1137,7 @@
       {
         "filename": ".gitignore",
         "lines_changed": 43,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1154,12 +1154,12 @@
       {
         "filename": "LICENSE",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 216,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Release.sh",
@@ -1174,7 +1174,7 @@
       {
         "filename": "example/README.md",
         "lines_changed": 62,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "example/config/tfmcp-local-adversely-one-dragon.json",
@@ -1189,7 +1189,7 @@
       {
         "filename": "example/environments/dev/dev-visually-feasible-newt.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "example/environments/prod/prod-actively-fun-gnat.json",
@@ -1199,7 +1199,7 @@
       {
         "filename": "example/environments/prod/prod-actively-fun-gnat.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "example/environments/staging/staging-widely-robust-collie.json",
@@ -1209,12 +1209,12 @@
       {
         "filename": "example/environments/staging/staging-widely-robust-collie.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "example/example_output.txt",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "example/main.tf",
@@ -1229,7 +1229,7 @@
       {
         "filename": "example/master/master-master-parakeet.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "example/modules/local_resources/main.tf",
@@ -1353,17 +1353,17 @@
       {
         "filename": ".gitignore",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "LICENSE",
         "lines_changed": 21,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   }

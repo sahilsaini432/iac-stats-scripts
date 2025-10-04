@@ -319,7 +319,7 @@
       {
         "filename": "README.md",
         "lines_changed": 8,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1421,7 +1421,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1433,7 +1433,7 @@
       {
         "filename": "README.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1723,7 +1723,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1740,7 +1740,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -1840,47 +1840,47 @@
       {
         "filename": "docs/kuzco.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_bash.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_fish.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_powershell.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_zsh.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_fix.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_recommend.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_version.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "internal/llm.go",
@@ -1922,47 +1922,47 @@
       {
         "filename": "docs/kuzco.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_bash.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_fish.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_powershell.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_zsh.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_fix.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_recommend.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_version.md",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "internal/llm.go",
@@ -1984,7 +1984,7 @@
       {
         "filename": "README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cmd/docs.go",
@@ -2014,47 +2014,47 @@
       {
         "filename": "docs/kuzco.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_bash.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_fish.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_powershell.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_zsh.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_fix.md",
         "lines_changed": 33,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_recommend.md",
         "lines_changed": 28,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_version.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "internal/analyzer.go",
@@ -2125,7 +2125,7 @@
       {
         "filename": "README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2157,47 +2157,47 @@
       {
         "filename": "docs/kuzco.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_bash.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_fish.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_powershell.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_zsh.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_fix.md",
         "lines_changed": 33,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_recommend.md",
         "lines_changed": 28,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_version.md",
         "lines_changed": 4,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "internal/analyzer.go",
@@ -2224,7 +2224,7 @@
       {
         "filename": "README.md",
         "lines_changed": 16,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cmd/root.go",
@@ -2348,7 +2348,7 @@
       {
         "filename": "README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cmd/root.go",
@@ -2380,7 +2380,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2392,7 +2392,7 @@
       {
         "filename": "README.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cmd/root.go",
@@ -2500,7 +2500,7 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2546,7 +2546,7 @@
       {
         "filename": "README.md",
         "lines_changed": 20,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2797,12 +2797,12 @@
       {
         "filename": "docs/img/kuzco-demo.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/img/kuzco-demo.tape",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "internal/analyzer.go",
@@ -2824,12 +2824,12 @@
       {
         "filename": "docs/img/kuzco-demo.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/img/kuzco-demo.tape",
         "lines_changed": 14,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -2959,7 +2959,7 @@
       {
         "filename": "README.md",
         "lines_changed": 12,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cmd/root.go",
@@ -2996,7 +2996,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cmd/root.go",
@@ -3045,7 +3045,7 @@
       {
         "filename": "README.md",
         "lines_changed": 6,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cmd/root.go",
@@ -3096,12 +3096,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/Customizing_Ollama.md",
         "lines_changed": 54,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3113,12 +3113,12 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/Customizing_Ollama.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3130,7 +3130,7 @@
       {
         "filename": "docs/Getting_Started.md",
         "lines_changed": 54,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3186,7 +3186,7 @@
       {
         "filename": "README.md",
         "lines_changed": 16,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3198,7 +3198,7 @@
       {
         "filename": "README.md",
         "lines_changed": 11,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cmd/root.go",
@@ -3213,47 +3213,47 @@
       {
         "filename": "docs/img/kuzco-demo.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/img/kuzco-demo.tape",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_bash.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_fish.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_powershell.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_zsh.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_version.md",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "go.mod",
@@ -3290,7 +3290,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3302,12 +3302,12 @@
       {
         "filename": "docs/img/kuzco-demo.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/img/kuzco-demo.tape",
         "lines_changed": 7,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3319,7 +3319,7 @@
       {
         "filename": "README.md",
         "lines_changed": 13,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3331,37 +3331,37 @@
       {
         "filename": "docs/kuzco.md",
         "lines_changed": 10,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_bash.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_fish.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_powershell.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_zsh.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_version.md",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3444,7 +3444,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3456,7 +3456,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3555,7 +3555,7 @@
       {
         "filename": "Brewfile",
         "lines_changed": 1,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3567,7 +3567,7 @@
       {
         "filename": "README.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3579,12 +3579,12 @@
       {
         "filename": "README.md",
         "lines_changed": 9,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/img/kuzco-demo.gif",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3596,7 +3596,7 @@
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3608,17 +3608,17 @@
       {
         "filename": "README.md",
         "lines_changed": 56,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/img/kuzco-demo.tape",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/img/kuzco-logo.png",
         "lines_changed": 0,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   },
@@ -3642,12 +3642,12 @@
       {
         "filename": ".editorconfig",
         "lines_changed": 23,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".gitignore",
         "lines_changed": 40,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": ".golangci.yml",
@@ -3662,7 +3662,7 @@
       {
         "filename": "Brewfile",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "Makefile",
@@ -3672,12 +3672,12 @@
       {
         "filename": "README.md",
         "lines_changed": 3,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "SECURITY.md",
         "lines_changed": 29,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "cmd/docs.go",
@@ -3692,37 +3692,37 @@
       {
         "filename": "docs/kuzco-demo.tape",
         "lines_changed": 26,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco.md",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion.md",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_bash.md",
         "lines_changed": 44,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_fish.md",
         "lines_changed": 35,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_powershell.md",
         "lines_changed": 32,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "docs/kuzco_completion_zsh.md",
         "lines_changed": 46,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "go.mod",
@@ -3789,17 +3789,17 @@
       {
         "filename": ".gitignore",
         "lines_changed": 25,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "LICENSE",
         "lines_changed": 201,
-        "category": "Development"
+        "category": "Others"
       },
       {
         "filename": "README.md",
         "lines_changed": 2,
-        "category": "Development"
+        "category": "Others"
       }
     ]
   }
