@@ -169,80 +169,6 @@ class InfraBuildOverlapAnalyzer:
         stats['both_dev_build'] = len(self.dev_build_commits)
         stats['both_test_build'] = len(self.test_build_commits)
 
-        # Infrastructure and Build (avoid zero division)
-        if len(self.infrastructure_commits) > 0:
-            stats['infra_that_also_change_build_pct'] = len(self.infra_build_commits) / len(
-                self.infrastructure_commits
-            )
-        else:
-            stats['infra_that_also_change_build_pct'] = 0
-
-        if len(self.build_commits) > 0:
-            stats['build_that_also_change_infra_pct'] = len(self.infra_build_commits) / len(
-                self.build_commits
-            )
-        else:
-            stats['build_that_also_change_infra_pct'] = 0
-
-        # Infrastructure and Test (avoid zero division)
-        if len(self.infrastructure_commits) > 0:
-            stats['infra_that_also_change_test_pct'] = len(self.infra_test_commits) / len(
-                self.infrastructure_commits
-            )
-        else:
-            stats['infra_that_also_change_test_pct'] = 0
-
-        if len(self.test_commits) > 0:
-            stats['test_that_also_change_infra_pct'] = len(self.infra_test_commits) / len(self.test_commits)
-        else:
-            stats['test_that_also_change_infra_pct'] = 0
-
-        # Infrastructure and Dev (avoid zero division)
-        if len(self.infrastructure_commits) > 0:
-            stats['infra_that_also_change_dev_pct'] = len(self.infra_dev_commits) / len(
-                self.infrastructure_commits
-            )
-        else:
-            stats['infra_that_also_change_dev_pct'] = 0
-
-        if len(self.dev_commits) > 0:
-            stats['dev_that_also_change_infra_pct'] = len(self.infra_dev_commits) / len(self.dev_commits)
-        else:
-            stats['dev_that_also_change_infra_pct'] = 0
-
-        # Dev and Test (avoid zero division)
-        if len(self.dev_commits) > 0:
-            stats['dev_that_also_change_test_pct'] = len(self.dev_test_commits) / len(self.dev_commits)
-        else:
-            stats['dev_that_also_change_test_pct'] = 0
-
-        if len(self.test_commits) > 0:
-            stats['test_that_also_change_dev_pct'] = len(self.dev_test_commits) / len(self.test_commits)
-        else:
-            stats['test_that_also_change_dev_pct'] = 0
-
-        # Dev and Build (avoid zero division)
-        if len(self.dev_commits) > 0:
-            stats['dev_that_also_change_build_pct'] = len(self.dev_build_commits) / len(self.dev_commits)
-        else:
-            stats['dev_that_also_change_build_pct'] = 0
-
-        if len(self.build_commits) > 0:
-            stats['build_that_also_change_dev_pct'] = len(self.dev_build_commits) / len(self.build_commits)
-        else:
-            stats['build_that_also_change_dev_pct'] = 0
-
-            # Test and Build (avoid zero division)
-        if len(self.test_commits) > 0:
-            stats['test_that_also_change_build_pct'] = len(self.test_build_commits) / len(self.test_commits)
-        else:
-            stats['test_that_also_change_build_pct'] = 0
-
-        if len(self.build_commits) > 0:
-            stats['build_that_also_change_test_pct'] = len(self.test_build_commits) / len(self.build_commits)
-        else:
-            stats['build_that_also_change_test_pct'] = 0
-
         if self.total_commits > 0:
             stats['infra_commits_pct'] = len(self.infrastructure_commits) / self.total_commits
             stats['build_commits_pct'] = len(self.build_commits) / self.total_commits
@@ -288,181 +214,6 @@ class InfraBuildOverlapAnalyzer:
         stats = self.calculate_overlap_percentages()
         return stats
 
-        print("=" * 80)
-        print(f"Total commits analyzed: {stats['total_commits']:,}")
-        print()
-
-        # --------------------Infrastructure-Build------------------
-        print(f"\n📊 Infrastructure-Build Overlap Analysis: {filename}")
-
-        # Main statistics
-        print("🏗️  Infrastructure & Build File Changes:")
-        print(
-            f"   Infrastructure commits: {stats['infrastructure_commits']:,} ({stats['infra_commits_pct']:.1f}% of total)"
-        )
-        print(f"   Build commits: {stats['build_commits']:,} ({stats['build_commits_pct']:.1f}% of total)")
-        print(
-            f"   Commits changing both: {stats['both_infra_build']:,} ({stats['infra_build_pct']:.1f}% of total)"
-        )
-        print()
-        # Key percentages
-        print("🎯 Key Overlap Metrics:")
-        print(
-            f"   📈 Infrastructure commits that also change build files: {stats['infra_that_also_change_build_pct']:.1f}%"
-        )
-        print(
-            f"   📈 Build commits that also change infrastructure files: {stats['build_that_also_change_infra_pct']:.1f}%"
-        )
-        print()
-
-        # --------------------Infrastructure-Test------------------
-        print(f"\n📊 Infrastructure-Test Overlap Analysis: {filename}")
-
-        # Main statistics
-        print("🏗️  Infrastructure & Test File Changes:")
-        print(
-            f"   Infrastructure commits: {stats['infrastructure_commits']:,} ({stats['infra_commits_pct']:.1f}% of total)"
-        )
-        print(f"   Test commits: {stats['test_commits']:,} ({stats['test_commits_pct']:.1f}% of total)")
-        print(
-            f"   Commits changing both: {stats['both_infra_test']:,} ({stats['infra_test_pct']:.1f}% of total)"
-        )
-        print()
-        # Key percentages
-        print("🎯 Key Overlap Metrics:")
-        print(
-            f"   📈 Infrastructure commits that also change test files: {stats['infra_that_also_change_test_pct']:.1f}%"
-        )
-        print(
-            f"   📈 Test commits that also change infrastructure files: {stats['test_that_also_change_infra_pct']:.1f}%"
-        )
-        print()
-
-        # --------------------Infrastructure-Development------------------
-        print(f"\n📊 Infrastructure-Development Overlap Analysis: {filename}")
-
-        # Main statistics
-        print("🏗️  Infrastructure & Development File Changes:")
-        print(
-            f"   Infrastructure commits: {stats['infrastructure_commits']:,} ({stats['infra_commits_pct']:.1f}% of total)"
-        )
-        print(f"   Development commits: {stats['dev_commits']:,} ({stats['dev_commits_pct']:.1f}% of total)")
-        print(
-            f"   Commits changing both: {stats['both_infra_dev']:,} ({stats['infra_dev_pct']:.1f}% of total)"
-        )
-        print()
-        # Key percentages
-        print("🎯 Key Overlap Metrics:")
-        print(
-            f"   📈 Infrastructure commits that also change dev files: {stats['infra_that_also_change_dev_pct']:.1f}%"
-        )
-        print(
-            f"   📈 Dev commits that also change infrastructure files: {stats['dev_that_also_change_infra_pct']:.1f}%"
-        )
-        print()
-
-        # --------------------Development-Test------------------
-        print(f"\n📊 Development-Test Overlap Analysis: {filename}")
-
-        # Main statistics
-        print("🏗️   Development & Test File Changes:")
-        print(f"   Development commits: {stats['dev_commits']:,} ({stats['dev_commits_pct']:.1f}% of total)")
-        print(f"   Test commits: {stats['test_commits']:,} ({stats['test_commits_pct']:.1f}% of total)")
-        print(f"   Commits changing both: {stats['both_dev_test']:,} ({stats['dev_test_pct']:.1f}% of total)")
-        print()
-        # Key percentages
-        print("🎯 Key Overlap Metrics:")
-        print(
-            f"   📈 Development commits that also change test files: {stats['dev_that_also_change_test_pct']:.1f}%"
-        )
-        print(f"   📈 Test commits that also change dev files: {stats['test_that_also_change_dev_pct']:.1f}%")
-        print()
-
-        # --------------------Development-Build------------------
-        print(f"\n📊 Development-Build Overlap Analysis: {filename}")
-
-        # Main statistics
-        print("🏗️   Development & Build File Changes:")
-        print(f"   Development commits: {stats['dev_commits']:,} ({stats['dev_commits_pct']:.1f}% of total)")
-        print(f"   Build commits: {stats['build_commits']:,} ({stats['build_commits_pct']:.1f}% of total)")
-        print(
-            f"   Commits changing both: {stats['both_dev_build']:,} ({stats['dev_build_pct']:.1f}% of total)"
-        )
-        print()
-        # Key percentages
-        print("🎯 Key Overlap Metrics:")
-        print(
-            f"   📈 Development commits that also change build files: {stats['dev_that_also_change_build_pct']:.1f}%"
-        )
-        print(
-            f"   📈 Build commits that also change dev files: {stats['build_that_also_change_dev_pct']:.1f}%"
-        )
-        print()
-
-        # --------------------Build-Test------------------
-        print(f"\n📊 Build-Test Overlap Analysis: {filename}")
-
-        # Main statistics
-        print("🏗️  Build & Test File Changes:")
-        print(f"   Build commits: {stats['build_commits']:,} ({stats['build_commits_pct']:.1f}% of total)")
-        print(f"   Test commits: {stats['test_commits']:,} ({stats['test_commits_pct']:.1f}% of total)")
-        print(
-            f"   Commits changing both: {stats['both_test_build']:,} ({stats['test_build_pct']:.1f}% of total)"
-        )
-        print()
-        # Key percentages
-        print("🎯 Key Overlap Metrics:")
-        print(
-            f"   📈 Build commits that also change test files: {stats['build_that_also_change_test_pct']:.1f}%"
-        )
-        print(
-            f"   📈 Test commits that also change build files: {stats['test_that_also_change_build_pct']:.1f}%"
-        )
-        print()
-        return stats
-
-    # TODO: This is not fully set up to write all the info in a JSON file yet
-    # def export_analysis(self, output_file, source_file=""):
-    #     """Export analysis results to JSON."""
-    #     stats = self.calculate_overlap_percentages()
-
-    #     analysis_result = {
-    #         "source_file": source_file,
-    #         "analysis_type": "infrastructure_build_overlap",
-    #         "summary": {
-    #             "total_commits": stats['total_commits'],
-    #             "infrastructure_commits": stats['infrastructure_commits'],
-    #             "build_commits": stats['build_commits'],
-    #             "overlap_commits": stats['overlap_commits'],
-    #         },
-    #         "percentages": {
-    #             "infra_that_also_change_build": round(stats['infra_that_also_change_build_pct'], 2),
-    #             "build_that_also_change_infra": round(stats['build_that_also_change_infra_pct'], 2),
-    #             "overall_overlap": round(stats['overall_overlap_pct'], 2),
-    #             "infrastructure_of_total": round(stats['infra_commits_pct'], 2),
-    #             "build_of_total": round(stats['build_commits_pct'], 2),
-    #         },
-    #         "breakdown": {
-    #             "infrastructure_only": stats['infra_only_count'],
-    #             "build_only": stats['build_only_count'],
-    #             "both_infra_and_build": stats['both_count'],
-    #         },
-    #         "sample_commits": {
-    #             "overlap_examples": list(self.overlap_commits)[:10],  # First 10 examples
-    #             "infra_only_examples": list(self.detailed_stats['infra_only'])[:5],
-    #             "build_only_examples": list(self.detailed_stats['build_only'])[:5],
-    #         },
-    #     }
-
-    #     try:
-    #         with open(output_file, "w", encoding="utf-8") as f:
-    #             json.dump(analysis_result, f, indent=2, ensure_ascii=False)
-    #         print(f"📄 Analysis exported to: {output_file}")
-    #         return True
-    #     except Exception as e:
-    #         print(f"❌ Error writing analysis file: {e}")
-    #         return False
-
 
 def main():
     parser = argparse.ArgumentParser(
@@ -494,94 +245,26 @@ def main():
                 print(f"P(Build) = {stats['build_commits_pct'] :.3f}")
                 print(f"P(Test) = {stats['infra_commits_pct'] :.3f}")
 
-                supp_infra_build = stats['infra_that_also_change_build_pct']
-                supp_build_infra = stats['build_that_also_change_infra_pct']
-                supp_infra_dev = stats['infra_that_also_change_dev_pct']
-                supp_dev_infra = stats['dev_that_also_change_infra_pct']
-                supp_infra_test = stats['infra_that_also_change_test_pct']
-                supp_test_infra = stats['test_that_also_change_infra_pct']
-                supp_dev_test = stats['dev_that_also_change_test_pct']
-                supp_test_dev = stats['test_that_also_change_dev_pct']
-                supp_dev_build = stats['dev_that_also_change_build_pct']
-                supp_build_dev = stats['build_that_also_change_dev_pct']
-                supp_test_build = stats['test_that_also_change_build_pct']
-                supp_build_test = stats['build_that_also_change_test_pct']
-
                 # Support Calculations
-                print(f"\nSupp(Infrastructure|Build) = {supp_infra_build :.3f}")
-                print(f"Supp(Build|Infrastructure) = {supp_build_infra :.3f}")
-
-                print(f"Supp(Infrastructure|Development) = {supp_infra_dev :.3f}")
-                print(f"Supp(Development|Infrastructure) = {supp_dev_infra :.3f}")
-
-                print(f"Supp(Infrastructure|Test) = {supp_infra_test :.3f}")
-                print(f"Supp(Test|Infrastructure) = {supp_test_infra :.3f}")
-
-                print(f"Supp(Development|Test) = {supp_dev_test :.3f}")
-                print(f"Supp(Test|Development) = {supp_test_dev :.3f}")
-
-                print(f"Supp(Build|Development) = {supp_build_dev :.3f}")
-                print(f"Supp(Development|Build) = {supp_dev_build :.3f}")
-
-                print(f"Supp(Test|Build) = {supp_test_build :.3f}")
-                print(f"Supp(Build|Test) = {supp_build_test :.3f}")
+                print(f"\nSupp(Infrastructure|Build) = {stats['infra_build_pct'] :.3f}")
+                print(f"Supp(Infrastructure|Development) = {stats['infra_dev_pct'] :.3f}")
+                print(f"Supp(Infrastructure|Test) = {stats['infra_test_pct'] :.3f}")
 
                 # Confidence Calculations
-                print(f"\nConf(Infrastructure|Build) = {supp_infra_build / stats['infra_commits_pct'] :.3f}")
-                print(f"Conf(Build|Infrastructure) = {supp_build_infra / stats['build_commits_pct'] :.3f}")
-                print(
-                    f"Conf(Infrastructure|Development) = {supp_infra_dev / stats['infra_commits_pct'] :.3f}"
-                )
-                print(f"Conf(Development|Infrastructure) = {supp_dev_infra / stats['dev_commits_pct'] :.3f}")
-                print(f"Conf(Infrastructure|Test) = {supp_infra_test / stats['infra_commits_pct'] :.3f}")
-                print(f"Conf(Test|Infrastructure) = {supp_test_infra / stats['test_commits_pct'] :.3f}")
-                print(f"Conf(Development|Test) = {supp_dev_test / stats['dev_commits_pct'] :.3f}")
-                print(f"Conf(Test|Development) = {supp_test_dev / stats['test_commits_pct'] :.3f}")
-                print(f"Conf(Build|Development) = {supp_build_dev / stats['build_commits_pct'] :.3f}")
-                print(f"Conf(Development|Build) = {supp_dev_build / stats['dev_commits_pct'] :.3f}")
-                print(f"Conf(Test|Build) = {supp_test_build / stats['test_commits_pct'] :.3f}")
-                print(f"Conf(Build|Test) = {supp_build_test / stats['build_commits_pct'] :.3f}")
+                print(f"\nConf(Infrastructure|Build) = {stats['infra_build_pct'] / stats['infra_commits_pct'] :.3f}")
+                print(f"Conf(Build|Infrastructure) = {stats['infra_build_pct'] / stats['build_commits_pct'] :.3f}")
+                print(f"Conf(Infrastructure|Development) = {stats['infra_dev_pct'] / stats['infra_commits_pct'] :.3f}")
+                print(f"Conf(Development|Infrastructure) = {stats['infra_dev_pct'] / stats['dev_commits_pct'] :.3f}")
+                print(f"Conf(Infrastructure|Test) = {stats['infra_test_pct'] / stats['infra_commits_pct'] :.3f}")
+                print(f"Conf(Test|Infrastructure) = {stats['infra_test_pct'] / stats['test_commits_pct'] :.3f}")
 
                 # Lift Calculations
-                print(
-                    f"\nLift(Infrastructure|Build) = { (supp_infra_build / (stats['infra_commits_pct']) * stats['build_commits_pct']) :.3f}"
-                )
-                print(
-                    f"Lift(Build|Infrastructure) = { (supp_build_infra / (stats['build_commits_pct'] * stats['infra_commits_pct'])) :.3f}"
-                )
-                print(
-                    f"Lift(Infrastructure|Development) = { (supp_infra_dev / (stats['infra_commits_pct'] * stats['dev_commits_pct'])) :.3f}"
-                )
-                print(
-                    f"Lift(Development|Infrastructure) = { (supp_dev_infra / (stats['dev_commits_pct'] * stats['infra_commits_pct'])) :.3f}"
-                )
-                print(
-                    f"Lift(Infrastructure|Test) = { (supp_infra_test / (stats['infra_commits_pct'] * stats['test_commits_pct'])) :.3f}"
-                )
-                print(
-                    f"Lift(Test|Infrastructure) = { (supp_test_infra / (stats['test_commits_pct'] * stats['infra_commits_pct'])) :.3f}"
-                )
-                print(
-                    f"Lift(Development|Test) = { (supp_dev_test / (stats['dev_commits_pct'] * stats['test_commits_pct'])) :.3f}"
-                )
-                print(
-                    f"Lift(Test|Development) = { (supp_test_dev / (stats['test_commits_pct'] * stats['dev_commits_pct'])) :.3f}"
-                )
-                print(
-                    f"Lift(Build|Development) = { (supp_build_dev / (stats['build_commits_pct'] * stats['dev_commits_pct'])) :.3f}"
-                )
-                print(
-                    f"Lift(Development|Build) = { (supp_dev_build / (stats['dev_commits_pct'] * stats['build_commits_pct'])) :.3f}"
-                )
-                print(
-                    f"Lift(Test|Build) = { (supp_test_build / (stats['test_commits_pct'] * stats['build_commits_pct'])) :.3f}"
-                )
-                print(
-                    f"Lift(Build|Test) = { (supp_build_test / (stats['build_commits_pct'] * stats['test_commits_pct'])) :.3f}"
-                )
-
-                # path = Path(__file__).parent
-                # analyzer.export_analysis(f"{path}/support_metrics/{fileName}-confidence.json", json_file)
+                infra_build_lift = stats['infra_build_pct'] / (stats['infra_commits_pct'] * stats['build_commits_pct'])
+                print(f"\nLift(Infrastructure|Build) = { infra_build_lift :.3f}")
+                infra_dev_lift = stats['infra_dev_pct'] / (stats['infra_commits_pct'] * stats['dev_commits_pct'])
+                print(f"Lift(Infrastructure|Development) = { infra_dev_lift :.3f}")
+                infra_test_lift = stats['infra_test_pct'] / (stats['infra_commits_pct'] * stats['test_commits_pct'])
+                print(f"Lift(Infrastructure|Test) = { infra_test_lift :.3f}")
 
             print("\n" + "=" * 80 + "\n")  # Separator between files
 
