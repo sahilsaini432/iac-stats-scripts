@@ -240,31 +240,31 @@ def main():
                 # Print Metrics for Report
                 print(f"\n📊 Metrics for Report")
 
-                print(f"\nP(Infrastructure) = {stats['infra_commits_pct'] :.3f}")
-                print(f"P(Development) = {stats['dev_commits_pct'] :.3f}")
-                print(f"P(Build) = {stats['build_commits_pct'] :.3f}")
-                print(f"P(Test) = {stats['infra_commits_pct'] :.3f}")
+                print(f"\nP(Infrastructure) = {stats['infra_commits_pct'] :.6f}")
+                print(f"P(Development) = {stats['dev_commits_pct'] :.6f}")
+                print(f"P(Build) = {stats['build_commits_pct'] :.6f}")
+                print(f"P(Test) = {stats['infra_commits_pct'] :.6f}")
 
                 # Support Calculations
-                print(f"\nSupp(Infrastructure|Build) = {stats['infra_build_pct'] :.3f}")
-                print(f"Supp(Infrastructure|Development) = {stats['infra_dev_pct'] :.3f}")
-                print(f"Supp(Infrastructure|Test) = {stats['infra_test_pct'] :.3f}")
+                print(f"\nSupp(Infrastructure|Build) = {stats['infra_build_pct'] :.6f}")
+                print(f"Supp(Infrastructure|Development) = {stats['infra_dev_pct'] :.6f}")
+                print(f"Supp(Infrastructure|Test) = {stats['infra_test_pct'] :.6f}")
 
                 # Confidence Calculations
-                print(f"\nConf(Infrastructure|Build) = {stats['infra_build_pct'] / stats['infra_commits_pct'] :.3f}")
-                print(f"Conf(Build|Infrastructure) = {stats['infra_build_pct'] / stats['build_commits_pct'] :.3f}")
-                print(f"Conf(Infrastructure|Development) = {stats['infra_dev_pct'] / stats['infra_commits_pct'] :.3f}")
-                print(f"Conf(Development|Infrastructure) = {stats['infra_dev_pct'] / stats['dev_commits_pct'] :.3f}")
-                print(f"Conf(Infrastructure|Test) = {stats['infra_test_pct'] / stats['infra_commits_pct'] :.3f}")
-                print(f"Conf(Test|Infrastructure) = {stats['infra_test_pct'] / stats['test_commits_pct'] :.3f}")
+                print(f"\nConf(Infrastructure|Build) = {stats['infra_build_pct'] / stats['infra_commits_pct'] :.6f}")
+                print(f"Conf(Build|Infrastructure) = {stats['infra_build_pct'] / stats['build_commits_pct'] :.6f}")
+                print(f"Conf(Infrastructure|Development) = {stats['infra_dev_pct'] / stats['infra_commits_pct'] :.6f}")
+                print(f"Conf(Development|Infrastructure) = {stats['infra_dev_pct'] / stats['dev_commits_pct'] :.6f}")
+                print(f"Conf(Infrastructure|Test) = {stats['infra_test_pct'] / stats['infra_commits_pct'] :.6f}")
+                print(f"Conf(Test|Infrastructure) = {stats['infra_test_pct'] / stats['test_commits_pct'] :.6f}")
 
                 # Lift Calculations
                 infra_build_lift = stats['infra_build_pct'] / (stats['infra_commits_pct'] * stats['build_commits_pct'])
-                print(f"\nLift(Infrastructure|Build) = { infra_build_lift :.3f}")
+                print(f"\nLift(Infrastructure|Build) = { infra_build_lift :.6f}")
                 infra_dev_lift = stats['infra_dev_pct'] / (stats['infra_commits_pct'] * stats['dev_commits_pct'])
-                print(f"Lift(Infrastructure|Development) = { infra_dev_lift :.3f}")
+                print(f"Lift(Infrastructure|Development) = { infra_dev_lift :.6f}")
                 infra_test_lift = stats['infra_test_pct'] / (stats['infra_commits_pct'] * stats['test_commits_pct'])
-                print(f"Lift(Infrastructure|Test) = { infra_test_lift :.3f}")
+                print(f"Lift(Infrastructure|Test) = { infra_test_lift :.6f}")
 
             print("\n" + "=" * 80 + "\n")  # Separator between files
 
