@@ -7,6 +7,7 @@ import os
 from collections import defaultdict
 from pathlib import Path
 import stat
+import statistics
 
 
 class InfraBuildOverlapAnalyzer:
@@ -113,40 +114,40 @@ class InfraBuildOverlapAnalyzer:
                 self.dev_commits.add(commit_sha)
 
             if has_infrastructure and not has_build and not has_test and not has_dev:
-                self.detailed_stats['infra_only'].add(commit_sha)
+                self.detailed_stats["infra_only"].add(commit_sha)
 
             elif has_build and not has_infrastructure and not has_test and not has_dev:
-                self.detailed_stats['build_only'].add(commit_sha)
+                self.detailed_stats["build_only"].add(commit_sha)
 
             elif has_test and not has_infrastructure and not has_build and not has_dev:
-                self.detailed_stats['test_only'].add(commit_sha)
+                self.detailed_stats["test_only"].add(commit_sha)
 
             elif has_dev and not has_infrastructure and not has_build and not has_test:
-                self.detailed_stats['dev_only'].add(commit_sha)
+                self.detailed_stats["dev_only"].add(commit_sha)
 
             if has_infrastructure and has_build:
                 self.infra_build_commits.add(commit_sha)
-                self.detailed_stats['both_infra_build'].add(commit_sha)
+                self.detailed_stats["both_infra_build"].add(commit_sha)
 
             if has_infrastructure and has_test:
                 self.infra_test_commits.add(commit_sha)
-                self.detailed_stats['both_infra_test'].add(commit_sha)
+                self.detailed_stats["both_infra_test"].add(commit_sha)
 
             if has_infrastructure and has_dev:
                 self.infra_dev_commits.add(commit_sha)
-                self.detailed_stats['both_infra_dev'].add(commit_sha)
+                self.detailed_stats["both_infra_dev"].add(commit_sha)
 
             if has_dev and has_test:
                 self.dev_test_commits.add(commit_sha)
-                self.detailed_stats['both_dev_test'].add(commit_sha)
+                self.detailed_stats["both_dev_test"].add(commit_sha)
 
             if has_dev and has_build:
                 self.dev_build_commits.add(commit_sha)
-                self.detailed_stats['both_dev_build'].add(commit_sha)
+                self.detailed_stats["both_dev_build"].add(commit_sha)
 
             if has_test and has_build:
                 self.test_build_commits.add(commit_sha)
-                self.detailed_stats['both_test_build'].add(commit_sha)
+                self.detailed_stats["both_test_build"].add(commit_sha)
 
         return True
 
@@ -155,57 +156,57 @@ class InfraBuildOverlapAnalyzer:
         stats = {}
 
         # Basic counts
-        stats['total_commits'] = self.total_commits
+        stats["total_commits"] = self.total_commits
 
-        stats['infrastructure_commits'] = len(self.infrastructure_commits)
-        stats['build_commits'] = len(self.build_commits)
-        stats['test_commits'] = len(self.test_commits)
-        stats['dev_commits'] = len(self.dev_commits)
+        stats["infrastructure_commits"] = len(self.infrastructure_commits)
+        stats["build_commits"] = len(self.build_commits)
+        stats["test_commits"] = len(self.test_commits)
+        stats["dev_commits"] = len(self.dev_commits)
 
-        stats['both_infra_test'] = len(self.infra_test_commits)
-        stats['both_infra_dev'] = len(self.infra_dev_commits)
-        stats['both_infra_build'] = len(self.infra_build_commits)
-        stats['both_dev_test'] = len(self.dev_test_commits)
-        stats['both_dev_build'] = len(self.dev_build_commits)
-        stats['both_test_build'] = len(self.test_build_commits)
+        stats["both_infra_test"] = len(self.infra_test_commits)
+        stats["both_infra_dev"] = len(self.infra_dev_commits)
+        stats["both_infra_build"] = len(self.infra_build_commits)
+        stats["both_dev_test"] = len(self.dev_test_commits)
+        stats["both_dev_build"] = len(self.dev_build_commits)
+        stats["both_test_build"] = len(self.test_build_commits)
 
         if self.total_commits > 0:
-            stats['infra_commits_pct'] = len(self.infrastructure_commits) / self.total_commits
-            stats['build_commits_pct'] = len(self.build_commits) / self.total_commits
-            stats['test_commits_pct'] = len(self.test_commits) / self.total_commits
-            stats['dev_commits_pct'] = len(self.dev_commits) / self.total_commits
+            stats["infra_commits_pct"] = len(self.infrastructure_commits) / self.total_commits
+            stats["build_commits_pct"] = len(self.build_commits) / self.total_commits
+            stats["test_commits_pct"] = len(self.test_commits) / self.total_commits
+            stats["dev_commits_pct"] = len(self.dev_commits) / self.total_commits
 
-            stats['infra_build_pct'] = len(self.infra_build_commits) / self.total_commits
-            stats['infra_test_pct'] = len(self.infra_test_commits) / self.total_commits
-            stats['infra_dev_pct'] = len(self.infra_dev_commits) / self.total_commits
-            stats['dev_test_pct'] = len(self.dev_test_commits) / self.total_commits
-            stats['dev_build_pct'] = len(self.dev_build_commits) / self.total_commits
-            stats['test_build_pct'] = len(self.test_build_commits) / self.total_commits
+            stats["infra_build_pct"] = len(self.infra_build_commits) / self.total_commits
+            stats["infra_test_pct"] = len(self.infra_test_commits) / self.total_commits
+            stats["infra_dev_pct"] = len(self.infra_dev_commits) / self.total_commits
+            stats["dev_test_pct"] = len(self.dev_test_commits) / self.total_commits
+            stats["dev_build_pct"] = len(self.dev_build_commits) / self.total_commits
+            stats["test_build_pct"] = len(self.test_build_commits) / self.total_commits
         else:
-            stats['infra_commits_pct'] = 0
-            stats['build_commits_pct'] = 0
-            stats['test_commits_pct'] = 0
-            stats['dev_commits_pct'] = 0
+            stats["infra_commits_pct"] = 0
+            stats["build_commits_pct"] = 0
+            stats["test_commits_pct"] = 0
+            stats["dev_commits_pct"] = 0
 
-            stats['infra_build_pct'] = 0
-            stats['infra_test_pct'] = 0
-            stats['infra_dev_pct'] = 0
-            stats['dev_test_pct'] = 0
-            stats['dev_build_pct'] = 0
-            stats['test_build_pct'] = 0
+            stats["infra_build_pct"] = 0
+            stats["infra_test_pct"] = 0
+            stats["infra_dev_pct"] = 0
+            stats["dev_test_pct"] = 0
+            stats["dev_build_pct"] = 0
+            stats["test_build_pct"] = 0
 
         # Detailed breakdown
-        stats['infra_only_count'] = len(self.detailed_stats['infra_only'])
-        stats['build_only_count'] = len(self.detailed_stats['build_only'])
-        stats['test_only_count'] = len(self.detailed_stats['test_only'])
-        stats['dev_only_count'] = len(self.detailed_stats['dev_only'])
+        stats["infra_only_count"] = len(self.detailed_stats["infra_only"])
+        stats["build_only_count"] = len(self.detailed_stats["build_only"])
+        stats["test_only_count"] = len(self.detailed_stats["test_only"])
+        stats["dev_only_count"] = len(self.detailed_stats["dev_only"])
 
-        stats['both_infra_build_count'] = len(self.detailed_stats['both_infra_build'])
-        stats['both_infra_test_count'] = len(self.detailed_stats['both_infra_test'])
-        stats['both_infra_dev_count'] = len(self.detailed_stats['both_infra_dev'])
-        stats['both_dev_test_count'] = len(self.detailed_stats['both_dev_test'])
-        stats['both_dev_build_count'] = len(self.detailed_stats['both_dev_build'])
-        stats['both_test_build_count'] = len(self.detailed_stats['both_test_build'])
+        stats["both_infra_build_count"] = len(self.detailed_stats["both_infra_build"])
+        stats["both_infra_test_count"] = len(self.detailed_stats["both_infra_test"])
+        stats["both_infra_dev_count"] = len(self.detailed_stats["both_infra_dev"])
+        stats["both_dev_test_count"] = len(self.detailed_stats["both_dev_test"])
+        stats["both_dev_build_count"] = len(self.detailed_stats["both_dev_build"])
+        stats["both_test_build_count"] = len(self.detailed_stats["both_test_build"])
 
         return stats
 
@@ -215,59 +216,261 @@ class InfraBuildOverlapAnalyzer:
         return stats
 
 
+def run_analysis(json_file, global_analyzer):
+    analyzer = InfraBuildOverlapAnalyzer()
+    if not os.path.exists(json_file):
+        print(f"⚠️  File not found: {json_file}")
+        return
+
+    fileName = os.path.basename(json_file)
+    success = analyzer.analyze_json_file(json_file)
+    if success:
+        stats = analyzer.print_analysis(fileName)
+
+        # Print Metrics for Report
+        # print(f"\n📊 Metrics for Report")
+
+        # print(f"\nP(Infrastructure) = {stats['infra_commits_pct'] :.6f}")
+        global_analyzer["infra_commits_pct"].append(stats["infra_commits_pct"])
+
+        # print(f"P(Development) = {stats['dev_commits_pct'] :.6f}")
+        global_analyzer["dev_commits_pct"].append(stats["dev_commits_pct"])
+
+        # print(f"P(Build) = {stats['build_commits_pct'] :.6f}")
+        global_analyzer["build_commits_pct"].append(stats["build_commits_pct"])
+
+        # print(f"P(Test) = {stats['test_commits_pct'] :.6f}")
+        global_analyzer["test_commits_pct"].append(stats["test_commits_pct"])
+
+        # Support Calculations
+        # print(f"\nSupp(Infrastructure|Build) = {stats['infra_build_pct'] :.6f}")
+        global_analyzer["infra_build_pct"].append(stats["infra_build_pct"])
+
+        # print(f"Supp(Infrastructure|Development) = {stats['infra_dev_pct'] :.6f}")
+        global_analyzer["infra_dev_pct"].append(stats["infra_dev_pct"])
+
+        # print(f"Supp(Infrastructure|Test) = {stats['infra_test_pct'] :.6f}")
+        global_analyzer["infra_test_pct"].append(stats["infra_test_pct"])
+
+        # Confidence Calculations
+        if stats["infra_commits_pct"] > 0:
+            # print(
+            #     f"\nConf(Infrastructure|Build) = {stats['infra_build_pct'] / stats['infra_commits_pct'] :.6f}"
+            # )
+            global_analyzer["conf_infra_build_pct"].append(
+                stats["infra_build_pct"] / stats["infra_commits_pct"]
+            )
+        # else:
+        # print(f"\nConf(Infrastructure|Build) = 0")
+
+        if stats["build_commits_pct"] > 0:
+            # print(
+            #     f"Conf(Build|Infrastructure) = {stats['infra_build_pct'] / stats['build_commits_pct'] :.6f}"
+            # )
+            global_analyzer["conf_build_infra_pct"].append(
+                stats["infra_build_pct"] / stats["build_commits_pct"]
+            )
+        # else:
+        #     print(f"Conf(Build|Infrastructure) = 0")
+
+        if stats["infra_commits_pct"] > 0:
+            # print(
+            #     f"Conf(Infrastructure|Development) = {stats['infra_dev_pct'] / stats['infra_commits_pct'] :.6f}"
+            # )
+            global_analyzer["conf_infra_dev_pct"].append(stats["infra_dev_pct"] / stats["infra_commits_pct"])
+        # else:
+        #     print(f"Conf(Infrastructure|Development) = 0")
+
+        if stats["dev_commits_pct"] > 0:
+            # print(
+            #     f"Conf(Development|Infrastructure) = {stats['infra_dev_pct'] / stats['dev_commits_pct'] :.6f}"
+            # )
+            global_analyzer["conf_dev_infra_pct"].append(stats["infra_dev_pct"] / stats["dev_commits_pct"])
+        # else:
+        #     print(f"Conf(Development|Infrastructure) = 0")
+
+        if stats["infra_commits_pct"] > 0:
+            # print(f"Conf(Infrastructure|Test) = {stats['infra_test_pct'] / stats['infra_commits_pct'] :.6f}")
+            global_analyzer["conf_infra_test_pct"].append(
+                stats["infra_test_pct"] / stats["infra_commits_pct"]
+            )
+        # else:
+        #     print(f"Conf(Infrastructure|Test) = 0")
+
+        if stats["test_commits_pct"] > 0:
+            # print(f"Conf(Test|Infrastructure) = {stats['infra_test_pct'] / stats['test_commits_pct'] :.6f}")
+            global_analyzer["conf_test_infra_pct"].append(stats["infra_test_pct"] / stats["test_commits_pct"])
+        # else:
+        #     print(f"Conf(Test|Infrastructure) = 0")
+
+        # Lift Calculations
+        if stats["infra_commits_pct"] * stats["build_commits_pct"] > 0:
+            infra_build_lift = stats["infra_build_pct"] / (
+                stats["infra_commits_pct"] * stats["build_commits_pct"]
+            )
+            global_analyzer["lift_infra_build_pct"].append(infra_build_lift)
+            # print(f"\nLift(Infrastructure|Build) = { infra_build_lift :.6f}")
+        # else:
+        #     print(f"\nLift(Infrastructure|Build) = 0")
+
+        if stats["infra_commits_pct"] * stats["dev_commits_pct"] > 0:
+            infra_dev_lift = stats["infra_dev_pct"] / (stats["infra_commits_pct"] * stats["dev_commits_pct"])
+            global_analyzer["lift_infra_dev_pct"].append(infra_dev_lift)
+            # print(f"Lift(Infrastructure|Development) = { infra_dev_lift :.6f}")
+        # else:
+        #     print(f"Lift(Infrastructure|Development) = 0")
+
+        if stats["infra_commits_pct"] * stats["test_commits_pct"] > 0:
+            infra_test_lift = stats["infra_test_pct"] / (
+                stats["infra_commits_pct"] * stats["test_commits_pct"]
+            )
+            global_analyzer["lift_infra_test_pct"].append(infra_test_lift)
+            # print(f"Lift(Infrastructure|Test) = { infra_test_lift :.6f}")
+        # else:
+        #     print(f"Lift(Infrastructure|Test) = 0")
+
+    print("\n" + "=" * 80 + "\n")  # Separator between files
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Analyze category overlap in commit data",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
 
-    parser.add_argument("json_files", nargs="+", help="JSON file(s) to analyze")
+    parser.add_argument("json_files", help="JSON file(s) to analyze")
     args = parser.parse_args()
-    analyzer = InfraBuildOverlapAnalyzer()
+
+    files = list(Path(f"{args.json_files}").iterdir())
+    global_analyzer = {}
+
+    global_analyzer["infra_commits_pct"] = []
+    global_analyzer["build_commits_pct"] = []
+    global_analyzer["test_commits_pct"] = []
+    global_analyzer["dev_commits_pct"] = []
+
+    global_analyzer["infra_build_pct"] = []
+    global_analyzer["infra_dev_pct"] = []
+    global_analyzer["infra_test_pct"] = []
+
+    global_analyzer["conf_infra_build_pct"] = []
+    global_analyzer["conf_build_infra_pct"] = []
+    global_analyzer["conf_infra_dev_pct"] = []
+    global_analyzer["conf_dev_infra_pct"] = []
+    global_analyzer["conf_infra_test_pct"] = []
+    global_analyzer["conf_test_infra_pct"] = []
+
+    global_analyzer["lift_infra_build_pct"] = []
+    global_analyzer["lift_infra_dev_pct"] = []
+    global_analyzer["lift_infra_test_pct"] = []
 
     try:
         # Process each JSON file
-        for json_file in args.json_files:
-            if not os.path.exists(json_file):
-                print(f"⚠️  File not found: {json_file}")
-                continue
+        for json_file in files:
+            run_analysis(json_file, global_analyzer)
 
-            fileName = os.path.basename(json_file)
-            success = analyzer.analyze_json_file(json_file)
-            if success:
-                stats = analyzer.print_analysis(fileName)
+        # Calculate median of the metrics across all files
+        if len(global_analyzer["infra_commits_pct"]) > 0:
+            print(f"\nP(Infrastructure) = {statistics.median(global_analyzer['infra_commits_pct']) :.4f}")
+        else:
+            print(f"\nP(Infrastructure) = 0")
 
-                # Print Metrics for Report
-                print(f"\n📊 Metrics for Report")
+        if len(global_analyzer["dev_commits_pct"]) > 0:
+            print(f"P(Development) = {statistics.median(global_analyzer['dev_commits_pct']) :.4f}")
+        else:
+            print(f"P(Development) = 0")
 
-                print(f"\nP(Infrastructure) = {stats['infra_commits_pct'] :.6f}")
-                print(f"P(Development) = {stats['dev_commits_pct'] :.6f}")
-                print(f"P(Build) = {stats['build_commits_pct'] :.6f}")
-                print(f"P(Test) = {stats['infra_commits_pct'] :.6f}")
+        if len(global_analyzer["build_commits_pct"]) > 0:
+            print(f"P(Build) = {statistics.median(global_analyzer['build_commits_pct']) :.4f}")
+        else:
+            print(f"P(Build) = 0")
 
-                # Support Calculations
-                print(f"\nSupp(Infrastructure|Build) = {stats['infra_build_pct'] :.6f}")
-                print(f"Supp(Infrastructure|Development) = {stats['infra_dev_pct'] :.6f}")
-                print(f"Supp(Infrastructure|Test) = {stats['infra_test_pct'] :.6f}")
+        if len(global_analyzer["test_commits_pct"]) > 0:
+            print(f"P(Test) = {statistics.median(global_analyzer['test_commits_pct']) :.4f}")
+        else:
+            print(f"P(Test) = 0")
 
-                # Confidence Calculations
-                print(f"\nConf(Infrastructure|Build) = {stats['infra_build_pct'] / stats['infra_commits_pct'] :.6f}")
-                print(f"Conf(Build|Infrastructure) = {stats['infra_build_pct'] / stats['build_commits_pct'] :.6f}")
-                print(f"Conf(Infrastructure|Development) = {stats['infra_dev_pct'] / stats['infra_commits_pct'] :.6f}")
-                print(f"Conf(Development|Infrastructure) = {stats['infra_dev_pct'] / stats['dev_commits_pct'] :.6f}")
-                print(f"Conf(Infrastructure|Test) = {stats['infra_test_pct'] / stats['infra_commits_pct'] :.6f}")
-                print(f"Conf(Test|Infrastructure) = {stats['infra_test_pct'] / stats['test_commits_pct'] :.6f}")
+        if len(global_analyzer["infra_build_pct"]) > 0:
+            print(
+                f"\nSupp(Infrastructure|Build) = {statistics.median(global_analyzer['infra_build_pct']) :.4f}"
+            )
+        else:
+            print(f"\nSupp(Infrastructure|Build) = 0")
 
-                # Lift Calculations
-                infra_build_lift = stats['infra_build_pct'] / (stats['infra_commits_pct'] * stats['build_commits_pct'])
-                print(f"\nLift(Infrastructure|Build) = { infra_build_lift :.6f}")
-                infra_dev_lift = stats['infra_dev_pct'] / (stats['infra_commits_pct'] * stats['dev_commits_pct'])
-                print(f"Lift(Infrastructure|Development) = { infra_dev_lift :.6f}")
-                infra_test_lift = stats['infra_test_pct'] / (stats['infra_commits_pct'] * stats['test_commits_pct'])
-                print(f"Lift(Infrastructure|Test) = { infra_test_lift :.6f}")
+        if len(global_analyzer["infra_dev_pct"]) > 0:
+            print(
+                f"Supp(Infrastructure|Development) = {statistics.median(global_analyzer['infra_dev_pct']) :.4f}"
+            )
+        else:
+            print(f"Supp(Infrastructure|Development) = 0")
 
-            print("\n" + "=" * 80 + "\n")  # Separator between files
+        if len(global_analyzer["infra_test_pct"]) > 0:
+            print(f"Supp(Infrastructure|Test) = {statistics.median(global_analyzer['infra_test_pct']) :.4f}")
+        else:
+            print(f"Supp(Infrastructure|Test) = 0")
 
+        if len(global_analyzer["conf_infra_build_pct"]) > 0:
+            print(
+                f"\nConf(Infrastructure|Build) = {statistics.median(global_analyzer['conf_infra_build_pct']) :.4f}"
+            )
+        else:
+            print(f"\nConf(Infrastructure|Build) = 0")
+
+        if len(global_analyzer["conf_build_infra_pct"]) > 0:
+            print(
+                f"Conf(Build|Infrastructure) = {statistics.median(global_analyzer['conf_build_infra_pct']) :.4f}"
+            )
+        else:
+            print(f"Conf(Build|Infrastructure) = 0")
+
+        if len(global_analyzer["conf_infra_dev_pct"]) > 0:
+            print(
+                f"Conf(Infrastructure|Development) = {statistics.median(global_analyzer['conf_infra_dev_pct']) :.4f}"
+            )
+        else:
+            print(f"Conf(Infrastructure|Development) = 0")
+
+        if len(global_analyzer["conf_dev_infra_pct"]) > 0:
+            print(
+                f"Conf(Development|Infrastructure) = {statistics.median(global_analyzer['conf_dev_infra_pct']) :.4f}"
+            )
+        else:
+            print(f"Conf(Development|Infrastructure) = 0")
+
+        if len(global_analyzer["conf_infra_test_pct"]) > 0:
+            print(
+                f"Conf(Infrastructure|Test) = {statistics.median(global_analyzer['conf_infra_test_pct']) :.4f}"
+            )
+        else:
+            print(f"Conf(Infrastructure|Test) = 0")
+
+        if len(global_analyzer["conf_test_infra_pct"]) > 0:
+            print(
+                f"Conf(Test|Infrastructure) = {statistics.median(global_analyzer['conf_test_infra_pct']) :.4f}"
+            )
+        else:
+            print(f"Conf(Test|Infrastructure) = 0")
+
+        if len(global_analyzer["lift_infra_build_pct"]) > 0:
+            print(
+                f"\nLift(Infrastructure|Build) = {statistics.median(global_analyzer['lift_infra_build_pct']) :.4f}"
+            )
+        else:
+            print(f"\nLift(Infrastructure|Build) = 0")
+
+        if len(global_analyzer["lift_infra_dev_pct"]) > 0:
+            print(
+                f"Lift(Infrastructure|Development) = {statistics.median(global_analyzer['lift_infra_dev_pct']) :.4f}"
+            )
+        else:
+            print(f"Lift(Infrastructure|Development) = 0")
+
+        if len(global_analyzer["lift_infra_test_pct"]) > 0:
+            print(
+                f"Lift(Infrastructure|Test) = {statistics.median(global_analyzer['lift_infra_test_pct']) :.4f}"
+            )
+        else:
+            print(f"Lift(Infrastructure|Test) = 0")
         return 0
 
     except KeyboardInterrupt:

@@ -1,1 +1,1211 @@
-[{"message":"Add logic for generating ml requirements (#35484)\n* Add logic for generating ml requirements\n* Add some requirements and loosen torch bounds\n* Widen bounds and generate 3.12 containers\n* posargs\n* Tox config fixes","files":[{"filename":"run_generate_requirements.sh","status":"modified"},{"filename":"build.gradle","status":"modified"},{"filename":"build.gradle","status":"modified"}]},{"message":"Set go version 1.24.4 (#35261)\n* Set go version 1.24.4\n* Set go version 1.24.4","files":[{"filename":"go.mod","status":"modified"},{"filename":"run_with_go_version.sh","status":"modified"}]},{"message":"Add postcommit yaml xlang workflow and split tests accordingly (#35119)\n* move precommit yaml xlang to postcommit\n* add json file to trigger path\n* update pull request targets\n* add readme workflow changes\n* add cloud sdk setup\n* switch out to ubuntu-latest\n* add back precommit workflow\n* switch names and add postcommit\n* switch out to postCommitYamlIT\n* add test_files_dir flag\n* add conftest.py file for capturing directory flag\n* shift yaml tests around to appropriate locations\n* add back precommit to readme\n* add license for conftest.py\n* revert precommit to previous name\n* remove github.event.comment.body trigger","files":[{"filename":"README.md","status":"modified"},{"filename":"bigquery.yaml","status":"renamed"},{"filename":"enrichment.yaml","status":"renamed"},{"filename":"spanner.yaml","status":"renamed"},{"filename":"assign_timestamps.yaml","status":"renamed"},{"filename":"create.yaml","status":"renamed"},{"filename":"extract_windowing_Info.yaml","status":"renamed"},{"filename":"filter.yaml","status":"renamed"},{"filename":"flatten.yaml","status":"renamed"},{"filename":"ml_transform.yaml","status":"renamed"},{"filename":"partition.yaml","status":"renamed"},{"filename":"pytransform.yaml","status":"renamed"},{"filename":"runinference.yaml","status":"renamed"},{"filename":"validate_with_schema.yaml","status":"renamed"},{"filename":"windowinto.yaml","status":"renamed"}]},{"message":"Update dataflow_cost_benchmark. Update website: add ML pipelines performance metrics (#34361)","files":[{"filename":"python_wordcount.txt","status":"modified"},{"filename":"tensorflow_tests_requirements.txt","status":"modified"},{"filename":"torch_tests_requirements.txt","status":"modified"},{"filename":"requirements.txt","status":"added"}]},{"message":"Add unassign issue feature (#33924)","files":[{"filename":"ACTIONS.md","status":"modified"},{"filename":"failing_test.yml","status":"modified"}]},{"message":"[Distroless] Reorganize and refactor Distroless build and test details (#33494)\n* Remove existing wfs\n* Refactor distroless variants\n* Fix java v2 precommit\n* modify trigger files\n* Update build.gradle\n* Update build.gradle","files":[{"filename":"Dockerfile","status":"renamed"},{"filename":"Dockerfile","status":"renamed"},{"filename":"build.gradle","status":"modified"},{"filename":"common.gradle","status":"modified"}]},{"message":"Remove aws v1 from infrastructure (#33455)\n* Remove aws v1 from infrastructure\n* Remove unused code","files":[{"filename":"README.md","status":"modified"},{"filename":"build.gradle","status":"modified"},{"filename":"build.gradle","status":"modified"}]},{"message":"Merge branch 'master' into numpy-2-update-deps","files":[{"filename":"IO_Iceberg_Integration_Tests.json","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"Merge branch 'master' into update-type-hints","files":[{"filename":"IO_Iceberg_Integration_Tests.json","status":"modified"},{"filename":"README.md","status":"modified"},{"filename":"tox.ini","status":"modified"},{"filename":"pyproject.toml","status":"modified"},{"filename":"python_installer.sh","status":"modified"},{"filename":"local-env-setup.sh","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"Merge pull request #33088 from shunping/fix-postcommit-python\nRevert PR #32960","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"build.gradle","status":"modified"},{"filename":"common.gradle","status":"modified"},{"filename":"gradle.properties","status":"modified"}]},{"message":"Move internal -> pkg for external use of beta9 modules (#221)\nIn the future, things like plugins, or other internal modules will want\r\nto reference things within the beta9 codebase. This moves modules from\r\ninternal->pkg to follow those semantics.","files":[{"filename":"test.yml","status":"modified"},{"filename":"Dockerfile.runner","status":"modified"},{"filename":"gen.sh","status":"modified"}]},{"message":"Remote machines (#80)\n* start laying out scheduling changes\r\n\r\n* cleanup, add pool modes\r\n\r\n* rename pool_k8s\r\n\r\n* load controllers conditionally\r\n\r\n* add metal controller\r\n\r\n* move duplicated functionality\r\n\r\n* call machines fn\r\n\r\n* create a mock provider dynamically\r\n\r\n* cleanup\r\n\r\n* re-add agent\r\n\r\n* connect to tailnet\r\n\r\n* add debug flag\r\n\r\n* add some logs\r\n\r\n* remove required\r\n\r\n* actually spin up the machine\r\n\r\n* add in agent manifest\r\n\r\n* reconcile loop [wip]\r\n\r\n* wip\r\n\r\n* try go 1.21 for test\r\n\r\n* working indirect tailscale\r\n\r\n* clean up proxy\r\n\r\n* wip\r\n\r\n* connect to tailscale host dynamically\r\n\r\n* fix race condition\r\n\r\n* wip\r\n\r\n* create job\r\n\r\n* add json config annotations\r\n\r\n* remove creds\r\n\r\n* remove t4 pool from default config\r\n\r\n* working, but still buggy\r\n\r\n* renconcile\r\n\r\n* fix logs\r\n\r\n* clean up logs\r\n\r\n* fix machine locking\r\n\r\n* replace token with single use token\r\n\r\n* remove systemd\r\n\r\n* add comment\r\n\r\n* fix a bunch of bugs, get tailscale refactored\r\n\r\n* remove log\r\n\r\n* last touches\r\n\r\n* fix a couple more merge conflicts\r\n\r\n* remove metrics key\r\n\r\n* fix tests\r\n\r\n* add proxy to build\r\n\r\n* add warning if events are not up\r\n\r\n* remove period\r\n\r\n* add comment\r\n\r\n* fix tcp check\r\n\r\n* fix typo\r\n\r\n* add reusable to models\r\n\r\n* address pr comments\r\n\r\n-\r\n\r\nCo-authored-by: Luke Lombardi <luke@beam.cloud>","files":[{"filename":"test.yml","status":"modified"},{"filename":"main.tf","status":"modified"},{"filename":"Dockerfile.gateway","status":"modified"},{"filename":"Dockerfile.proxy","status":"added"},{"filename":"Dockerfile.runner","status":"modified"},{"filename":"Dockerfile.worker","status":"modified"}]},{"message":"testing out gateway ci (#71)\n* testing out gateway ci\r\n\r\n* update output path\r\n\r\n-\r\n\r\nCo-authored-by: Luke Lombardi <luke@beam.cloud>","files":[{"filename":"test.yml","status":"renamed"},{"filename":"Dockerfile.gateway","status":"modified"}]},{"message":"Rename project to beta9 (#62)\n* rename to beta9\r\n\r\n* remove todo\r\n\r\n* fix gateway okteto\r\n\r\n-\r\n\r\nCo-authored-by: Luke Lombardi <luke@beam.cloud>","files":[{"filename":"variables.tf","status":"modified"},{"filename":"config.tpl","status":"modified"},{"filename":"main.tf","status":"modified"},{"filename":"variables.tf","status":"modified"},{"filename":"README.md","status":"modified"},{"filename":"main.tf","status":"modified"},{"filename":"Dockerfile.gateway","status":"renamed"},{"filename":"Dockerfile.worker","status":"modified"},{"filename":"gen.sh","status":"modified"},{"filename":"pytest.ini","status":"modified"}]},{"message":"Add sdk (#7)\n* add beam sdk\r\n\r\n* remove deprecated code\r\n\r\n* fix proto gen\r\n\r\n* remove bucket\r\n\r\n* remove license file\r\n\r\n-\r\n\r\nCo-authored-by: Luke Lombardi <luke@beam.cloud>","files":[{"filename":"gen.sh","status":"modified"},{"filename":"pytest.ini","status":"added"}]},{"message":"feat: add helm var to support RBAC for deploying workspaces in extra namespaces (#19517)\nThis is a feature to create Role & RoleBinding entries on a per\nnamespace basis to support deploying workspaces in separate namespace to\nwhere Coder is deployed. The idea behind this is to avoid the creation\nof custom RBAC entries or the use of ClusterRoles (in order to maintain\npriciple of least privilege).\n> If you have used AI to produce some or all of this PR, please ensure\nyou have read our [AI Contribution\nguidelines](https://coder.com/docs/about/contributing/AI_CONTRIBUTING)\nbefore submitting.\nThis is a blink assisted PR.\nExample `helm template` without\n`coder.serviceAccount.workspaceNamespaces` enabled (existing behaviour\nas of current release) is below. Outcome = 1 x SA, 1 x Role, 1 x\nRoleBinding, all in the coder (`.Release.Namespace`) namespace.\n```\n➜ coder git:(feat/helm_namespace_rbac_improvements) ✗ helm template -n coder coder . set coder.image.tag=v2.25.1\n-\n...\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: Role\nmetadata:\n name: coder-workspace-perms\n namespace: coder\nrules:\n - apiGroups: [\"\"]\nresources: [\"pods\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups: [\"\"]\nresources: [\"persistentvolumeclaims\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups:\n- apps\nresources:\n- deployments\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: RoleBinding\nmetadata:\n name: \"coder\"\n namespace: coder\nsubjects:\n - kind: ServiceAccount\nname: \"coder\"\nroleRef:\n apiGroup: rbac.authorization.k8s.io\n kind: Role\n name: coder-workspace-perms\n-\n```\nExample `helm template` *with*\n`coder.serviceAccount.workspaceNamespaces` enabled is below. Outcome = 1\nx SA, 1 x Role, 1 x RoleBinding, all in the coder (`.Release.Namespace`)\nnamespace PLUS a Role and RoleBinding in the `dev-ws` namespace with\neach of the RoleBindings referencing the coder SA in the coder\n(`.Release.Namespace`) namespace:\n```\n➜ coder git:(feat/helm_namespace_rbac_improvements) ✗ helm template -n coder coder . set coder.image.tag=v2.25.1 set-json 'coder.serviceAccount.workspaceNamespaces=[{\"name\":\"dev-ws\",\"workspacePerms\":true,\"enableDeployments\":true,\"extraRules\":[]}]' \n-\n...\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: Role\nmetadata:\n name: coder-workspace-perms\n namespace: coder\nrules:\n - apiGroups: [\"\"]\nresources: [\"pods\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups: [\"\"]\nresources: [\"persistentvolumeclaims\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups:\n- apps\nresources:\n- deployments\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: Role\nmetadata:\n name: coder-workspace-perms\n namespace: dev-ws\nrules:\n - apiGroups: [\"\"]\nresources: [\"pods\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups: [\"\"]\nresources: [\"persistentvolumeclaims\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups:\n- apps\nresources:\n- deployments\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: RoleBinding\nmetadata:\n name: \"coder\"\n namespace: coder\nsubjects:\n - kind: ServiceAccount\nname: \"coder\"\nroleRef:\n apiGroup: rbac.authorization.k8s.io\n kind: Role\n name: coder-workspace-perms\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: RoleBinding\nmetadata:\n name: \"coder\"\n namespace: dev-ws\nsubjects:\n - kind: ServiceAccount\nname: \"coder\"\nnamespace: coder\nroleRef:\n apiGroup: rbac.authorization.k8s.io\n kind: Role\n name: coder-workspace-perms\n-\n```","files":[{"filename":"namespace_rbac.golden","status":"added"},{"filename":"namespace_rbac.yaml","status":"added"},{"filename":"namespace_rbac_coder.golden","status":"added"},{"filename":"sa_extra_rules.golden","status":"modified"},{"filename":"sa_extra_rules_coder.golden","status":"modified"},{"filename":"_helpers.tpl","status":"modified"}]},{"message":"chore: delete scaletest infrastructure (#19603)\nWe've successfully migrated the latest iteration of our scaletest\ninfrastructure (`scaletest/terraform/action`) to\nhttps://github.com/coder/scaletest (private repo). This PR removes the\nolder iterations, and the scriptsfor spinning up & running the load\ngenerators against that infrastructure (`scaletest.sh`). The tooling for\ngenerating load against a Coder deployment remains untouched, as does\nthe public documentation for that tooling (i.e. `coder exp scaletest`).\nIf we ever need that old scaletest Terraform code, it's always in the\ngit history!","files":[{"filename":"scale-utility.md","status":"modified"},{"filename":"README.md","status":"removed"},{"filename":"scaletest.sh","status":"removed"},{"filename":".gitignore","status":"removed"},{"filename":"cf_dns.tf","status":"removed"},{"filename":"coder_helm_values.tftpl","status":"removed"},{"filename":"coder_proxies.tf","status":"removed"},{"filename":"coder_templates.tf","status":"removed"},{"filename":"coder_traffic.tf","status":"removed"},{"filename":"coder_workspaces.tf","status":"removed"},{"filename":"gcp_clusters.tf","status":"removed"},{"filename":"gcp_db.tf","status":"removed"},{"filename":"gcp_project.tf","status":"removed"},{"filename":"gcp_vpc.tf","status":"removed"},{"filename":"k8s_coder_asia.tf","status":"removed"},{"filename":"k8s_coder_europe.tf","status":"removed"},{"filename":"k8s_coder_primary.tf","status":"removed"},{"filename":"kubeconfig.tftpl","status":"removed"},{"filename":"main.tf","status":"removed"},{"filename":"prometheus.tf","status":"removed"},{"filename":"prometheus_helm_values.tftpl","status":"removed"},{"filename":"scenarios.tf","status":"removed"},{"filename":"tls.tf","status":"removed"},{"filename":"vars.tf","status":"removed"},{"filename":"gcp_cluster.tf","status":"removed"},{"filename":"gcp_db.tf","status":"removed"},{"filename":"gcp_project.tf","status":"removed"},{"filename":"gcp_vpc.tf","status":"removed"},{"filename":"main.tf","status":"removed"},{"filename":"outputs.tf","status":"removed"},{"filename":"vars.tf","status":"removed"},{"filename":"cert-manager.tf","status":"removed"},{"filename":"coder.tf","status":"removed"},{"filename":"main.tf","status":"removed"},{"filename":"otel.tf","status":"removed"},{"filename":"prometheus.tf","status":"removed"},{"filename":"vars.tf","status":"removed"},{"filename":"scenario-large.tfvars","status":"removed"},{"filename":"scenario-medium.tfvars","status":"removed"},{"filename":"scenario-small.tfvars","status":"removed"},{"filename":"secrets.tfvars.tpl","status":"removed"}]},{"message":"chore: update terraform to 1.13.0 (#19509)\nCo-authored-by: Jon Ayers <jon@coder.com>","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"install.sh","status":"modified"},{"filename":"version.txt","status":"modified"},{"filename":"version.txt","status":"modified"}]},{"message":"chore(helm): make coder pprof endpoint available externally (#19185)\nPProf is still disabled by default","files":[{"filename":"_coder.tpl","status":"modified"},{"filename":"auto_access_url_1.golden","status":"modified"},{"filename":"auto_access_url_1_coder.golden","status":"modified"},{"filename":"auto_access_url_2.golden","status":"modified"},{"filename":"auto_access_url_2_coder.golden","status":"modified"},{"filename":"auto_access_url_3.golden","status":"modified"},{"filename":"auto_access_url_3_coder.golden","status":"modified"},{"filename":"command.golden","status":"modified"},{"filename":"command_args.golden","status":"modified"},{"filename":"command_args_coder.golden","status":"modified"},{"filename":"command_coder.golden","status":"modified"},{"filename":"custom_resources.golden","status":"modified"},{"filename":"custom_resources_coder.golden","status":"modified"},{"filename":"default_values.golden","status":"modified"},{"filename":"default_values_coder.golden","status":"modified"},{"filename":"env_from.golden","status":"modified"},{"filename":"env_from_coder.golden","status":"modified"},{"filename":"extra_templates.golden","status":"modified"},{"filename":"extra_templates_coder.golden","status":"modified"},{"filename":"labels_annotations.golden","status":"modified"},{"filename":"labels_annotations_coder.golden","status":"modified"},{"filename":"partial_resources.golden","status":"modified"},{"filename":"partial_resources_coder.golden","status":"modified"},{"filename":"pod_securitycontext.golden","status":"modified"},{"filename":"pod_securitycontext_coder.golden","status":"modified"},{"filename":"prometheus.golden","status":"modified"},{"filename":"prometheus_coder.golden","status":"modified"},{"filename":"provisionerd_psk.golden","status":"modified"},{"filename":"provisionerd_psk_coder.golden","status":"modified"},{"filename":"sa.golden","status":"modified"},{"filename":"sa_coder.golden","status":"modified"},{"filename":"sa_disabled.golden","status":"modified"},{"filename":"sa_disabled_coder.golden","status":"modified"},{"filename":"sa_extra_rules.golden","status":"modified"},{"filename":"sa_extra_rules_coder.golden","status":"modified"},{"filename":"securitycontext.golden","status":"modified"},{"filename":"securitycontext_coder.golden","status":"modified"},{"filename":"svc_loadbalancer.golden","status":"modified"},{"filename":"svc_loadbalancer_class.golden","status":"modified"},{"filename":"svc_loadbalancer_class_coder.golden","status":"modified"},{"filename":"svc_loadbalancer_coder.golden","status":"modified"},{"filename":"svc_nodeport.golden","status":"modified"},{"filename":"svc_nodeport_coder.golden","status":"modified"},{"filename":"tls.golden","status":"modified"},{"filename":"tls_coder.golden","status":"modified"},{"filename":"topology.golden","status":"modified"},{"filename":"topology_coder.golden","status":"modified"},{"filename":"workspace_proxy.golden","status":"modified"},{"filename":"workspace_proxy_coder.golden","status":"modified"}]},{"message":"feat: make readinessProbe and livenessProbe initialDelaySeconds configurable (#18756)\nMakes `initialDelaySeconds` configurable for both `readinessProbe` and\n`livenessProbe` in the Helm chart.\n**Changes:**\n- Added `coder.readinessProbe.initialDelaySeconds` and\n`coder.livenessProbe.initialDelaySeconds` to `values.yaml`\n- Updated `_coder.tpl` template to use these configurable values\n- Defaults to 0 seconds to maintain existing behavior\n**Testing:**\n- Verified template rendering with default values (0)\n- Verified template rendering with custom values (30, 60)\n- Both probes correctly use the configured `initialDelaySeconds`\n-\nCo-authored-by: blink-so[bot] <211532188+blink-so[bot]@users.noreply.github.com>\nCo-authored-by: kylecarbs <7122116+kylecarbs@users.noreply.github.com>","files":[{"filename":"_coder.tpl","status":"modified"},{"filename":"auto_access_url_1.golden","status":"modified"},{"filename":"auto_access_url_1_coder.golden","status":"modified"},{"filename":"auto_access_url_2.golden","status":"modified"},{"filename":"auto_access_url_2_coder.golden","status":"modified"},{"filename":"auto_access_url_3.golden","status":"modified"},{"filename":"auto_access_url_3_coder.golden","status":"modified"},{"filename":"command.golden","status":"modified"},{"filename":"command_args.golden","status":"modified"},{"filename":"command_args_coder.golden","status":"modified"},{"filename":"command_coder.golden","status":"modified"},{"filename":"custom_resources.golden","status":"modified"},{"filename":"custom_resources_coder.golden","status":"modified"},{"filename":"default_values.golden","status":"modified"},{"filename":"default_values_coder.golden","status":"modified"},{"filename":"env_from.golden","status":"modified"},{"filename":"env_from_coder.golden","status":"modified"},{"filename":"extra_templates.golden","status":"modified"},{"filename":"extra_templates_coder.golden","status":"modified"},{"filename":"labels_annotations.golden","status":"modified"},{"filename":"labels_annotations_coder.golden","status":"modified"},{"filename":"partial_resources.golden","status":"modified"},{"filename":"partial_resources_coder.golden","status":"modified"},{"filename":"prometheus.golden","status":"modified"},{"filename":"prometheus_coder.golden","status":"modified"},{"filename":"provisionerd_psk.golden","status":"modified"},{"filename":"provisionerd_psk_coder.golden","status":"modified"},{"filename":"sa.golden","status":"modified"},{"filename":"sa_coder.golden","status":"modified"},{"filename":"sa_disabled.golden","status":"modified"},{"filename":"sa_disabled_coder.golden","status":"modified"},{"filename":"sa_extra_rules.golden","status":"modified"},{"filename":"sa_extra_rules_coder.golden","status":"modified"},{"filename":"securitycontext.golden","status":"modified"},{"filename":"securitycontext_coder.golden","status":"modified"},{"filename":"svc_loadbalancer.golden","status":"modified"},{"filename":"svc_loadbalancer_class.golden","status":"modified"},{"filename":"svc_loadbalancer_class_coder.golden","status":"modified"},{"filename":"svc_loadbalancer_coder.golden","status":"modified"},{"filename":"svc_nodeport.golden","status":"modified"},{"filename":"svc_nodeport_coder.golden","status":"modified"},{"filename":"tls.golden","status":"modified"},{"filename":"tls_coder.golden","status":"modified"},{"filename":"topology.golden","status":"modified"},{"filename":"topology_coder.golden","status":"modified"},{"filename":"workspace_proxy.golden","status":"modified"},{"filename":"workspace_proxy_coder.golden","status":"modified"}]},{"message":"Merge branch 'develop' into feat/lowlevel-run","files":[{"filename":"backend_test.yml","status":"modified"},{"filename":"cli_.testyml","status":"renamed"},{"filename":"Dockerfile","status":"modified"}]},{"message":"move backend into main repo (#931)\n* move backend into main repo\r\n\nFormer-commit-id: ce90a0f7b8f937f48b78b97f114ad0a77d080969","files":[{"filename":"backend_build_test_ecr.yml","status":"added"},{"filename":"backend_test.yml","status":"added"},{"filename":"Dockerfile","status":"added"}]},{"message":"refactor cli specific files to use folder (#847)\n* refactor cli specific files to use cli folder\r\n\nFormer-commit-id: c335f6c8f133596847bfaa999136d140ff774a6e","files":[{"filename":"cli_latest.yml","status":"renamed"},{"filename":"Dockerfile","status":"renamed"}]},{"message":"Justin/request body buffer phase 2.1 (#4778)\n* initial scaffolding for requestBodyBuffer\n* init some docker scaffolding\n* initial scaffolding for requestBodyBuffer\n* added signing aws requests\n* added docker containers and requestbodybuffer abstractions\n* Apply suggestion from @greptile-apps[bot]\nCo-authored-by: greptile-apps[bot] <165735046+greptile-apps[bot]@users.noreply.github.com>\n* rm\n* renmaed file\n* moved to new file\n* comment\n* clean up\n* Apply suggestion from @greptile-apps[bot]\nCo-authored-by: greptile-apps[bot] <165735046+greptile-apps[bot]@users.noreply.github.com>\n* types\n* update wrangler\n* request body buffer impl\n* container mvp\n* bump timeout\n* remove unecessary auth\n* types\n* added formatting\n* types\n* Update worker/RequestBodyBufferContainer/README.md\nCo-authored-by: greptile-apps[bot] <165735046+greptile-apps[bot]@users.noreply.github.com>\n* Update worker/src/RequestBodyBuffer/RequestBodyBuffer_Remote.ts\nCo-authored-by: greptile-apps[bot] <165735046+greptile-apps[bot]@users.noreply.github.com>\n* cleanup\n* revert\n* build\n-\nCo-authored-by: Justin Torre <justin@helicone.ai>\nCo-authored-by: greptile-apps[bot] <165735046+greptile-apps[bot]@users.noreply.github.com>","files":[{"filename":"request-body-buffer-container-tests.yml","status":"added"},{"filename":"Dockerfile","status":"modified"},{"filename":"vitest.config.mts","status":"added"}]},{"message":"feat: Cloud billing (#4517)\nthis commit adds support to the cloudflare worker to add credit balances\nto a Durable Object in the worker, such that the worker is able to know\nhow much money a user has in order to gate/reject requests if the user's\nbalance is exhausted.\ndeducting credits after making requests/llm calls will be made in a\nseparate PR, this is a series of stacked PRs implementing the\nfunctionality iteratively","files":[{"filename":"genSupabaseTypes.sh","status":"modified"},{"filename":"vitest.config.mts","status":"modified"}]},{"message":"added vertex examples (#4231)\nCo-authored-by: Justin Torre <justin@helicone.ai>","files":[{"filename":"run.sh","status":"renamed"},{"filename":"test.png","status":"added"}]},{"message":"feat: Pull from dockerhub the ai gateway rather than using subtree (#4113)\n* chore: remove aigateway subtree\n* chore: update Dockerfile to use helicone/ai-gateway as base image\n-\nCo-authored-by: Devin Ersoy <devin@helicone.ai>","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"removed"},{"filename":"Cargo.toml","status":"removed"},{"filename":"deploy.sh","status":"removed"},{"filename":".gitignore","status":"removed"},{"filename":"server.crt","status":"removed"},{"filename":"server.key","status":"removed"},{"filename":"load-test.yaml","status":"removed"},{"filename":"Cargo.toml","status":"removed"},{"filename":"Cargo.toml","status":"removed"}]},{"message":"[ENG-2049] Add SQL Editor React Monaco (#3973)\n* HQL\n* [ENG-2049] SQL Editor Monaco\n* feat: also add prettier to tailwindcss formatter\n* wip\n* working :D\n* i think working\n* testing framework wip\n* wrapper not set correctly\n* add readme\n* feat: works now\n* fix: frontend styling\n* feat: add limit\n* fix: test and limit","files":[{"filename":"manage_databases.sh","status":"added"},{"filename":"test_seed_rmt.csv","status":"added"}]},{"message":"feat: AI Gateway in Helicone Docker Compose, change from submodule to git subtree, rename from helix to AI gateway (#3955)\n* refactor: removed helix submodule\n* Update docker build scripts for aigateway integration\n* Squashed 'aigateway/' content from commit 2edc92ced\ngit-subtree-dir: aigateway\ngit-subtree-split: 2edc92ced66fd5a4580f7011e6a75857e57048ff\n* misc: Remove helix\n* feat: Added ai gateway to docker compose single script\n-\nCo-authored-by: Devin Ersoy <devin@helicone.ai>","files":[{"filename":"Dockerfile","status":"added"},{"filename":"Cargo.toml","status":"added"},{"filename":"deploy.sh","status":"added"},{"filename":".gitignore","status":"added"},{"filename":"server.crt","status":"added"},{"filename":"server.key","status":"added"},{"filename":"load-test.yaml","status":"added"},{"filename":"Cargo.toml","status":"added"},{"filename":"Cargo.toml","status":"added"},{"filename":"push_docker.sh","status":"modified"},{"filename":"main.tf","status":"modified"}]},{"message":"fix: jawn deployments breaking (#3807)\n* wip\n* fix deployments\n* add precheck\n* remove unused e2e test","files":[{"filename":"tests.yml","status":"removed"},{"filename":"dockerfile","status":"modified"}]},{"message":"chore(deps): update all non-major dependencies","files":[{"filename":"Chart.yaml","status":"modified"},{"filename":"versions.tf","status":"modified"},{"filename":"versions.tf","status":"modified"},{"filename":"versions.tf","status":"modified"},{"filename":"versions.tf","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"chore: update dependencies","files":[{"filename":"versions.tf","status":"modified"},{"filename":"go.mod","status":"modified"},{"filename":"go.sum","status":"modified"}]},{"message":"Add role to generate LXD client config","files":[{"filename":"terraform.tf","status":"modified"},{"filename":"hosts.ini","status":"modified"},{"filename":"playbook.yml","status":"modified"}]},{"message":"Change storage pool name back to default","files":[{"filename":"cluster.tf","status":"modified"},{"filename":"lxd.yaml","status":"modified"}]},{"message":"Change default storage and nic","files":[{"filename":"cluster.tf","status":"modified"},{"filename":"lxd.yaml","status":"modified"}]},{"message":"chore(deps): update node.js to v22.19.0 (#21509)\nCo-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>","files":[{"filename":".nvmrc","status":"modified"},{"filename":".nvmrc","status":"modified"},{"filename":"package.json","status":"modified"}]},{"message":"chore: Revert version v1.139.1 (#21125)\nRevert \"chore: version v1.139.1\"\nThis reverts commit 89533a858fffde0d4b40a349ad2cc49dbaa70fb1.","files":[{"filename":"package.json","status":"modified"},{"filename":"git_push.sh","status":"added"}]},{"message":"chore: version v1.139.1","files":[{"filename":"package.json","status":"modified"},{"filename":"git_push.sh","status":"removed"}]},{"message":"chore: Revert version v1.139.0 (#21121)\nRevert \"chore: version v1.139.0\"\nThis reverts commit b69470c69e994243dd0dfcd3913a11e2339fd00e.","files":[{"filename":"package-lock.json","status":"removed"},{"filename":"package.json","status":"modified"},{"filename":"git_push.sh","status":"added"}]},{"message":"chore: version v1.139.0","files":[{"filename":"package-lock.json","status":"added"},{"filename":"package.json","status":"modified"},{"filename":"git_push.sh","status":"removed"}]},{"message":"Merge pull request #14 from RoseSecurity/fix-workflows\nfix workflow","files":[{"filename":"CODEOWNERS","status":"removed"},{"filename":"bug_report.md","status":"removed"},{"filename":"feature_request.md","status":"removed"},{"filename":"PULL_REQUEST_TEMPLATE.md","status":"removed"},{"filename":"test.yml","status":"removed"}]},{"message":"fix workflow","files":[{"filename":"CODEOWNERS","status":"removed"},{"filename":"bug_report.md","status":"removed"},{"filename":"feature_request.md","status":"removed"},{"filename":"PULL_REQUEST_TEMPLATE.md","status":"removed"},{"filename":"test.yml","status":"removed"}]},{"message":"Add Workflows","files":[{"filename":"CODEOWNERS","status":"added"},{"filename":"bug_report.md","status":"added"},{"filename":"feature_request.md","status":"added"},{"filename":"PULL_REQUEST_TEMPLATE.md","status":"added"},{"filename":"test.yml","status":"added"},{"filename":"CODEOWNERS","status":"added"},{"filename":"bug_report.md","status":"added"},{"filename":"feature_request.md","status":"added"},{"filename":"PULL_REQUEST_TEMPLATE.md","status":"added"}]},{"message":"Initial tooling commit","files":[{"filename":"s3-bucket.tf","status":"added"},{"filename":"s3-bucket.tf","status":"added"}]},{"message":"ci: Use node.js 22 by default. Add initial support for node.js 24 (#16018)","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"units-tests-reusable.yml","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"ci: Update corepack before enabling it (no-changelog) (#13004)","files":[{"filename":"test-workflows.yml","status":"modified"},{"filename":"units-tests-reusable.yml","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"feat: Add support for dark mode node icons and colors (#9412)\nCo-authored-by: Giulio Andreini <g.andreini@gmail.com>","files":[{"filename":"circleCi.dark.svg","status":"added"},{"filename":"circleCi.png","status":"removed"},{"filename":"circleCi.svg","status":"added"},{"filename":"googlePerspective.dark.svg","status":"added"},{"filename":"googlePerspective.svg","status":"added"},{"filename":"perspective.svg","status":"removed"}]},{"message":"ci: Switch to Node.js 20 by default. Add initial support for Node.js 22 (#9501)","files":[{"filename":"check-tests.yml","status":"modified"},{"filename":"test-workflows.yml","status":"modified"},{"filename":"units-tests-reusable.yml","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"refactor: Upgrade to Prettier 3 (no-changelog) (#6947)\nSupersedes https://github.com/n8n-io/n8n/pull/6937\r\n\r\nExcluding fixtures and test workflow JSONs to avoid having to update\r\ntests.","files":[{"filename":"README.md","status":"modified"},{"filename":"workflow.json","status":"modified"}]},{"message":"ci: Add support for Node.js 18 (#5793)\n* ci: Start supporting Node.js 18\r\n\r\nNode.js 18 became the active LTS on 2022-10-25, and Node.js 16 went into maintenance mode.\r\nhttps://github.com/nodejs/Release#release-schedule\r\n\r\nWe should also slowly deprecate node 16 support, [as support for it is ends much earlier now, due to support for openssl 1.1.1 ending](https://nodejs.org/en/blog/announcements/nodejs16-eol).\r\n\r\n* Remove hashing algorithms that are not available in newer node.js/openssl\r\n\r\n- RSA-MD4\r\n- RSA-MDC2\r\n- md4\r\n- md4WithRSAEncryption\r\n- mdc2\r\n- mdc2WithRSA\r\n\r\n* in e2e tests, resolve `localhost` to ipv4 instead of ipv6","files":[{"filename":"e2e-tests-pr.yml","status":"modified"},{"filename":"e2e-tests.yml","status":"modified"},{"filename":"test-workflows.yml","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"CryptoTest.workflow.json","status":"modified"}]},{"message":"chore: move docs website to main repo (#801)\nThanks to all the contributors to the original nitric docs repo\nCo-authored-by: Ahmad Ragab <Averroes2006@gmail.com>\nCo-authored-by: Alex Ravenna <alex.n.ravenna@gmail.com>\nCo-authored-by: Anmol Krishan Sachdeva <90194174+g-greatdevaks@users.noreply.github.com>\nCo-authored-by: ColoradoCowboy <jung.marshall@gmail.com>\nCo-authored-by: David Moore <davemooreuws@gmail.com>\nCo-authored-by: Elisse Lockhart <99988295+elisselockhart@users.noreply.github.com>\nCo-authored-by: Jan Piotrowski <piotrowski+github@gmail.com>\nCo-authored-by: Jye Cusch <jye.cusch@nitric.io>\nCo-authored-by: Malcolm Edgar <79067084+medgar-nitric@users.noreply.github.com>\nCo-authored-by: Rak <rak.siva@nitric.io>\nCo-authored-by: Ryan Cartwright <fryzee.cartwright@gmail.com>\nCo-authored-by: Stan0304 <stan.peyssard@hotmail.fr>\nCo-authored-by: Tasin Ishmam <tasinishmam@gmail.com>\nCo-authored-by: Tim Holm <tim.holm@nitric.io>","files":[{"filename":"test-docs.yaml","status":"added"},{"filename":"test.yaml","status":"modified"},{"filename":"pages.json","status":"added"},{"filename":"tsconfig.json","status":"added"},{"filename":"index.mdx","status":"added"},{"filename":"index.mdx","status":"added"},{"filename":"resources.mdx","status":"added"},{"filename":"security.mdx","status":"added"},{"filename":"services.mdx","status":"added"},{"filename":"testing.mdx","status":"added"},{"filename":"api-gateway-throttle.mdx","status":"added"},{"filename":"checkov.mdx","status":"added"},{"filename":"s3-encryption.mdx","status":"added"},{"filename":"s3-replicate.mdx","status":"added"},{"filename":"terratest.mdx","status":"added"},{"filename":"trivy.mdx","status":"added"},{"filename":"aws.mdx","status":"added"},{"filename":"azure.mdx","status":"added"},{"filename":"gcp.mdx","status":"added"},{"filename":"index.mdx","status":"added"},{"filename":"secret-latest.mdx","status":"added"},{"filename":"secret-latest.mdx","status":"added"}]},{"message":"feat(azure): add Terraform Azure provider (preview) (#738)\nCo-authored-by: David Moore <davemooreuws@gmail.com>\nCo-authored-by: Jye Cusch <jye.cusch@nitric.io>\nCo-authored-by: Rak Siva <rak.siva@nitric.io>\nCo-authored-by: Ryan Cartwright <fryzee.cartwright@gmail.com>\nCo-authored-by: Tim Holm <tim.holm@nitric.io>","files":[{"filename":"main.tf","status":"added"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"go.mod","status":"modified"},{"filename":"go.sum","status":"modified"}]},{"message":"feat!: v1\n* update go version to 1.21\n* fix schedule rates support\n* enhance azure deployments\n* contract updates for v1\n* replace Documents (collections) with KV\n* new provider communication contract\n* add common logger\n* update queue methods to enqueue/dequeue\n* provider interface\n* improve azure resource permission deployments\n* add schedules support for all cloud providers\n* update pulumi sdk\n* add shared pulumi event streaming\n* allow multiple deployment result types\n-\nCo-authored-by: Rak Siva <rak.siva@nitric.io>\nCo-authored-by: Ryan Cartwright <fryzee.cartwright@gmail.com>\nCo-authored-by: Jye Cusch <jye.cusch@nitric.io>\nCo-authored-by: David Moore <david.moore@nitric.io>","files":[{"filename":"test.yaml","status":"modified"},{"filename":"deploy.proto","status":"removed"}]},{"message":"Release v0.30.0 (#473)","files":[{"filename":"test.yaml","status":"modified"},{"filename":"deploy.proto","status":"modified"}]},{"message":"Release v0.29.0 (#465)","files":[{"filename":"test.yaml","status":"modified"},{"filename":"deploy.proto","status":"modified"}]},{"message":"Add File source with SQS notifications (#5148)\n* Refactor file source\r\n\r\n* More explicit reponse for read_batch\r\n\r\n* Fix clippy\r\n\r\n* Remove batch logic from DocFileReader\r\n\r\n* Address styling comments\r\n\r\n* Replace FileSourceParams path with URI\r\n\r\n* Additional URI related cleanup\r\n\r\n* Fix unit tests to now use the URI\r\n\r\n* Add queue source with SQS implementation\r\n\r\n* Fix the publish_token strategy\r\n\r\n* Fix never-used warnings\r\n\r\n* Fix unit tests\r\n\r\n* Abort visibility task after acknowledging\r\n\r\n* Address smaller review comments\r\n\r\n* Shorten visibility extension task\r\n\r\n* Fix pulsar tests\r\n\r\n* Adjustments after rebase\r\n\r\n* Move object backed source to file source\r\n\r\n* Simpler flow for adhoc file processing\r\n\r\n* Fix tests and refactor batch creation to BatchReader\r\n\r\n* Add max_messages param to Queue.receive\r\n\r\n* Move use_shard_api to the metastore crate\r\n\r\n* Dedup within batches\r\n\r\n* Improve visibility task\r\n\r\n* Re-acquire partitions aggressively\r\n\r\n* Address simpler review comments\r\n\r\n* Add test for visibility actor (failing)\r\n\r\n* Fix visibility actor drop\r\n\r\n* Fix reader edge case\r\n\r\n* Add end to end tests\r\n\r\n* Improve integration test scenario\r\n\r\n* Chunk receive future to avoid hanging actor\r\n\r\n* Improve error handling\r\n\r\n* Fix flaky test\r\n\r\n* New SourceConfig format with notifications field\r\n\r\n* Improvements to error handling\r\n\r\n* Clarification of Queue contract\r\n\r\n* Address new round of review comments\r\n\r\n* Remove SqsSource for now\r\n\r\n* Fix panic\r\n\r\n* Revert to forbidding any adhoc file source through the API\r\n\r\n* Add docs\r\n\r\n* Fix panic on empty file\r\n\r\n* Documentation improvments\r\n\r\n* Improve documentation\r\n\r\n* Improve error handling code and associated docs\r\n\r\n* Nitpic and TODO cleanup\r\n\r\n* Add tip about ingests directly from object stores\r\n\r\n* Ack notifications of undesired type\r\n\r\n* Add docs about situations where messages require a DLQ\r\n\r\n* Fix integ test after rebase","files":[{"filename":"sqs-file-source.tf","status":"added"},{"filename":"Cargo.toml","status":"modified"}]},{"message":"Fix typos all over the codebase (#5259)","files":[{"filename":"variables.tf","status":"modified"},{"filename":"cluster-sizing.md","status":"modified"},{"filename":"glasskube.md","status":"modified"},{"filename":"README.md","status":"modified"},{"filename":"0002_invalid_default_fields.yaml","status":"modified"},{"filename":"0010-match_phrase_prefix_query.yaml","status":"modified"},{"filename":"0001-field-capabilities.yaml","status":"modified"},{"filename":"0003_negative_search.yaml","status":"modified"}]},{"message":"Add Tokio runtimes metrics (#4984)","files":[{"filename":"coverage.yml","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"fix sort order in UI (#3966)\n* fix sort order in UI\r\n\r\nit should be descending, but was asc due to recent change in sorting order\r\n\r\n* Upgrade to node 20 and update minor dependencies.\r\n\r\n* Update cypress config.\r\n\r\n-\r\n\r\nCo-authored-by: fmassot <francois.massot@gmail.com>","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"cypress.json","status":"removed"},{"filename":"example.json","status":"added"}]},{"message":"Fixing spelling mistakes. (#2927)","files":[{"filename":"install.sh","status":"modified"},{"filename":"quickwit.wrongkey.yaml","status":"modified"}]},{"message":"🪞🐘 Support for Postgres Replicas(#1414)\nCo-authored-by: abc3 <sts@abc3.dev>\nCo-authored-by: Anthony Accomazzo <accomazz@gmail.com>","files":[{"filename":"README.md","status":"added"},{"filename":"init-primary.sh","status":"added"},{"filename":"init-replica.sh","status":"added"},{"filename":"yaml_loader_test.exs","status":"modified"}]},{"message":"⚡️ Allow for setting MAX_MEMORY_MB and MEMORY_BUFFER_PERCENT for memory control","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"test.exs","status":"modified"},{"filename":"postgres_replication_test.exs","status":"modified"}]},{"message":"♻️ Health updates: Move over rest of entities to event-based health","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"health_test.exs","status":"modified"},{"filename":"postgres_replication_test.exs","status":"modified"},{"filename":"wal_pipeline_server_test.exs","status":"modified"},{"filename":"health_factory.ex","status":"modified"}]},{"message":"⬆️ Upgrade to Elixir 1.18","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"assertions.ex","status":"modified"},{"filename":"databases_factory.ex","status":"modified"}]},{"message":"Modify libcluster postgres strategy to use existing Ecto connection & config","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"test.exs","status":"modified"}]},{"message":"Update base image for the steampipe docker container. Closes #2233","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"Adds support for starting `dashboard` server with `service start` (#1472)","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"002.service.bats","status":"modified"}]},{"message":"Change linux go releaser and curl install script to use tar instead of zip. Closes #63","files":[{"filename":"test.yml","status":"modified"},{"filename":"install.sh","status":"modified"}]},{"message":"Initial commit","files":[{"filename":".gitignore","status":"added"},{"filename":"build.sh","status":"added"},{"filename":"test.yml","status":"added"},{"filename":"connection-test-1.plugin","status":"added"},{"filename":"connection-test-2.plugin","status":"added"},{"filename":"connection-test-3.plugin","status":"added"},{"filename":"connection1.spc","status":"added"},{"filename":"connection2.spc","status":"added"},{"filename":"connection1.spc","status":"added"},{"filename":"run.sh","status":"added"},{"filename":"output001.json","status":"added"},{"filename":"output002.json","status":"added"},{"filename":"output003.json","status":"added"},{"filename":"output004.json","status":"added"},{"filename":"output005.json","status":"added"},{"filename":"output006.json","status":"added"},{"filename":"output007.json","status":"added"},{"filename":"output008.json","status":"added"},{"filename":"output009.json","status":"added"},{"filename":"output010.json","status":"added"},{"filename":"output011.json","status":"added"},{"filename":"query_test.txt","status":"added"},{"filename":"001.query.bats","status":"added"}]},{"message":"feat: upgrade to use gemini-2.0-flash (#182)","files":[{"filename":"main.tf","status":"modified"},{"filename":"versions.tf","status":"modified"},{"filename":"versions.tf","status":"modified"},{"filename":"requirements-test.txt","status":"modified"}]},{"message":"chore(deps): Update Terraform terraform-google-modules/project-factory/google to v15 (#126)","files":[{"filename":"main.tf","status":"modified"},{"filename":"main.tf","status":"modified"}]},{"message":"chore!: simplify webhook code (#114)","files":[{"filename":"main.tf","status":"modified"},{"filename":"main.tf","status":"modified"},{"filename":"outputs.tf","status":"modified"},{"filename":"iam.tf","status":"modified"},{"filename":"main.tf","status":"modified"},{"filename":"versions.tf","status":"modified"},{"filename":"variables.tf","status":"modified"},{"filename":"versions.tf","status":"modified"},{"filename":"requirements-test.txt","status":"modified"}]},{"message":"feat: sic metadata gen and ingestion (#34)\nCo-authored-by: Balaji Subramaniam <balajismaniam@google.com>","files":[{"filename":"outputs.tf","status":"modified"},{"filename":"iam.tf","status":"modified"},{"filename":"main.tf","status":"modified"},{"filename":"variables.tf","status":"modified"}]},{"message":"Fix: make lint, cft tests happy (#31)\nCo-authored-by: Balaji Subramaniam <balajismaniam@google.com>","files":[{"filename":"main.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"main.tf","status":"modified"},{"filename":"iam.tf","status":"modified"},{"filename":"main.tf","status":"modified"},{"filename":"variables.tf","status":"modified"},{"filename":"versions.tf","status":"modified"},{"filename":"requirements-test.txt","status":"modified"}]},{"message":"Merge pull request #15 from GoogleCloudPlatform/apply_template\nchore: apply CFT cookiecutter template.","files":[{"filename":"deploy.sh","status":"modified"},{"filename":"main.tf","status":"renamed"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"removed"},{"filename":"go.mod","status":"added"},{"filename":"go.sum","status":"added"},{"filename":"iam.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"outputs.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"versions.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"versions.tf","status":"added"},{"filename":"requirements-test.txt","status":"renamed"}]},{"message":"ops: refactored helm chart to add in redis, qdrant, clickhouse and\npostgres as subcharts","files":[{"filename":"Chart.lock","status":"modified"},{"filename":".helmignore","status":"added"},{"filename":"Chart.lock","status":"added"},{"filename":".helmignore","status":"added"},{"filename":"Chart.lock","status":"added"},{"filename":"_helpers.tpl","status":"added"},{"filename":"default-trieve-realm.yaml","status":"modified"},{"filename":"default-trieve-realm.yaml","status":"modified"}]},{"message":"feat: add k3d cluster setup script","files":[{"filename":"Chart.lock","status":"modified"},{"filename":"postgresql-instance.yaml","status":"modified"}]},{"message":"ops: update helm values to latest","files":[{"filename":"clickhouse-installation.yaml","status":"modified"},{"filename":"qdrant-values.yaml","status":"modified"},{"filename":"main.tf","status":"modified"}]},{"message":"feat: working pdf highlighting in search component\nfix: broken rebase\ndebug: show search terms\nsquashme: checkpoint\nstyling: pdf results","files":[{"filename":"component-tests.yml","status":"modified"},{"filename":"frontend-tests.yml","status":"modified"},{"filename":"rust-tests.yml","status":"modified"},{"filename":"ts-sdk-tests.yml","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"enhancment: refactor helm chart","files":[{"filename":"run-faster-jina.sh","status":"removed"},{"filename":"run-faster-reranker.sh","status":"removed"},{"filename":"run-faster-splade-doc.sh","status":"removed"},{"filename":"run-faster-splade-query.sh","status":"removed"},{"filename":"Chart.lock","status":"modified"},{"filename":".helmignore","status":"removed"},{"filename":"Chart.lock","status":"removed"},{"filename":"README.md","status":"removed"},{"filename":"NOTES.txt","status":"removed"},{"filename":"_helpers.tpl","status":"removed"},{"filename":".helmignore","status":"removed"},{"filename":"CHANGELOG.md","status":"removed"},{"filename":"LICENSE","status":"removed"},{"filename":"README.md","status":"removed"},{"filename":"NOTES.txt","status":"removed"},{"filename":"_helpers.tpl","status":"removed"},{"filename":"test-db-interaction.yaml","status":"removed"},{"filename":".helmignore","status":"removed"},{"filename":"Chart.lock","status":"removed"},{"filename":"README.md","status":"removed"},{"filename":"NOTES.txt","status":"removed"},{"filename":"_helpers.tpl","status":"removed"},{"filename":"from-env.sh","status":"removed"},{"filename":"install-clickhouse-operator.sh","status":"removed"},{"filename":"clickhouse-installation.yaml","status":"renamed"},{"filename":"clickhouse-operator.yaml","status":"added"},{"filename":"cloud-sql-proxy.yaml","status":"added"},{"filename":"operator.yaml","status":"added"},{"filename":"postgresql-instance.yaml","status":"added"},{"filename":"cluster-issuer.yaml","status":"added"},{"filename":"keycloak-ingress.yaml","status":"added"},{"filename":"default-trieve-realm.yaml","status":"added"},{"filename":"keycloak-installation.yaml","status":"added"},{"filename":"keycloak-operator.yaml","status":"added"},{"filename":"keycloak-postgres.yaml","status":"added"},{"filename":"keycloakrealmimports.yaml","status":"added"},{"filename":"keycloaks.yaml","status":"added"},{"filename":"qdrant-values.yaml","status":"added"},{"filename":"redis-values.yaml","status":"added"},{"filename":"clickhouse-installation.yaml","status":"added"},{"filename":"clickhouse-operator.yaml","status":"added"},{"filename":"default-trieve-realm.yaml","status":"added"},{"filename":"keycloak-installation.yaml","status":"added"},{"filename":"keycloak-operator.yaml","status":"added"},{"filename":"keycloak-postgres.yaml","status":"added"},{"filename":"keycloakrealmimports.yaml","status":"added"},{"filename":"keycloaks.yaml","status":"added"},{"filename":"postgres.yaml","status":"added"},{"filename":"redis.yaml","status":"added"},{"filename":"values.yaml.tpl","status":"removed"},{"filename":"Readme.md","status":"removed"},{"filename":"helm.tf","status":"removed"},{"filename":"iam.tf","status":"removed"},{"filename":"var.tf","status":"removed"},{"filename":"aws-virtual-gpu-device-plugin.tf","status":"removed"},{"filename":"embedding.tf","status":"removed"},{"filename":"main.tf","status":"removed"},{"filename":"outputs.tf","status":"removed"},{"filename":"ssh-key.pub","status":"removed"},{"filename":".terraform.lock.hcl","status":"added"},{"filename":"helm.tf","status":"added"},{"filename":"main.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":"trieve.tf","status":"added"},{"filename":"main.tf","status":"modified"},{"filename":"outputs.tf","status":"added"},{"filename":"providers.tf","status":"added"},{"filename":"variables.tf","status":"added"},{"filename":".terraform.lock.hcl","status":"removed"},{"filename":"db.tf","status":"modified"},{"filename":"main.tf","status":"modified"},{"filename":"variables.tf","status":"added"},{"filename":"vars.tfvars.example","status":"added"}]},{"message":"cleanup: remove analytics stuff","files":[{"filename":"frontend-tests.yml","status":"modified"},{"filename":"Dockerfile","status":"removed"}]},{"message":"feature: add tests to ts-sdk routes","files":[{"filename":"analytics-tests.yml","status":"modified"},{"filename":"chat-tests.yml","status":"modified"},{"filename":"dashboard-tests.yml","status":"modified"},{"filename":"search-tests.yml","status":"modified"},{"filename":"ts-sdk-tests.yml","status":"modified"},{"filename":"convenience.sh","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"feat: move client to clients/ folder","files":[{"filename":"analytics-tests.yml","status":"modified"},{"filename":"chat-tests.yml","status":"modified"},{"filename":"dashboard-tests.yml","status":"modified"},{"filename":"search-tests.yml","status":"modified"},{"filename":"convenience.sh","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"Dockerfile","status":"modified"}]},{"message":"fix: rename \"frontend\" to \"frontends\"","files":[{"filename":"analytics-tests.yml","status":"modified"},{"filename":"dashboard-tests.yml","status":"modified"},{"filename":"search-tests.yml","status":"modified"},{"filename":"Dockerfile","status":"renamed"},{"filename":"Dockerfile","status":"renamed"},{"filename":"Dockerfile","status":"renamed"},{"filename":"Dockerfile","status":"renamed"}]},{"message":"cleanup: remove pg worker and bulk ingest, doesn't work with bulk upsert","files":[{"filename":"rust-tests.yml","status":"modified"},{"filename":"values.yaml.tpl","status":"modified"}]},{"message":"Lingui working with NODE ENV=production again (#10067)\nLingui now offers an option to disable stripping even in prod mode so we\r\ncan bring it back","files":[{"filename":"deployment-server.tf","status":"modified"},{"filename":".env.test","status":"modified"}]},{"message":"Deprecate message queue type (#10040)\nNot removing all the code for now, maybe we should 🤔","files":[{"filename":"deployment-server.tf","status":"modified"},{"filename":"deployment-worker.tf","status":"modified"},{"filename":".env.test","status":"modified"}]},{"message":"Improve Docker-Compose Install Experience (#9781)\nThis PR updates the docker-compose installation documentation and env\r\nsample to improve the setup experience.\r\n\r\n- Updates the URLs for raw files to reference main branch, which is\r\nlikely where new users will be pulling from initially. This seems to be\r\nthe most straightforward option; assume that advanced users who want to\r\nretrieve it from a particular tag will know to change the URL for their\r\nscenario.\r\n- Fixes an improperly stated curl command.\r\n- Adds a note that the PGPASSWORD_SUPERUSER should be URL-safe. This is\r\nrequired since the value is later concat into a PG_DATABASE_URL as a\r\nURL, and expected to be in proper URL format. Touches on #8597.\r\n\r\n-\r\n\r\nCo-authored-by: Félix Malfait <felix@twenty.com>\r\nCo-authored-by: Félix Malfait <felix.malfait@gmail.com>","files":[{"filename":"ci-test-docker-compose.yaml","status":"modified"},{"filename":".env.example","status":"modified"}]},{"message":"Add E2E tests (#9309)\nTry adding E2E tests when labelling the PR or merging on main branch","files":[{"filename":"ci-e2e.yml.bak","status":"removed"},{"filename":".env.example","status":"modified"}]},{"message":"Fast follows on 0.34 (#9034)\nCo-authored-by: Weiko <corentin@twenty.com>","files":[{"filename":".env.example","status":"modified"},{"filename":"deployment-server.tf","status":"modified"},{"filename":"deployment-worker.tf","status":"modified"},{"filename":".env.test","status":"modified"}]},{"message":"Merge branch 'main' into spfresh-metrics","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"segment-1757433233549050000.wal","status":"added"},{"filename":"segment-1757673130782244000.db","status":"added"},{"filename":"segment-1757496219190885000.wal","status":"added"},{"filename":"segment-1757605013813574000.db","status":"added"},{"filename":"segment-1757496896327170000.wal","status":"added"},{"filename":"segment-1757605006102787000.db","status":"added"},{"filename":"segment-1757433233551248000.wal","status":"added"},{"filename":"segment-1757496903516930000.wal","status":"added"},{"filename":"segment-1757605013811353000.db","status":"added"},{"filename":"segment-1757605013812425000.db","status":"added"},{"filename":"segment-1757496903517104000.wal","status":"added"},{"filename":"segment-1757605013813462000.db","status":"added"},{"filename":"segment-1757433233550212000.wal","status":"added"},{"filename":"segment-1757605013815208000.db","status":"added"},{"filename":"push_docker.sh","status":"modified"},{"filename":"run.sh","status":"modified"}]},{"message":"ci: consolidate Docker pipeline from 6 jobs to 1 and reduce runner usage (#9189)\n* ci,refactor: consolidate build-scan-push pipeline and reduce runner usage\n- Merge 6 separate jobs into single matrix-based Build-Scan-and-Push job\n- Eliminate duplicate Docker builds across separate runners\n- Preserve original security behavior for production vs PR builds\n- Reduce runner usage from 6 to 1-3 runners (50-83% reduction)\n- Add comprehensive pipeline reporting and status visibility\n- Improve matrix naming and organization across test jobs.\n* fix: remove dependencies\n* fix: use shorter name\n* fix: always generate the report\n* fix: simplify if condition\n* fix: rename step\n* fix: remove unnecessary outputs\n* fix: use gha cache in push docker\n* fix: make sure we use gha cache for docker builds\n* fix: mkdir before copy go-ego\n* fix: mkdir before copy go-ego\n* fix: cache and copy go-ego\n* fix: make sure we use buildkit for caching docker images\n* fix: use a test image\n* fix: temp change for docker build cache\n* Revert \"fix: temp change for docker build cache\"\nThis reverts commit 88de95881486455adf5b9d72ded7fef9c0981d01.\n* fix: cache go mod\n* fix: move apk add before copy for caching\n* fix: a few docker cache improvements\n* fix: temp change for docker build cache\n* Revert \"fix: temp change for docker build cache\"\nThis reverts commit 0f8513525b1748ef67d8f9c0f603a922d451bee5.\n* fix: reorder steps for better caching\n* fix: reorder steps for better caching\n* fix: improve some caching\n* fix: cache go module download\n* fix: use buildkit cache for go mod\n* fix: temp change for docker build cache\n* fix: cache go module download and compile artifacts\n* fix: pin alpine version for better cache usage\n* fix: cache go mod download layer in gha cache\n* fix: restore original code after temp change\n* nit: restore original\n* fix: improve caching andf add mnetadata to production builds\n* fix: disable cgo and get rid of unnecessary packages\n* fix: restore cgo enabled by default\n* fix: remove TARGETARCH and GOMODCACHE\n* fix: add back missing EXTRA_BUILD_ARGS\n* nit: improve comment\n* fix: add ARCH to have report by arch\n* fix: separate Generate-Docker-Report\n* fix: rename job to be consistent with other job names\n* Split Docker build into separate production and PR jobs\nReplace matrix strategy with job-level conditionals to prevent irrelevant\njobs from consuming runners. Maintains unified reporting and caching.\n* fix: rename job","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"push_docker.sh","status":"modified"},{"filename":"run.sh","status":"modified"}]},{"message":"Merge branch 'main' into update-readme","files":[{"filename":"PULL_REQUEST_TEMPLATE.md","status":"modified"},{"filename":"go.mod","status":"modified"},{"filename":"go.sum","status":"modified"}]},{"message":"Merge pull request #8698 from weaviate/prepare-v1.26.18-release\nPrepare release v1.26.18","files":[{"filename":"Dockerfile","status":"modified"},{"filename":"schema.json","status":"modified"},{"filename":"go.mod","status":"modified"},{"filename":"go.sum","status":"modified"},{"filename":"go.mod","status":"modified"},{"filename":"go.sum","status":"modified"}]},{"message":"Merge branch 'stable/v1.29' into feat_wal_reuse_128_2","files":[{"filename":"push_docker.sh","status":"modified"},{"filename":"schema.json","status":"modified"},{"filename":"go.mod","status":"modified"},{"filename":"go.sum","status":"modified"},{"filename":"go.mod","status":"modified"},{"filename":"go.sum","status":"modified"}]},{"message":"fix: migrate dotnet from msft images to script install","files":[{"filename":"DockerfileBackendTests","status":"modified"},{"filename":"DockerfileFull","status":"modified"},{"filename":"DockerfileFullEe","status":"modified"},{"filename":"DockerfileNsjail","status":"modified"}]},{"message":"fix: migrate dotnet from bitnami to microsoft images","files":[{"filename":"DockerfileBackendTests","status":"modified"},{"filename":"DockerfileFull","status":"modified"},{"filename":"DockerfileFullEe","status":"modified"},{"filename":"DockerfileNsjail","status":"modified"}]},{"message":"chore(cli): better folder structure + add config utils (#6319)\n* organize in folders\n* add config command\n* fix\n* cleaning\n* move utility functions\n* merge\n* only show token with option\n* only show token with option\n* fix\n* remove config command\n* add config utils\n* change paths\n* nit\n* clean path assigner\n-\nCo-authored-by: Alexander Petric <alpetric@users.noreply.github.com>","files":[{"filename":"change-versions-mac.sh","status":"modified"},{"filename":"change-versions.sh","status":"modified"},{"filename":"add-ts-ext.sh","status":"added"},{"filename":"build-mac.sh","status":"modified"},{"filename":"build.sh","status":"modified"},{"filename":"test.nu","status":"modified"}]},{"message":"build: combine build-pkgs*.sh into build.nu (#6231)\n* build: combine build-pkgs* into build.nu\nSigned-off-by: pyranota <pyra@duck.com>\n* nit refactor\nSigned-off-by: pyranota <pyra@duck.com>\n-\nSigned-off-by: pyranota <pyra@duck.com>","files":[{"filename":"build-pkgs-cli.sh","status":"removed"},{"filename":"build-pkgs-mac.sh","status":"removed"},{"filename":"build-pkgs.sh","status":"removed"},{"filename":"test.nu","status":"modified"}]},{"message":"chore: upgrade bun to 1.2.18 (#6218)","files":[{"filename":"DockerfileBackendTests","status":"modified"},{"filename":"Dockerfile","status":"modified"},{"filename":"DockerfileSlim","status":"modified"},{"filename":"DockerfileSlimEe","status":"modified"}]}]
+[
+  {
+    "message": "Add logic for generating ml requirements (#35484)\n* Add logic for generating ml requirements\n* Add some requirements and loosen torch bounds\n* Widen bounds and generate 3.12 containers\n* posargs\n* Tox config fixes",
+    "files": [
+      { "filename": "run_generate_requirements.sh", "status": "modified" },
+      { "filename": "build.gradle", "status": "modified" },
+      { "filename": "build.gradle", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Set go version 1.24.4 (#35261)\n* Set go version 1.24.4\n* Set go version 1.24.4",
+    "files": [
+      { "filename": "go.mod", "status": "modified" },
+      { "filename": "run_with_go_version.sh", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Add postcommit yaml xlang workflow and split tests accordingly (#35119)\n* move precommit yaml xlang to postcommit\n* add json file to trigger path\n* update pull request targets\n* add readme workflow changes\n* add cloud sdk setup\n* switch out to ubuntu-latest\n* add back precommit workflow\n* switch names and add postcommit\n* switch out to postCommitYamlIT\n* add test_files_dir flag\n* add conftest.py file for capturing directory flag\n* shift yaml tests around to appropriate locations\n* add back precommit to readme\n* add license for conftest.py\n* revert precommit to previous name\n* remove github.event.comment.body trigger",
+    "files": [
+      { "filename": "README.md", "status": "modified" },
+      { "filename": "bigquery.yaml", "status": "renamed" },
+      { "filename": "enrichment.yaml", "status": "renamed" },
+      { "filename": "spanner.yaml", "status": "renamed" },
+      { "filename": "assign_timestamps.yaml", "status": "renamed" },
+      { "filename": "create.yaml", "status": "renamed" },
+      { "filename": "extract_windowing_Info.yaml", "status": "renamed" },
+      { "filename": "filter.yaml", "status": "renamed" },
+      { "filename": "flatten.yaml", "status": "renamed" },
+      { "filename": "ml_transform.yaml", "status": "renamed" },
+      { "filename": "partition.yaml", "status": "renamed" },
+      { "filename": "pytransform.yaml", "status": "renamed" },
+      { "filename": "runinference.yaml", "status": "renamed" },
+      { "filename": "validate_with_schema.yaml", "status": "renamed" },
+      { "filename": "windowinto.yaml", "status": "renamed" }
+    ]
+  },
+  {
+    "message": "Update dataflow_cost_benchmark. Update website: add ML pipelines performance metrics (#34361)",
+    "files": [
+      { "filename": "python_wordcount.txt", "status": "modified" },
+      { "filename": "tensorflow_tests_requirements.txt", "status": "modified" },
+      { "filename": "torch_tests_requirements.txt", "status": "modified" },
+      { "filename": "requirements.txt", "status": "added" }
+    ]
+  },
+  {
+    "message": "Add unassign issue feature (#33924)",
+    "files": [
+      { "filename": "ACTIONS.md", "status": "modified" },
+      { "filename": "failing_test.yml", "status": "modified" }
+    ]
+  },
+  {
+    "message": "[Distroless] Reorganize and refactor Distroless build and test details (#33494)\n* Remove existing wfs\n* Refactor distroless variants\n* Fix java v2 precommit\n* modify trigger files\n* Update build.gradle\n* Update build.gradle",
+    "files": [
+      { "filename": "Dockerfile", "status": "renamed" },
+      { "filename": "Dockerfile", "status": "renamed" },
+      { "filename": "build.gradle", "status": "modified" },
+      { "filename": "common.gradle", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Remove aws v1 from infrastructure (#33455)\n* Remove aws v1 from infrastructure\n* Remove unused code",
+    "files": [
+      { "filename": "README.md", "status": "modified" },
+      { "filename": "build.gradle", "status": "modified" },
+      { "filename": "build.gradle", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Merge branch 'master' into numpy-2-update-deps",
+    "files": [
+      { "filename": "IO_Iceberg_Integration_Tests.json", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Merge branch 'master' into update-type-hints",
+    "files": [
+      { "filename": "IO_Iceberg_Integration_Tests.json", "status": "modified" },
+      { "filename": "README.md", "status": "modified" },
+      { "filename": "tox.ini", "status": "modified" },
+      { "filename": "pyproject.toml", "status": "modified" },
+      { "filename": "python_installer.sh", "status": "modified" },
+      { "filename": "local-env-setup.sh", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Merge pull request #33088 from shunping/fix-postcommit-python\nRevert PR #32960",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "build.gradle", "status": "modified" },
+      { "filename": "common.gradle", "status": "modified" },
+      { "filename": "gradle.properties", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Move internal -> pkg for external use of beta9 modules (#221)\nIn the future, things like plugins, or other internal modules will want\r\nto reference things within the beta9 codebase. This moves modules from\r\ninternal->pkg to follow those semantics.",
+    "files": [
+      { "filename": "test.yml", "status": "modified" },
+      { "filename": "Dockerfile.runner", "status": "modified" },
+      { "filename": "gen.sh", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Remote machines (#80)\n* start laying out scheduling changes\r\n\r\n* cleanup, add pool modes\r\n\r\n* rename pool_k8s\r\n\r\n* load controllers conditionally\r\n\r\n* add metal controller\r\n\r\n* move duplicated functionality\r\n\r\n* call machines fn\r\n\r\n* create a mock provider dynamically\r\n\r\n* cleanup\r\n\r\n* re-add agent\r\n\r\n* connect to tailnet\r\n\r\n* add debug flag\r\n\r\n* add some logs\r\n\r\n* remove required\r\n\r\n* actually spin up the machine\r\n\r\n* add in agent manifest\r\n\r\n* reconcile loop [wip]\r\n\r\n* wip\r\n\r\n* try go 1.21 for test\r\n\r\n* working indirect tailscale\r\n\r\n* clean up proxy\r\n\r\n* wip\r\n\r\n* connect to tailscale host dynamically\r\n\r\n* fix race condition\r\n\r\n* wip\r\n\r\n* create job\r\n\r\n* add json config annotations\r\n\r\n* remove creds\r\n\r\n* remove t4 pool from default config\r\n\r\n* working, but still buggy\r\n\r\n* renconcile\r\n\r\n* fix logs\r\n\r\n* clean up logs\r\n\r\n* fix machine locking\r\n\r\n* replace token with single use token\r\n\r\n* remove systemd\r\n\r\n* add comment\r\n\r\n* fix a bunch of bugs, get tailscale refactored\r\n\r\n* remove log\r\n\r\n* last touches\r\n\r\n* fix a couple more merge conflicts\r\n\r\n* remove metrics key\r\n\r\n* fix tests\r\n\r\n* add proxy to build\r\n\r\n* add warning if events are not up\r\n\r\n* remove period\r\n\r\n* add comment\r\n\r\n* fix tcp check\r\n\r\n* fix typo\r\n\r\n* add reusable to models\r\n\r\n* address pr comments\r\n\r\n-\r\n\r\nCo-authored-by: Luke Lombardi <luke@beam.cloud>",
+    "files": [
+      { "filename": "test.yml", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "Dockerfile.gateway", "status": "modified" },
+      { "filename": "Dockerfile.proxy", "status": "added" },
+      { "filename": "Dockerfile.runner", "status": "modified" },
+      { "filename": "Dockerfile.worker", "status": "modified" }
+    ]
+  },
+  {
+    "message": "testing out gateway ci (#71)\n* testing out gateway ci\r\n\r\n* update output path\r\n\r\n-\r\n\r\nCo-authored-by: Luke Lombardi <luke@beam.cloud>",
+    "files": [
+      { "filename": "test.yml", "status": "renamed" },
+      { "filename": "Dockerfile.gateway", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Rename project to beta9 (#62)\n* rename to beta9\r\n\r\n* remove todo\r\n\r\n* fix gateway okteto\r\n\r\n-\r\n\r\nCo-authored-by: Luke Lombardi <luke@beam.cloud>",
+    "files": [
+      { "filename": "variables.tf", "status": "modified" },
+      { "filename": "config.tpl", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "variables.tf", "status": "modified" },
+      { "filename": "README.md", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "Dockerfile.gateway", "status": "renamed" },
+      { "filename": "Dockerfile.worker", "status": "modified" },
+      { "filename": "gen.sh", "status": "modified" },
+      { "filename": "pytest.ini", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Add sdk (#7)\n* add beam sdk\r\n\r\n* remove deprecated code\r\n\r\n* fix proto gen\r\n\r\n* remove bucket\r\n\r\n* remove license file\r\n\r\n-\r\n\r\nCo-authored-by: Luke Lombardi <luke@beam.cloud>",
+    "files": [
+      { "filename": "gen.sh", "status": "modified" },
+      { "filename": "pytest.ini", "status": "added" }
+    ]
+  },
+  {
+    "message": "feat: add helm var to support RBAC for deploying workspaces in extra namespaces (#19517)\nThis is a feature to create Role & RoleBinding entries on a per\nnamespace basis to support deploying workspaces in separate namespace to\nwhere Coder is deployed. The idea behind this is to avoid the creation\nof custom RBAC entries or the use of ClusterRoles (in order to maintain\npriciple of least privilege).\n> If you have used AI to produce some or all of this PR, please ensure\nyou have read our [AI Contribution\nguidelines](https://coder.com/docs/about/contributing/AI_CONTRIBUTING)\nbefore submitting.\nThis is a blink assisted PR.\nExample `helm template` without\n`coder.serviceAccount.workspaceNamespaces` enabled (existing behaviour\nas of current release) is below. Outcome = 1 x SA, 1 x Role, 1 x\nRoleBinding, all in the coder (`.Release.Namespace`) namespace.\n```\n➜ coder git:(feat/helm_namespace_rbac_improvements) ✗ helm template -n coder coder . set coder.image.tag=v2.25.1\n-\n...\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: Role\nmetadata:\n name: coder-workspace-perms\n namespace: coder\nrules:\n - apiGroups: [\"\"]\nresources: [\"pods\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups: [\"\"]\nresources: [\"persistentvolumeclaims\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups:\n- apps\nresources:\n- deployments\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: RoleBinding\nmetadata:\n name: \"coder\"\n namespace: coder\nsubjects:\n - kind: ServiceAccount\nname: \"coder\"\nroleRef:\n apiGroup: rbac.authorization.k8s.io\n kind: Role\n name: coder-workspace-perms\n-\n```\nExample `helm template` *with*\n`coder.serviceAccount.workspaceNamespaces` enabled is below. Outcome = 1\nx SA, 1 x Role, 1 x RoleBinding, all in the coder (`.Release.Namespace`)\nnamespace PLUS a Role and RoleBinding in the `dev-ws` namespace with\neach of the RoleBindings referencing the coder SA in the coder\n(`.Release.Namespace`) namespace:\n```\n➜ coder git:(feat/helm_namespace_rbac_improvements) ✗ helm template -n coder coder . set coder.image.tag=v2.25.1 set-json 'coder.serviceAccount.workspaceNamespaces=[{\"name\":\"dev-ws\",\"workspacePerms\":true,\"enableDeployments\":true,\"extraRules\":[]}]' \n-\n...\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: Role\nmetadata:\n name: coder-workspace-perms\n namespace: coder\nrules:\n - apiGroups: [\"\"]\nresources: [\"pods\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups: [\"\"]\nresources: [\"persistentvolumeclaims\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups:\n- apps\nresources:\n- deployments\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: Role\nmetadata:\n name: coder-workspace-perms\n namespace: dev-ws\nrules:\n - apiGroups: [\"\"]\nresources: [\"pods\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups: [\"\"]\nresources: [\"persistentvolumeclaims\"]\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n - apiGroups:\n- apps\nresources:\n- deployments\nverbs:\n- create\n- delete\n- deletecollection\n- get\n- list\n- patch\n- update\n- watch\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: RoleBinding\nmetadata:\n name: \"coder\"\n namespace: coder\nsubjects:\n - kind: ServiceAccount\nname: \"coder\"\nroleRef:\n apiGroup: rbac.authorization.k8s.io\n kind: Role\n name: coder-workspace-perms\n-\n# Source: coder/templates/rbac.yaml\napiVersion: rbac.authorization.k8s.io/v1\nkind: RoleBinding\nmetadata:\n name: \"coder\"\n namespace: dev-ws\nsubjects:\n - kind: ServiceAccount\nname: \"coder\"\nnamespace: coder\nroleRef:\n apiGroup: rbac.authorization.k8s.io\n kind: Role\n name: coder-workspace-perms\n-\n```",
+    "files": [
+      { "filename": "namespace_rbac.golden", "status": "added" },
+      { "filename": "namespace_rbac.yaml", "status": "added" },
+      { "filename": "namespace_rbac_coder.golden", "status": "added" },
+      { "filename": "sa_extra_rules.golden", "status": "modified" },
+      { "filename": "sa_extra_rules_coder.golden", "status": "modified" },
+      { "filename": "_helpers.tpl", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore: delete scaletest infrastructure (#19603)\nWe've successfully migrated the latest iteration of our scaletest\ninfrastructure (`scaletest/terraform/action`) to\nhttps://github.com/coder/scaletest (private repo). This PR removes the\nolder iterations, and the scriptsfor spinning up & running the load\ngenerators against that infrastructure (`scaletest.sh`). The tooling for\ngenerating load against a Coder deployment remains untouched, as does\nthe public documentation for that tooling (i.e. `coder exp scaletest`).\nIf we ever need that old scaletest Terraform code, it's always in the\ngit history!",
+    "files": [
+      { "filename": "scale-utility.md", "status": "modified" },
+      { "filename": "README.md", "status": "removed" },
+      { "filename": "scaletest.sh", "status": "removed" },
+      { "filename": ".gitignore", "status": "removed" },
+      { "filename": "cf_dns.tf", "status": "removed" },
+      { "filename": "coder_helm_values.tftpl", "status": "removed" },
+      { "filename": "coder_proxies.tf", "status": "removed" },
+      { "filename": "coder_templates.tf", "status": "removed" },
+      { "filename": "coder_traffic.tf", "status": "removed" },
+      { "filename": "coder_workspaces.tf", "status": "removed" },
+      { "filename": "gcp_clusters.tf", "status": "removed" },
+      { "filename": "gcp_db.tf", "status": "removed" },
+      { "filename": "gcp_project.tf", "status": "removed" },
+      { "filename": "gcp_vpc.tf", "status": "removed" },
+      { "filename": "k8s_coder_asia.tf", "status": "removed" },
+      { "filename": "k8s_coder_europe.tf", "status": "removed" },
+      { "filename": "k8s_coder_primary.tf", "status": "removed" },
+      { "filename": "kubeconfig.tftpl", "status": "removed" },
+      { "filename": "main.tf", "status": "removed" },
+      { "filename": "prometheus.tf", "status": "removed" },
+      { "filename": "prometheus_helm_values.tftpl", "status": "removed" },
+      { "filename": "scenarios.tf", "status": "removed" },
+      { "filename": "tls.tf", "status": "removed" },
+      { "filename": "vars.tf", "status": "removed" },
+      { "filename": "gcp_cluster.tf", "status": "removed" },
+      { "filename": "gcp_db.tf", "status": "removed" },
+      { "filename": "gcp_project.tf", "status": "removed" },
+      { "filename": "gcp_vpc.tf", "status": "removed" },
+      { "filename": "main.tf", "status": "removed" },
+      { "filename": "outputs.tf", "status": "removed" },
+      { "filename": "vars.tf", "status": "removed" },
+      { "filename": "cert-manager.tf", "status": "removed" },
+      { "filename": "coder.tf", "status": "removed" },
+      { "filename": "main.tf", "status": "removed" },
+      { "filename": "otel.tf", "status": "removed" },
+      { "filename": "prometheus.tf", "status": "removed" },
+      { "filename": "vars.tf", "status": "removed" },
+      { "filename": "scenario-large.tfvars", "status": "removed" },
+      { "filename": "scenario-medium.tfvars", "status": "removed" },
+      { "filename": "scenario-small.tfvars", "status": "removed" },
+      { "filename": "secrets.tfvars.tpl", "status": "removed" }
+    ]
+  },
+  {
+    "message": "chore: update terraform to 1.13.0 (#19509)\nCo-authored-by: Jon Ayers <jon@coder.com>",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "install.sh", "status": "modified" },
+      { "filename": "version.txt", "status": "modified" },
+      { "filename": "version.txt", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore(helm): make coder pprof endpoint available externally (#19185)\nPProf is still disabled by default",
+    "files": [
+      { "filename": "_coder.tpl", "status": "modified" },
+      { "filename": "auto_access_url_1.golden", "status": "modified" },
+      { "filename": "auto_access_url_1_coder.golden", "status": "modified" },
+      { "filename": "auto_access_url_2.golden", "status": "modified" },
+      { "filename": "auto_access_url_2_coder.golden", "status": "modified" },
+      { "filename": "auto_access_url_3.golden", "status": "modified" },
+      { "filename": "auto_access_url_3_coder.golden", "status": "modified" },
+      { "filename": "command.golden", "status": "modified" },
+      { "filename": "command_args.golden", "status": "modified" },
+      { "filename": "command_args_coder.golden", "status": "modified" },
+      { "filename": "command_coder.golden", "status": "modified" },
+      { "filename": "custom_resources.golden", "status": "modified" },
+      { "filename": "custom_resources_coder.golden", "status": "modified" },
+      { "filename": "default_values.golden", "status": "modified" },
+      { "filename": "default_values_coder.golden", "status": "modified" },
+      { "filename": "env_from.golden", "status": "modified" },
+      { "filename": "env_from_coder.golden", "status": "modified" },
+      { "filename": "extra_templates.golden", "status": "modified" },
+      { "filename": "extra_templates_coder.golden", "status": "modified" },
+      { "filename": "labels_annotations.golden", "status": "modified" },
+      { "filename": "labels_annotations_coder.golden", "status": "modified" },
+      { "filename": "partial_resources.golden", "status": "modified" },
+      { "filename": "partial_resources_coder.golden", "status": "modified" },
+      { "filename": "pod_securitycontext.golden", "status": "modified" },
+      { "filename": "pod_securitycontext_coder.golden", "status": "modified" },
+      { "filename": "prometheus.golden", "status": "modified" },
+      { "filename": "prometheus_coder.golden", "status": "modified" },
+      { "filename": "provisionerd_psk.golden", "status": "modified" },
+      { "filename": "provisionerd_psk_coder.golden", "status": "modified" },
+      { "filename": "sa.golden", "status": "modified" },
+      { "filename": "sa_coder.golden", "status": "modified" },
+      { "filename": "sa_disabled.golden", "status": "modified" },
+      { "filename": "sa_disabled_coder.golden", "status": "modified" },
+      { "filename": "sa_extra_rules.golden", "status": "modified" },
+      { "filename": "sa_extra_rules_coder.golden", "status": "modified" },
+      { "filename": "securitycontext.golden", "status": "modified" },
+      { "filename": "securitycontext_coder.golden", "status": "modified" },
+      { "filename": "svc_loadbalancer.golden", "status": "modified" },
+      { "filename": "svc_loadbalancer_class.golden", "status": "modified" },
+      {
+        "filename": "svc_loadbalancer_class_coder.golden",
+        "status": "modified"
+      },
+      { "filename": "svc_loadbalancer_coder.golden", "status": "modified" },
+      { "filename": "svc_nodeport.golden", "status": "modified" },
+      { "filename": "svc_nodeport_coder.golden", "status": "modified" },
+      { "filename": "tls.golden", "status": "modified" },
+      { "filename": "tls_coder.golden", "status": "modified" },
+      { "filename": "topology.golden", "status": "modified" },
+      { "filename": "topology_coder.golden", "status": "modified" },
+      { "filename": "workspace_proxy.golden", "status": "modified" },
+      { "filename": "workspace_proxy_coder.golden", "status": "modified" }
+    ]
+  },
+  {
+    "message": "feat: make readinessProbe and livenessProbe initialDelaySeconds configurable (#18756)\nMakes `initialDelaySeconds` configurable for both `readinessProbe` and\n`livenessProbe` in the Helm chart.\n**Changes:**\n- Added `coder.readinessProbe.initialDelaySeconds` and\n`coder.livenessProbe.initialDelaySeconds` to `values.yaml`\n- Updated `_coder.tpl` template to use these configurable values\n- Defaults to 0 seconds to maintain existing behavior\n**Testing:**\n- Verified template rendering with default values (0)\n- Verified template rendering with custom values (30, 60)\n- Both probes correctly use the configured `initialDelaySeconds`\n-\nCo-authored-by: blink-so[bot] <211532188+blink-so[bot]@users.noreply.github.com>\nCo-authored-by: kylecarbs <7122116+kylecarbs@users.noreply.github.com>",
+    "files": [
+      { "filename": "_coder.tpl", "status": "modified" },
+      { "filename": "auto_access_url_1.golden", "status": "modified" },
+      { "filename": "auto_access_url_1_coder.golden", "status": "modified" },
+      { "filename": "auto_access_url_2.golden", "status": "modified" },
+      { "filename": "auto_access_url_2_coder.golden", "status": "modified" },
+      { "filename": "auto_access_url_3.golden", "status": "modified" },
+      { "filename": "auto_access_url_3_coder.golden", "status": "modified" },
+      { "filename": "command.golden", "status": "modified" },
+      { "filename": "command_args.golden", "status": "modified" },
+      { "filename": "command_args_coder.golden", "status": "modified" },
+      { "filename": "command_coder.golden", "status": "modified" },
+      { "filename": "custom_resources.golden", "status": "modified" },
+      { "filename": "custom_resources_coder.golden", "status": "modified" },
+      { "filename": "default_values.golden", "status": "modified" },
+      { "filename": "default_values_coder.golden", "status": "modified" },
+      { "filename": "env_from.golden", "status": "modified" },
+      { "filename": "env_from_coder.golden", "status": "modified" },
+      { "filename": "extra_templates.golden", "status": "modified" },
+      { "filename": "extra_templates_coder.golden", "status": "modified" },
+      { "filename": "labels_annotations.golden", "status": "modified" },
+      { "filename": "labels_annotations_coder.golden", "status": "modified" },
+      { "filename": "partial_resources.golden", "status": "modified" },
+      { "filename": "partial_resources_coder.golden", "status": "modified" },
+      { "filename": "prometheus.golden", "status": "modified" },
+      { "filename": "prometheus_coder.golden", "status": "modified" },
+      { "filename": "provisionerd_psk.golden", "status": "modified" },
+      { "filename": "provisionerd_psk_coder.golden", "status": "modified" },
+      { "filename": "sa.golden", "status": "modified" },
+      { "filename": "sa_coder.golden", "status": "modified" },
+      { "filename": "sa_disabled.golden", "status": "modified" },
+      { "filename": "sa_disabled_coder.golden", "status": "modified" },
+      { "filename": "sa_extra_rules.golden", "status": "modified" },
+      { "filename": "sa_extra_rules_coder.golden", "status": "modified" },
+      { "filename": "securitycontext.golden", "status": "modified" },
+      { "filename": "securitycontext_coder.golden", "status": "modified" },
+      { "filename": "svc_loadbalancer.golden", "status": "modified" },
+      { "filename": "svc_loadbalancer_class.golden", "status": "modified" },
+      {
+        "filename": "svc_loadbalancer_class_coder.golden",
+        "status": "modified"
+      },
+      { "filename": "svc_loadbalancer_coder.golden", "status": "modified" },
+      { "filename": "svc_nodeport.golden", "status": "modified" },
+      { "filename": "svc_nodeport_coder.golden", "status": "modified" },
+      { "filename": "tls.golden", "status": "modified" },
+      { "filename": "tls_coder.golden", "status": "modified" },
+      { "filename": "topology.golden", "status": "modified" },
+      { "filename": "topology_coder.golden", "status": "modified" },
+      { "filename": "workspace_proxy.golden", "status": "modified" },
+      { "filename": "workspace_proxy_coder.golden", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Merge branch 'develop' into feat/lowlevel-run",
+    "files": [
+      { "filename": "backend_test.yml", "status": "modified" },
+      { "filename": "cli_.testyml", "status": "renamed" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "move backend into main repo (#931)\n* move backend into main repo\r\n\nFormer-commit-id: ce90a0f7b8f937f48b78b97f114ad0a77d080969",
+    "files": [
+      { "filename": "backend_build_test_ecr.yml", "status": "added" },
+      { "filename": "backend_test.yml", "status": "added" },
+      { "filename": "Dockerfile", "status": "added" }
+    ]
+  },
+  {
+    "message": "refactor cli specific files to use folder (#847)\n* refactor cli specific files to use cli folder\r\n\nFormer-commit-id: c335f6c8f133596847bfaa999136d140ff774a6e",
+    "files": [
+      { "filename": "cli_latest.yml", "status": "renamed" },
+      { "filename": "Dockerfile", "status": "renamed" }
+    ]
+  },
+  {
+    "message": "Justin/request body buffer phase 2.1 (#4778)\n* initial scaffolding for requestBodyBuffer\n* init some docker scaffolding\n* initial scaffolding for requestBodyBuffer\n* added signing aws requests\n* added docker containers and requestbodybuffer abstractions\n* Apply suggestion from @greptile-apps[bot]\nCo-authored-by: greptile-apps[bot] <165735046+greptile-apps[bot]@users.noreply.github.com>\n* rm\n* renmaed file\n* moved to new file\n* comment\n* clean up\n* Apply suggestion from @greptile-apps[bot]\nCo-authored-by: greptile-apps[bot] <165735046+greptile-apps[bot]@users.noreply.github.com>\n* types\n* update wrangler\n* request body buffer impl\n* container mvp\n* bump timeout\n* remove unecessary auth\n* types\n* added formatting\n* types\n* Update worker/RequestBodyBufferContainer/README.md\nCo-authored-by: greptile-apps[bot] <165735046+greptile-apps[bot]@users.noreply.github.com>\n* Update worker/src/RequestBodyBuffer/RequestBodyBuffer_Remote.ts\nCo-authored-by: greptile-apps[bot] <165735046+greptile-apps[bot]@users.noreply.github.com>\n* cleanup\n* revert\n* build\n-\nCo-authored-by: Justin Torre <justin@helicone.ai>\nCo-authored-by: greptile-apps[bot] <165735046+greptile-apps[bot]@users.noreply.github.com>",
+    "files": [
+      {
+        "filename": "request-body-buffer-container-tests.yml",
+        "status": "added"
+      },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "vitest.config.mts", "status": "added" }
+    ]
+  },
+  {
+    "message": "feat: Cloud billing (#4517)\nthis commit adds support to the cloudflare worker to add credit balances\nto a Durable Object in the worker, such that the worker is able to know\nhow much money a user has in order to gate/reject requests if the user's\nbalance is exhausted.\ndeducting credits after making requests/llm calls will be made in a\nseparate PR, this is a series of stacked PRs implementing the\nfunctionality iteratively",
+    "files": [
+      { "filename": "genSupabaseTypes.sh", "status": "modified" },
+      { "filename": "vitest.config.mts", "status": "modified" }
+    ]
+  },
+  {
+    "message": "added vertex examples (#4231)\nCo-authored-by: Justin Torre <justin@helicone.ai>",
+    "files": [
+      { "filename": "run.sh", "status": "renamed" },
+      { "filename": "test.png", "status": "added" }
+    ]
+  },
+  {
+    "message": "feat: Pull from dockerhub the ai gateway rather than using subtree (#4113)\n* chore: remove aigateway subtree\n* chore: update Dockerfile to use helicone/ai-gateway as base image\n-\nCo-authored-by: Devin Ersoy <devin@helicone.ai>",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "removed" },
+      { "filename": "Cargo.toml", "status": "removed" },
+      { "filename": "deploy.sh", "status": "removed" },
+      { "filename": ".gitignore", "status": "removed" },
+      { "filename": "server.crt", "status": "removed" },
+      { "filename": "server.key", "status": "removed" },
+      { "filename": "load-test.yaml", "status": "removed" },
+      { "filename": "Cargo.toml", "status": "removed" },
+      { "filename": "Cargo.toml", "status": "removed" }
+    ]
+  },
+  {
+    "message": "[ENG-2049] Add SQL Editor React Monaco (#3973)\n* HQL\n* [ENG-2049] SQL Editor Monaco\n* feat: also add prettier to tailwindcss formatter\n* wip\n* working :D\n* i think working\n* testing framework wip\n* wrapper not set correctly\n* add readme\n* feat: works now\n* fix: frontend styling\n* feat: add limit\n* fix: test and limit",
+    "files": [
+      { "filename": "manage_databases.sh", "status": "added" },
+      { "filename": "test_seed_rmt.csv", "status": "added" }
+    ]
+  },
+  {
+    "message": "feat: AI Gateway in Helicone Docker Compose, change from submodule to git subtree, rename from helix to AI gateway (#3955)\n* refactor: removed helix submodule\n* Update docker build scripts for aigateway integration\n* Squashed 'aigateway/' content from commit 2edc92ced\ngit-subtree-dir: aigateway\ngit-subtree-split: 2edc92ced66fd5a4580f7011e6a75857e57048ff\n* misc: Remove helix\n* feat: Added ai gateway to docker compose single script\n-\nCo-authored-by: Devin Ersoy <devin@helicone.ai>",
+    "files": [
+      { "filename": "Dockerfile", "status": "added" },
+      { "filename": "Cargo.toml", "status": "added" },
+      { "filename": "deploy.sh", "status": "added" },
+      { "filename": ".gitignore", "status": "added" },
+      { "filename": "server.crt", "status": "added" },
+      { "filename": "server.key", "status": "added" },
+      { "filename": "load-test.yaml", "status": "added" },
+      { "filename": "Cargo.toml", "status": "added" },
+      { "filename": "Cargo.toml", "status": "added" },
+      { "filename": "push_docker.sh", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" }
+    ]
+  },
+  {
+    "message": "fix: jawn deployments breaking (#3807)\n* wip\n* fix deployments\n* add precheck\n* remove unused e2e test",
+    "files": [
+      { "filename": "tests.yml", "status": "removed" },
+      { "filename": "dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore(deps): update all non-major dependencies",
+    "files": [
+      { "filename": "Chart.yaml", "status": "modified" },
+      { "filename": "versions.tf", "status": "modified" },
+      { "filename": "versions.tf", "status": "modified" },
+      { "filename": "versions.tf", "status": "modified" },
+      { "filename": "versions.tf", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore: update dependencies",
+    "files": [
+      { "filename": "versions.tf", "status": "modified" },
+      { "filename": "go.mod", "status": "modified" },
+      { "filename": "go.sum", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Add role to generate LXD client config",
+    "files": [
+      { "filename": "terraform.tf", "status": "modified" },
+      { "filename": "hosts.ini", "status": "modified" },
+      { "filename": "playbook.yml", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Change storage pool name back to default",
+    "files": [
+      { "filename": "cluster.tf", "status": "modified" },
+      { "filename": "lxd.yaml", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Change default storage and nic",
+    "files": [
+      { "filename": "cluster.tf", "status": "modified" },
+      { "filename": "lxd.yaml", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore(deps): update node.js to v22.19.0 (#21509)\nCo-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>",
+    "files": [
+      { "filename": ".nvmrc", "status": "modified" },
+      { "filename": ".nvmrc", "status": "modified" },
+      { "filename": "package.json", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore: Revert version v1.139.1 (#21125)\nRevert \"chore: version v1.139.1\"\nThis reverts commit 89533a858fffde0d4b40a349ad2cc49dbaa70fb1.",
+    "files": [
+      { "filename": "package.json", "status": "modified" },
+      { "filename": "git_push.sh", "status": "added" }
+    ]
+  },
+  {
+    "message": "chore: version v1.139.1",
+    "files": [
+      { "filename": "package.json", "status": "modified" },
+      { "filename": "git_push.sh", "status": "removed" }
+    ]
+  },
+  {
+    "message": "chore: Revert version v1.139.0 (#21121)\nRevert \"chore: version v1.139.0\"\nThis reverts commit b69470c69e994243dd0dfcd3913a11e2339fd00e.",
+    "files": [
+      { "filename": "package-lock.json", "status": "removed" },
+      { "filename": "package.json", "status": "modified" },
+      { "filename": "git_push.sh", "status": "added" }
+    ]
+  },
+  {
+    "message": "chore: version v1.139.0",
+    "files": [
+      { "filename": "package-lock.json", "status": "added" },
+      { "filename": "package.json", "status": "modified" },
+      { "filename": "git_push.sh", "status": "removed" }
+    ]
+  },
+  {
+    "message": "Merge pull request #14 from RoseSecurity/fix-workflows\nfix workflow",
+    "files": [
+      { "filename": "CODEOWNERS", "status": "removed" },
+      { "filename": "bug_report.md", "status": "removed" },
+      { "filename": "feature_request.md", "status": "removed" },
+      { "filename": "PULL_REQUEST_TEMPLATE.md", "status": "removed" },
+      { "filename": "test.yml", "status": "removed" }
+    ]
+  },
+  {
+    "message": "fix workflow",
+    "files": [
+      { "filename": "CODEOWNERS", "status": "removed" },
+      { "filename": "bug_report.md", "status": "removed" },
+      { "filename": "feature_request.md", "status": "removed" },
+      { "filename": "PULL_REQUEST_TEMPLATE.md", "status": "removed" },
+      { "filename": "test.yml", "status": "removed" }
+    ]
+  },
+  {
+    "message": "Add Workflows",
+    "files": [
+      { "filename": "CODEOWNERS", "status": "added" },
+      { "filename": "bug_report.md", "status": "added" },
+      { "filename": "feature_request.md", "status": "added" },
+      { "filename": "PULL_REQUEST_TEMPLATE.md", "status": "added" },
+      { "filename": "test.yml", "status": "added" },
+      { "filename": "CODEOWNERS", "status": "added" },
+      { "filename": "bug_report.md", "status": "added" },
+      { "filename": "feature_request.md", "status": "added" },
+      { "filename": "PULL_REQUEST_TEMPLATE.md", "status": "added" }
+    ]
+  },
+  {
+    "message": "Initial tooling commit",
+    "files": [
+      { "filename": "s3-bucket.tf", "status": "added" },
+      { "filename": "s3-bucket.tf", "status": "added" }
+    ]
+  },
+  {
+    "message": "ci: Use node.js 22 by default. Add initial support for node.js 24 (#16018)",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "units-tests-reusable.yml", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "ci: Update corepack before enabling it (no-changelog) (#13004)",
+    "files": [
+      { "filename": "test-workflows.yml", "status": "modified" },
+      { "filename": "units-tests-reusable.yml", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "feat: Add support for dark mode node icons and colors (#9412)\nCo-authored-by: Giulio Andreini <g.andreini@gmail.com>",
+    "files": [
+      { "filename": "circleCi.dark.svg", "status": "added" },
+      { "filename": "circleCi.png", "status": "removed" },
+      { "filename": "circleCi.svg", "status": "added" },
+      { "filename": "googlePerspective.dark.svg", "status": "added" },
+      { "filename": "googlePerspective.svg", "status": "added" },
+      { "filename": "perspective.svg", "status": "removed" }
+    ]
+  },
+  {
+    "message": "ci: Switch to Node.js 20 by default. Add initial support for Node.js 22 (#9501)",
+    "files": [
+      { "filename": "check-tests.yml", "status": "modified" },
+      { "filename": "test-workflows.yml", "status": "modified" },
+      { "filename": "units-tests-reusable.yml", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "refactor: Upgrade to Prettier 3 (no-changelog) (#6947)\nSupersedes https://github.com/n8n-io/n8n/pull/6937\r\n\r\nExcluding fixtures and test workflow JSONs to avoid having to update\r\ntests.",
+    "files": [
+      { "filename": "README.md", "status": "modified" },
+      { "filename": "workflow.json", "status": "modified" }
+    ]
+  },
+  {
+    "message": "ci: Add support for Node.js 18 (#5793)\n* ci: Start supporting Node.js 18\r\n\r\nNode.js 18 became the active LTS on 2022-10-25, and Node.js 16 went into maintenance mode.\r\nhttps://github.com/nodejs/Release#release-schedule\r\n\r\nWe should also slowly deprecate node 16 support, [as support for it is ends much earlier now, due to support for openssl 1.1.1 ending](https://nodejs.org/en/blog/announcements/nodejs16-eol).\r\n\r\n* Remove hashing algorithms that are not available in newer node.js/openssl\r\n\r\n- RSA-MD4\r\n- RSA-MDC2\r\n- md4\r\n- md4WithRSAEncryption\r\n- mdc2\r\n- mdc2WithRSA\r\n\r\n* in e2e tests, resolve `localhost` to ipv4 instead of ipv6",
+    "files": [
+      { "filename": "e2e-tests-pr.yml", "status": "modified" },
+      { "filename": "e2e-tests.yml", "status": "modified" },
+      { "filename": "test-workflows.yml", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "CryptoTest.workflow.json", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore: move docs website to main repo (#801)\nThanks to all the contributors to the original nitric docs repo\nCo-authored-by: Ahmad Ragab <Averroes2006@gmail.com>\nCo-authored-by: Alex Ravenna <alex.n.ravenna@gmail.com>\nCo-authored-by: Anmol Krishan Sachdeva <90194174+g-greatdevaks@users.noreply.github.com>\nCo-authored-by: ColoradoCowboy <jung.marshall@gmail.com>\nCo-authored-by: David Moore <davemooreuws@gmail.com>\nCo-authored-by: Elisse Lockhart <99988295+elisselockhart@users.noreply.github.com>\nCo-authored-by: Jan Piotrowski <piotrowski+github@gmail.com>\nCo-authored-by: Jye Cusch <jye.cusch@nitric.io>\nCo-authored-by: Malcolm Edgar <79067084+medgar-nitric@users.noreply.github.com>\nCo-authored-by: Rak <rak.siva@nitric.io>\nCo-authored-by: Ryan Cartwright <fryzee.cartwright@gmail.com>\nCo-authored-by: Stan0304 <stan.peyssard@hotmail.fr>\nCo-authored-by: Tasin Ishmam <tasinishmam@gmail.com>\nCo-authored-by: Tim Holm <tim.holm@nitric.io>",
+    "files": [
+      { "filename": "test-docs.yaml", "status": "added" },
+      { "filename": "test.yaml", "status": "modified" },
+      { "filename": "pages.json", "status": "added" },
+      { "filename": "tsconfig.json", "status": "added" },
+      { "filename": "index.mdx", "status": "added" },
+      { "filename": "index.mdx", "status": "added" },
+      { "filename": "resources.mdx", "status": "added" },
+      { "filename": "security.mdx", "status": "added" },
+      { "filename": "services.mdx", "status": "added" },
+      { "filename": "testing.mdx", "status": "added" },
+      { "filename": "api-gateway-throttle.mdx", "status": "added" },
+      { "filename": "checkov.mdx", "status": "added" },
+      { "filename": "s3-encryption.mdx", "status": "added" },
+      { "filename": "s3-replicate.mdx", "status": "added" },
+      { "filename": "terratest.mdx", "status": "added" },
+      { "filename": "trivy.mdx", "status": "added" },
+      { "filename": "aws.mdx", "status": "added" },
+      { "filename": "azure.mdx", "status": "added" },
+      { "filename": "gcp.mdx", "status": "added" },
+      { "filename": "index.mdx", "status": "added" },
+      { "filename": "secret-latest.mdx", "status": "added" },
+      { "filename": "secret-latest.mdx", "status": "added" }
+    ]
+  },
+  {
+    "message": "feat(azure): add Terraform Azure provider (preview) (#738)\nCo-authored-by: David Moore <davemooreuws@gmail.com>\nCo-authored-by: Jye Cusch <jye.cusch@nitric.io>\nCo-authored-by: Rak Siva <rak.siva@nitric.io>\nCo-authored-by: Ryan Cartwright <fryzee.cartwright@gmail.com>\nCo-authored-by: Tim Holm <tim.holm@nitric.io>",
+    "files": [
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "go.mod", "status": "modified" },
+      { "filename": "go.sum", "status": "modified" }
+    ]
+  },
+  {
+    "message": "feat!: v1\n* update go version to 1.21\n* fix schedule rates support\n* enhance azure deployments\n* contract updates for v1\n* replace Documents (collections) with KV\n* new provider communication contract\n* add common logger\n* update queue methods to enqueue/dequeue\n* provider interface\n* improve azure resource permission deployments\n* add schedules support for all cloud providers\n* update pulumi sdk\n* add shared pulumi event streaming\n* allow multiple deployment result types\n-\nCo-authored-by: Rak Siva <rak.siva@nitric.io>\nCo-authored-by: Ryan Cartwright <fryzee.cartwright@gmail.com>\nCo-authored-by: Jye Cusch <jye.cusch@nitric.io>\nCo-authored-by: David Moore <david.moore@nitric.io>",
+    "files": [
+      { "filename": "test.yaml", "status": "modified" },
+      { "filename": "deploy.proto", "status": "removed" }
+    ]
+  },
+  {
+    "message": "Release v0.30.0 (#473)",
+    "files": [
+      { "filename": "test.yaml", "status": "modified" },
+      { "filename": "deploy.proto", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Release v0.29.0 (#465)",
+    "files": [
+      { "filename": "test.yaml", "status": "modified" },
+      { "filename": "deploy.proto", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Add File source with SQS notifications (#5148)\n* Refactor file source\r\n\r\n* More explicit reponse for read_batch\r\n\r\n* Fix clippy\r\n\r\n* Remove batch logic from DocFileReader\r\n\r\n* Address styling comments\r\n\r\n* Replace FileSourceParams path with URI\r\n\r\n* Additional URI related cleanup\r\n\r\n* Fix unit tests to now use the URI\r\n\r\n* Add queue source with SQS implementation\r\n\r\n* Fix the publish_token strategy\r\n\r\n* Fix never-used warnings\r\n\r\n* Fix unit tests\r\n\r\n* Abort visibility task after acknowledging\r\n\r\n* Address smaller review comments\r\n\r\n* Shorten visibility extension task\r\n\r\n* Fix pulsar tests\r\n\r\n* Adjustments after rebase\r\n\r\n* Move object backed source to file source\r\n\r\n* Simpler flow for adhoc file processing\r\n\r\n* Fix tests and refactor batch creation to BatchReader\r\n\r\n* Add max_messages param to Queue.receive\r\n\r\n* Move use_shard_api to the metastore crate\r\n\r\n* Dedup within batches\r\n\r\n* Improve visibility task\r\n\r\n* Re-acquire partitions aggressively\r\n\r\n* Address simpler review comments\r\n\r\n* Add test for visibility actor (failing)\r\n\r\n* Fix visibility actor drop\r\n\r\n* Fix reader edge case\r\n\r\n* Add end to end tests\r\n\r\n* Improve integration test scenario\r\n\r\n* Chunk receive future to avoid hanging actor\r\n\r\n* Improve error handling\r\n\r\n* Fix flaky test\r\n\r\n* New SourceConfig format with notifications field\r\n\r\n* Improvements to error handling\r\n\r\n* Clarification of Queue contract\r\n\r\n* Address new round of review comments\r\n\r\n* Remove SqsSource for now\r\n\r\n* Fix panic\r\n\r\n* Revert to forbidding any adhoc file source through the API\r\n\r\n* Add docs\r\n\r\n* Fix panic on empty file\r\n\r\n* Documentation improvments\r\n\r\n* Improve documentation\r\n\r\n* Improve error handling code and associated docs\r\n\r\n* Nitpic and TODO cleanup\r\n\r\n* Add tip about ingests directly from object stores\r\n\r\n* Ack notifications of undesired type\r\n\r\n* Add docs about situations where messages require a DLQ\r\n\r\n* Fix integ test after rebase",
+    "files": [
+      { "filename": "sqs-file-source.tf", "status": "added" },
+      { "filename": "Cargo.toml", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Fix typos all over the codebase (#5259)",
+    "files": [
+      { "filename": "variables.tf", "status": "modified" },
+      { "filename": "cluster-sizing.md", "status": "modified" },
+      { "filename": "glasskube.md", "status": "modified" },
+      { "filename": "README.md", "status": "modified" },
+      { "filename": "0002_invalid_default_fields.yaml", "status": "modified" },
+      {
+        "filename": "0010-match_phrase_prefix_query.yaml",
+        "status": "modified"
+      },
+      { "filename": "0001-field-capabilities.yaml", "status": "modified" },
+      { "filename": "0003_negative_search.yaml", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Add Tokio runtimes metrics (#4984)",
+    "files": [
+      { "filename": "coverage.yml", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "fix sort order in UI (#3966)\n* fix sort order in UI\r\n\r\nit should be descending, but was asc due to recent change in sorting order\r\n\r\n* Upgrade to node 20 and update minor dependencies.\r\n\r\n* Update cypress config.\r\n\r\n-\r\n\r\nCo-authored-by: fmassot <francois.massot@gmail.com>",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "cypress.json", "status": "removed" },
+      { "filename": "example.json", "status": "added" }
+    ]
+  },
+  {
+    "message": "Fixing spelling mistakes. (#2927)",
+    "files": [
+      { "filename": "install.sh", "status": "modified" },
+      { "filename": "quickwit.wrongkey.yaml", "status": "modified" }
+    ]
+  },
+  {
+    "message": "🪞🐘 Support for Postgres Replicas(#1414)\nCo-authored-by: abc3 <sts@abc3.dev>\nCo-authored-by: Anthony Accomazzo <accomazz@gmail.com>",
+    "files": [
+      { "filename": "README.md", "status": "added" },
+      { "filename": "init-primary.sh", "status": "added" },
+      { "filename": "init-replica.sh", "status": "added" },
+      { "filename": "yaml_loader_test.exs", "status": "modified" }
+    ]
+  },
+  {
+    "message": "⚡️ Allow for setting MAX_MEMORY_MB and MEMORY_BUFFER_PERCENT for memory control",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "test.exs", "status": "modified" },
+      { "filename": "postgres_replication_test.exs", "status": "modified" }
+    ]
+  },
+  {
+    "message": "♻️ Health updates: Move over rest of entities to event-based health",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "health_test.exs", "status": "modified" },
+      { "filename": "postgres_replication_test.exs", "status": "modified" },
+      { "filename": "wal_pipeline_server_test.exs", "status": "modified" },
+      { "filename": "health_factory.ex", "status": "modified" }
+    ]
+  },
+  {
+    "message": "⬆️ Upgrade to Elixir 1.18",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "assertions.ex", "status": "modified" },
+      { "filename": "databases_factory.ex", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Modify libcluster postgres strategy to use existing Ecto connection & config",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "test.exs", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Update base image for the steampipe docker container. Closes #2233",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Adds support for starting `dashboard` server with `service start` (#1472)",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "002.service.bats", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Change linux go releaser and curl install script to use tar instead of zip. Closes #63",
+    "files": [
+      { "filename": "test.yml", "status": "modified" },
+      { "filename": "install.sh", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Initial commit",
+    "files": [
+      { "filename": ".gitignore", "status": "added" },
+      { "filename": "build.sh", "status": "added" },
+      { "filename": "test.yml", "status": "added" },
+      { "filename": "connection-test-1.plugin", "status": "added" },
+      { "filename": "connection-test-2.plugin", "status": "added" },
+      { "filename": "connection-test-3.plugin", "status": "added" },
+      { "filename": "connection1.spc", "status": "added" },
+      { "filename": "connection2.spc", "status": "added" },
+      { "filename": "connection1.spc", "status": "added" },
+      { "filename": "run.sh", "status": "added" },
+      { "filename": "output001.json", "status": "added" },
+      { "filename": "output002.json", "status": "added" },
+      { "filename": "output003.json", "status": "added" },
+      { "filename": "output004.json", "status": "added" },
+      { "filename": "output005.json", "status": "added" },
+      { "filename": "output006.json", "status": "added" },
+      { "filename": "output007.json", "status": "added" },
+      { "filename": "output008.json", "status": "added" },
+      { "filename": "output009.json", "status": "added" },
+      { "filename": "output010.json", "status": "added" },
+      { "filename": "output011.json", "status": "added" },
+      { "filename": "query_test.txt", "status": "added" },
+      { "filename": "001.query.bats", "status": "added" }
+    ]
+  },
+  {
+    "message": "feat: upgrade to use gemini-2.0-flash (#182)",
+    "files": [
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "versions.tf", "status": "modified" },
+      { "filename": "versions.tf", "status": "modified" },
+      { "filename": "requirements-test.txt", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore(deps): Update Terraform terraform-google-modules/project-factory/google to v15 (#126)",
+    "files": [
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore!: simplify webhook code (#114)",
+    "files": [
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "outputs.tf", "status": "modified" },
+      { "filename": "iam.tf", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "versions.tf", "status": "modified" },
+      { "filename": "variables.tf", "status": "modified" },
+      { "filename": "versions.tf", "status": "modified" },
+      { "filename": "requirements-test.txt", "status": "modified" }
+    ]
+  },
+  {
+    "message": "feat: sic metadata gen and ingestion (#34)\nCo-authored-by: Balaji Subramaniam <balajismaniam@google.com>",
+    "files": [
+      { "filename": "outputs.tf", "status": "modified" },
+      { "filename": "iam.tf", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "variables.tf", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Fix: make lint, cft tests happy (#31)\nCo-authored-by: Balaji Subramaniam <balajismaniam@google.com>",
+    "files": [
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "iam.tf", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "variables.tf", "status": "modified" },
+      { "filename": "versions.tf", "status": "modified" },
+      { "filename": "requirements-test.txt", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Merge pull request #15 from GoogleCloudPlatform/apply_template\nchore: apply CFT cookiecutter template.",
+    "files": [
+      { "filename": "deploy.sh", "status": "modified" },
+      { "filename": "main.tf", "status": "renamed" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "removed" },
+      { "filename": "go.mod", "status": "added" },
+      { "filename": "go.sum", "status": "added" },
+      { "filename": "iam.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "versions.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "versions.tf", "status": "added" },
+      { "filename": "requirements-test.txt", "status": "renamed" }
+    ]
+  },
+  {
+    "message": "ops: refactored helm chart to add in redis, qdrant, clickhouse and\npostgres as subcharts",
+    "files": [
+      { "filename": "Chart.lock", "status": "modified" },
+      { "filename": ".helmignore", "status": "added" },
+      { "filename": "Chart.lock", "status": "added" },
+      { "filename": ".helmignore", "status": "added" },
+      { "filename": "Chart.lock", "status": "added" },
+      { "filename": "_helpers.tpl", "status": "added" },
+      { "filename": "default-trieve-realm.yaml", "status": "modified" },
+      { "filename": "default-trieve-realm.yaml", "status": "modified" }
+    ]
+  },
+  {
+    "message": "feat: add k3d cluster setup script",
+    "files": [
+      { "filename": "Chart.lock", "status": "modified" },
+      { "filename": "postgresql-instance.yaml", "status": "modified" }
+    ]
+  },
+  {
+    "message": "ops: update helm values to latest",
+    "files": [
+      { "filename": "clickhouse-installation.yaml", "status": "modified" },
+      { "filename": "qdrant-values.yaml", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" }
+    ]
+  },
+  {
+    "message": "feat: working pdf highlighting in search component\nfix: broken rebase\ndebug: show search terms\nsquashme: checkpoint\nstyling: pdf results",
+    "files": [
+      { "filename": "component-tests.yml", "status": "modified" },
+      { "filename": "frontend-tests.yml", "status": "modified" },
+      { "filename": "rust-tests.yml", "status": "modified" },
+      { "filename": "ts-sdk-tests.yml", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "enhancment: refactor helm chart",
+    "files": [
+      { "filename": "run-faster-jina.sh", "status": "removed" },
+      { "filename": "run-faster-reranker.sh", "status": "removed" },
+      { "filename": "run-faster-splade-doc.sh", "status": "removed" },
+      { "filename": "run-faster-splade-query.sh", "status": "removed" },
+      { "filename": "Chart.lock", "status": "modified" },
+      { "filename": ".helmignore", "status": "removed" },
+      { "filename": "Chart.lock", "status": "removed" },
+      { "filename": "README.md", "status": "removed" },
+      { "filename": "NOTES.txt", "status": "removed" },
+      { "filename": "_helpers.tpl", "status": "removed" },
+      { "filename": ".helmignore", "status": "removed" },
+      { "filename": "CHANGELOG.md", "status": "removed" },
+      { "filename": "LICENSE", "status": "removed" },
+      { "filename": "README.md", "status": "removed" },
+      { "filename": "NOTES.txt", "status": "removed" },
+      { "filename": "_helpers.tpl", "status": "removed" },
+      { "filename": "test-db-interaction.yaml", "status": "removed" },
+      { "filename": ".helmignore", "status": "removed" },
+      { "filename": "Chart.lock", "status": "removed" },
+      { "filename": "README.md", "status": "removed" },
+      { "filename": "NOTES.txt", "status": "removed" },
+      { "filename": "_helpers.tpl", "status": "removed" },
+      { "filename": "from-env.sh", "status": "removed" },
+      { "filename": "install-clickhouse-operator.sh", "status": "removed" },
+      { "filename": "clickhouse-installation.yaml", "status": "renamed" },
+      { "filename": "clickhouse-operator.yaml", "status": "added" },
+      { "filename": "cloud-sql-proxy.yaml", "status": "added" },
+      { "filename": "operator.yaml", "status": "added" },
+      { "filename": "postgresql-instance.yaml", "status": "added" },
+      { "filename": "cluster-issuer.yaml", "status": "added" },
+      { "filename": "keycloak-ingress.yaml", "status": "added" },
+      { "filename": "default-trieve-realm.yaml", "status": "added" },
+      { "filename": "keycloak-installation.yaml", "status": "added" },
+      { "filename": "keycloak-operator.yaml", "status": "added" },
+      { "filename": "keycloak-postgres.yaml", "status": "added" },
+      { "filename": "keycloakrealmimports.yaml", "status": "added" },
+      { "filename": "keycloaks.yaml", "status": "added" },
+      { "filename": "qdrant-values.yaml", "status": "added" },
+      { "filename": "redis-values.yaml", "status": "added" },
+      { "filename": "clickhouse-installation.yaml", "status": "added" },
+      { "filename": "clickhouse-operator.yaml", "status": "added" },
+      { "filename": "default-trieve-realm.yaml", "status": "added" },
+      { "filename": "keycloak-installation.yaml", "status": "added" },
+      { "filename": "keycloak-operator.yaml", "status": "added" },
+      { "filename": "keycloak-postgres.yaml", "status": "added" },
+      { "filename": "keycloakrealmimports.yaml", "status": "added" },
+      { "filename": "keycloaks.yaml", "status": "added" },
+      { "filename": "postgres.yaml", "status": "added" },
+      { "filename": "redis.yaml", "status": "added" },
+      { "filename": "values.yaml.tpl", "status": "removed" },
+      { "filename": "Readme.md", "status": "removed" },
+      { "filename": "helm.tf", "status": "removed" },
+      { "filename": "iam.tf", "status": "removed" },
+      { "filename": "var.tf", "status": "removed" },
+      { "filename": "aws-virtual-gpu-device-plugin.tf", "status": "removed" },
+      { "filename": "embedding.tf", "status": "removed" },
+      { "filename": "main.tf", "status": "removed" },
+      { "filename": "outputs.tf", "status": "removed" },
+      { "filename": "ssh-key.pub", "status": "removed" },
+      { "filename": ".terraform.lock.hcl", "status": "added" },
+      { "filename": "helm.tf", "status": "added" },
+      { "filename": "main.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "trieve.tf", "status": "added" },
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "outputs.tf", "status": "added" },
+      { "filename": "providers.tf", "status": "added" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": ".terraform.lock.hcl", "status": "removed" },
+      { "filename": "db.tf", "status": "modified" },
+      { "filename": "main.tf", "status": "modified" },
+      { "filename": "variables.tf", "status": "added" },
+      { "filename": "vars.tfvars.example", "status": "added" }
+    ]
+  },
+  {
+    "message": "cleanup: remove analytics stuff",
+    "files": [
+      { "filename": "frontend-tests.yml", "status": "modified" },
+      { "filename": "Dockerfile", "status": "removed" }
+    ]
+  },
+  {
+    "message": "feature: add tests to ts-sdk routes",
+    "files": [
+      { "filename": "analytics-tests.yml", "status": "modified" },
+      { "filename": "chat-tests.yml", "status": "modified" },
+      { "filename": "dashboard-tests.yml", "status": "modified" },
+      { "filename": "search-tests.yml", "status": "modified" },
+      { "filename": "ts-sdk-tests.yml", "status": "modified" },
+      { "filename": "convenience.sh", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "feat: move client to clients/ folder",
+    "files": [
+      { "filename": "analytics-tests.yml", "status": "modified" },
+      { "filename": "chat-tests.yml", "status": "modified" },
+      { "filename": "dashboard-tests.yml", "status": "modified" },
+      { "filename": "search-tests.yml", "status": "modified" },
+      { "filename": "convenience.sh", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" }
+    ]
+  },
+  {
+    "message": "fix: rename \"frontend\" to \"frontends\"",
+    "files": [
+      { "filename": "analytics-tests.yml", "status": "modified" },
+      { "filename": "dashboard-tests.yml", "status": "modified" },
+      { "filename": "search-tests.yml", "status": "modified" },
+      { "filename": "Dockerfile", "status": "renamed" },
+      { "filename": "Dockerfile", "status": "renamed" },
+      { "filename": "Dockerfile", "status": "renamed" },
+      { "filename": "Dockerfile", "status": "renamed" }
+    ]
+  },
+  {
+    "message": "cleanup: remove pg worker and bulk ingest, doesn't work with bulk upsert",
+    "files": [
+      { "filename": "rust-tests.yml", "status": "modified" },
+      { "filename": "values.yaml.tpl", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Lingui working with NODE ENV=production again (#10067)\nLingui now offers an option to disable stripping even in prod mode so we\r\ncan bring it back",
+    "files": [
+      { "filename": "deployment-server.tf", "status": "modified" },
+      { "filename": ".env.test", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Deprecate message queue type (#10040)\nNot removing all the code for now, maybe we should 🤔",
+    "files": [
+      { "filename": "deployment-server.tf", "status": "modified" },
+      { "filename": "deployment-worker.tf", "status": "modified" },
+      { "filename": ".env.test", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Improve Docker-Compose Install Experience (#9781)\nThis PR updates the docker-compose installation documentation and env\r\nsample to improve the setup experience.\r\n\r\n- Updates the URLs for raw files to reference main branch, which is\r\nlikely where new users will be pulling from initially. This seems to be\r\nthe most straightforward option; assume that advanced users who want to\r\nretrieve it from a particular tag will know to change the URL for their\r\nscenario.\r\n- Fixes an improperly stated curl command.\r\n- Adds a note that the PGPASSWORD_SUPERUSER should be URL-safe. This is\r\nrequired since the value is later concat into a PG_DATABASE_URL as a\r\nURL, and expected to be in proper URL format. Touches on #8597.\r\n\r\n-\r\n\r\nCo-authored-by: Félix Malfait <felix@twenty.com>\r\nCo-authored-by: Félix Malfait <felix.malfait@gmail.com>",
+    "files": [
+      { "filename": "ci-test-docker-compose.yaml", "status": "modified" },
+      { "filename": ".env.example", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Add E2E tests (#9309)\nTry adding E2E tests when labelling the PR or merging on main branch",
+    "files": [
+      { "filename": "ci-e2e.yml.bak", "status": "removed" },
+      { "filename": ".env.example", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Fast follows on 0.34 (#9034)\nCo-authored-by: Weiko <corentin@twenty.com>",
+    "files": [
+      { "filename": ".env.example", "status": "modified" },
+      { "filename": "deployment-server.tf", "status": "modified" },
+      { "filename": "deployment-worker.tf", "status": "modified" },
+      { "filename": ".env.test", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Merge branch 'main' into spfresh-metrics",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "segment-1757433233549050000.wal", "status": "added" },
+      { "filename": "segment-1757673130782244000.db", "status": "added" },
+      { "filename": "segment-1757496219190885000.wal", "status": "added" },
+      { "filename": "segment-1757605013813574000.db", "status": "added" },
+      { "filename": "segment-1757496896327170000.wal", "status": "added" },
+      { "filename": "segment-1757605006102787000.db", "status": "added" },
+      { "filename": "segment-1757433233551248000.wal", "status": "added" },
+      { "filename": "segment-1757496903516930000.wal", "status": "added" },
+      { "filename": "segment-1757605013811353000.db", "status": "added" },
+      { "filename": "segment-1757605013812425000.db", "status": "added" },
+      { "filename": "segment-1757496903517104000.wal", "status": "added" },
+      { "filename": "segment-1757605013813462000.db", "status": "added" },
+      { "filename": "segment-1757433233550212000.wal", "status": "added" },
+      { "filename": "segment-1757605013815208000.db", "status": "added" },
+      { "filename": "push_docker.sh", "status": "modified" },
+      { "filename": "run.sh", "status": "modified" }
+    ]
+  },
+  {
+    "message": "ci: consolidate Docker pipeline from 6 jobs to 1 and reduce runner usage (#9189)\n* ci,refactor: consolidate build-scan-push pipeline and reduce runner usage\n- Merge 6 separate jobs into single matrix-based Build-Scan-and-Push job\n- Eliminate duplicate Docker builds across separate runners\n- Preserve original security behavior for production vs PR builds\n- Reduce runner usage from 6 to 1-3 runners (50-83% reduction)\n- Add comprehensive pipeline reporting and status visibility\n- Improve matrix naming and organization across test jobs.\n* fix: remove dependencies\n* fix: use shorter name\n* fix: always generate the report\n* fix: simplify if condition\n* fix: rename step\n* fix: remove unnecessary outputs\n* fix: use gha cache in push docker\n* fix: make sure we use gha cache for docker builds\n* fix: mkdir before copy go-ego\n* fix: mkdir before copy go-ego\n* fix: cache and copy go-ego\n* fix: make sure we use buildkit for caching docker images\n* fix: use a test image\n* fix: temp change for docker build cache\n* Revert \"fix: temp change for docker build cache\"\nThis reverts commit 88de95881486455adf5b9d72ded7fef9c0981d01.\n* fix: cache go mod\n* fix: move apk add before copy for caching\n* fix: a few docker cache improvements\n* fix: temp change for docker build cache\n* Revert \"fix: temp change for docker build cache\"\nThis reverts commit 0f8513525b1748ef67d8f9c0f603a922d451bee5.\n* fix: reorder steps for better caching\n* fix: reorder steps for better caching\n* fix: improve some caching\n* fix: cache go module download\n* fix: use buildkit cache for go mod\n* fix: temp change for docker build cache\n* fix: cache go module download and compile artifacts\n* fix: pin alpine version for better cache usage\n* fix: cache go mod download layer in gha cache\n* fix: restore original code after temp change\n* nit: restore original\n* fix: improve caching andf add mnetadata to production builds\n* fix: disable cgo and get rid of unnecessary packages\n* fix: restore cgo enabled by default\n* fix: remove TARGETARCH and GOMODCACHE\n* fix: add back missing EXTRA_BUILD_ARGS\n* nit: improve comment\n* fix: add ARCH to have report by arch\n* fix: separate Generate-Docker-Report\n* fix: rename job to be consistent with other job names\n* Split Docker build into separate production and PR jobs\nReplace matrix strategy with job-level conditionals to prevent irrelevant\njobs from consuming runners. Maintains unified reporting and caching.\n* fix: rename job",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "push_docker.sh", "status": "modified" },
+      { "filename": "run.sh", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Merge branch 'main' into update-readme",
+    "files": [
+      { "filename": "PULL_REQUEST_TEMPLATE.md", "status": "modified" },
+      { "filename": "go.mod", "status": "modified" },
+      { "filename": "go.sum", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Merge pull request #8698 from weaviate/prepare-v1.26.18-release\nPrepare release v1.26.18",
+    "files": [
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "schema.json", "status": "modified" },
+      { "filename": "go.mod", "status": "modified" },
+      { "filename": "go.sum", "status": "modified" },
+      { "filename": "go.mod", "status": "modified" },
+      { "filename": "go.sum", "status": "modified" }
+    ]
+  },
+  {
+    "message": "Merge branch 'stable/v1.29' into feat_wal_reuse_128_2",
+    "files": [
+      { "filename": "push_docker.sh", "status": "modified" },
+      { "filename": "schema.json", "status": "modified" },
+      { "filename": "go.mod", "status": "modified" },
+      { "filename": "go.sum", "status": "modified" },
+      { "filename": "go.mod", "status": "modified" },
+      { "filename": "go.sum", "status": "modified" }
+    ]
+  },
+  {
+    "message": "fix: migrate dotnet from msft images to script install",
+    "files": [
+      { "filename": "DockerfileBackendTests", "status": "modified" },
+      { "filename": "DockerfileFull", "status": "modified" },
+      { "filename": "DockerfileFullEe", "status": "modified" },
+      { "filename": "DockerfileNsjail", "status": "modified" }
+    ]
+  },
+  {
+    "message": "fix: migrate dotnet from bitnami to microsoft images",
+    "files": [
+      { "filename": "DockerfileBackendTests", "status": "modified" },
+      { "filename": "DockerfileFull", "status": "modified" },
+      { "filename": "DockerfileFullEe", "status": "modified" },
+      { "filename": "DockerfileNsjail", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore(cli): better folder structure + add config utils (#6319)\n* organize in folders\n* add config command\n* fix\n* cleaning\n* move utility functions\n* merge\n* only show token with option\n* only show token with option\n* fix\n* remove config command\n* add config utils\n* change paths\n* nit\n* clean path assigner\n-\nCo-authored-by: Alexander Petric <alpetric@users.noreply.github.com>",
+    "files": [
+      { "filename": "change-versions-mac.sh", "status": "modified" },
+      { "filename": "change-versions.sh", "status": "modified" },
+      { "filename": "add-ts-ext.sh", "status": "added" },
+      { "filename": "build-mac.sh", "status": "modified" },
+      { "filename": "build.sh", "status": "modified" },
+      { "filename": "test.nu", "status": "modified" }
+    ]
+  },
+  {
+    "message": "build: combine build-pkgs*.sh into build.nu (#6231)\n* build: combine build-pkgs* into build.nu\nSigned-off-by: pyranota <pyra@duck.com>\n* nit refactor\nSigned-off-by: pyranota <pyra@duck.com>\n-\nSigned-off-by: pyranota <pyra@duck.com>",
+    "files": [
+      { "filename": "build-pkgs-cli.sh", "status": "removed" },
+      { "filename": "build-pkgs-mac.sh", "status": "removed" },
+      { "filename": "build-pkgs.sh", "status": "removed" },
+      { "filename": "test.nu", "status": "modified" }
+    ]
+  },
+  {
+    "message": "chore: upgrade bun to 1.2.18 (#6218)",
+    "files": [
+      { "filename": "DockerfileBackendTests", "status": "modified" },
+      { "filename": "Dockerfile", "status": "modified" },
+      { "filename": "DockerfileSlim", "status": "modified" },
+      { "filename": "DockerfileSlimEe", "status": "modified" }
+    ]
+  }
+]
